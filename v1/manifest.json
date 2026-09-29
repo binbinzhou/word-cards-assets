@@ -1,9 +1,9 @@
 {
   "version": "v1.0.0",
-  "generatedAt": "2026-09-29T09:53:47.755Z",
+  "generatedAt": "2026-09-29T10:35:15.099Z",
   "basePath": "v1",
   "fileCount": 181,
-  "totalBytes": 2297768,
+  "totalBytes": 3003585,
   "files": [
     {
       "path": "v1/audio/fruit/fruit_apple_en.mp3",
@@ -822,93 +822,93 @@
     },
     {
       "path": "v1/images/vegetables/01-carrot.png",
-      "bytes": 10046,
-      "sha256": "b88bcf1614ef0f3cd1e0bd4e72ff64f7b65cae627cdcfb0583a57a368e1884cf"
+      "bytes": 39760,
+      "sha256": "343952df48ed6e12c73484d035eaa6072e6fac378ab6156d634e7ceda1efc20e"
     },
     {
       "path": "v1/images/vegetables/02-broccoli.png",
-      "bytes": 12023,
-      "sha256": "e8b429bc75fea580e96b29365fc33182f26fb10c411b4126cbfa853de502b6e5"
+      "bytes": 61810,
+      "sha256": "f9f185efb10b8a9ee417bb625813af361abd6648eb47a0f39e5cec9f07c6d5a3"
     },
     {
       "path": "v1/images/vegetables/03-tomato.png",
-      "bytes": 11037,
-      "sha256": "930ad33186663cc530b0776abc6e02a11fa4114826bd629310dc6d90301cba06"
+      "bytes": 50255,
+      "sha256": "6e67efc136405e2912bfeafcb0256d47aa25790bf4b64764b902e9cca0d2240e"
     },
     {
       "path": "v1/images/vegetables/04-eggplant.png",
-      "bytes": 5855,
-      "sha256": "e42d1a4d4d9677d66a84b0a7d4c9f2df5ff90e1a7b00f0cdd90f1c38646b6c88"
+      "bytes": 36227,
+      "sha256": "c9a915a41573b1ecc85dbf858f1ebcab3a319a3d28630f11db9ecce7181108d3"
     },
     {
       "path": "v1/images/vegetables/05-potato.png",
-      "bytes": 8181,
-      "sha256": "56786e7243b046df359cc4025e5a8158937940631bb0f7e2e11d3b4063796ef0"
+      "bytes": 56322,
+      "sha256": "ec59f6c55aa34670134010b4fa5cada1faad0b9b0cbd1858a9479a2d1692c608"
     },
     {
       "path": "v1/images/vegetables/06-corn.png",
-      "bytes": 11873,
-      "sha256": "7590a67af6f9859974ffbcdd7d6903e3c32c8b80301588293364e0afb023931c"
+      "bytes": 56970,
+      "sha256": "bdedf201d228826fb4da8e5273c4ae38f81166264d71b9873343f2986bcb70e8"
     },
     {
       "path": "v1/images/vegetables/07-cucumber.png",
-      "bytes": 9653,
-      "sha256": "8e82e66a0fa7ccc7cdc629ab6f0a1b80656e3e253a212d8fd8492492226c87df"
+      "bytes": 52784,
+      "sha256": "8f575754409bfbba31e0e08af84c3aa77fc677556aa31c35b913a0af1b7dc4ee"
     },
     {
       "path": "v1/images/vegetables/08-bell-pepper.png",
-      "bytes": 11698,
-      "sha256": "1f1622ea8ea2e6677e318a30120e6b64ea2eab0450b2861426bf3a53e3932add"
+      "bytes": 32666,
+      "sha256": "711169622e0f610c2f5c13bd6c3fe2c8875a3062c944fccdd0d88dfed0f41f37"
     },
     {
       "path": "v1/images/vegetables/09-chili-pepper.png",
-      "bytes": 6345,
-      "sha256": "d170ec615a18760a43f63fb369e4c3bd4986bfb9345c22d6089dab6b50957462"
+      "bytes": 28133,
+      "sha256": "20174bbb1570d44a7372f73b3218eddd9e9556baaca73f74a1e051623eff2092"
     },
     {
       "path": "v1/images/vegetables/10-mushroom.png",
-      "bytes": 9902,
-      "sha256": "1b6ce17628cd623011b48e1ba8718a283cbbe3a01f189739da624fbd87476a5b"
+      "bytes": 57633,
+      "sha256": "e7303b716e8423f567f558709c10d69ca7d834f58cf18015c4ef1d7df69432fa"
     },
     {
       "path": "v1/images/vegetables/11-onion.png",
-      "bytes": 10413,
-      "sha256": "b237d058b39ed4691ea51a03858c0342c8f998db3d11016cdfb9cce65442873c"
+      "bytes": 49587,
+      "sha256": "263915f498ff82761a89a7018a01e9d2fa559ead441eba8f1e7fb3be58d67eaa"
     },
     {
       "path": "v1/images/vegetables/12-garlic.png",
-      "bytes": 9596,
-      "sha256": "16f6c210e4aa7407e3a8c7c3180b556b42923ea6acc420926b52378e700adb2d"
+      "bytes": 48732,
+      "sha256": "43e1ecd15b7757d18941ac1c8c3550860a6fc7fff73bcf7cef9ee5e9d57855c7"
     },
     {
       "path": "v1/images/vegetables/13-leafy-green.png",
-      "bytes": 14332,
-      "sha256": "65477841e0f3c694aca53ebab9a174209cd8390f9a3f6755133f06179e9ddd27"
+      "bytes": 63601,
+      "sha256": "4672ce284174a35489ba6fa9a1c409ca027e025a863da66a4d2e40682f9e4e73"
     },
     {
       "path": "v1/images/vegetables/14-pea-pod.png",
-      "bytes": 10415,
-      "sha256": "e08f060a223a4593c3cc63894e3df8882f4deea4f6b9d16684d9a5d75e268dfe"
+      "bytes": 45048,
+      "sha256": "58d957ddf3476284da5694b75f010d9cd0732d99e8dac39540feb18815bf1dc9"
     },
     {
       "path": "v1/images/vegetables/15-sweet-potato.png",
-      "bytes": 6417,
-      "sha256": "74eff4a387d5d92a50264fa0b8a695e7cdfeb1a84e8ea326249fbffaf6c10a2c"
+      "bytes": 51227,
+      "sha256": "d23c21dd8d2fd98a547c2d4e41036f9ca000968138a877854be50ec566b01183"
     },
     {
       "path": "v1/images/vegetables/16-beans.png",
-      "bytes": 9420,
-      "sha256": "f37fe15936f74b3dbbc0cf484034909776cbb5ec7067d81d8c65bfb461d784ec"
+      "bytes": 50510,
+      "sha256": "6aedd12ac71f1689c10a618a1b007ec1e671431e75032ac9a86f0f7472563417"
     },
     {
       "path": "v1/images/vegetables/17-ginger.png",
-      "bytes": 11950,
-      "sha256": "99392b6cc3f48679adc4c36d417fbbec4ef179f734f6d1c18b38efe2307ee684"
+      "bytes": 58754,
+      "sha256": "b3227fe462e3e89601a34d34334055139bc7c5deb4756bd495eac928ece91888"
     },
     {
       "path": "v1/images/vegetables/18-olive.png",
-      "bytes": 7956,
-      "sha256": "248fcb3deb2f5ac5dcc6ff48d86f5b3b94fb2878cd75d84345b73ed2ce5c0c41"
+      "bytes": 42910,
+      "sha256": "5c0e5ef4dace4f7a0a08ca1d6777e62e4a8fefefb31aac6dc4d275c9600e57c5"
     }
   ]
 }
