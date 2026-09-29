@@ -1,0 +1,914 @@
+{
+  "version": "v1.0.0",
+  "generatedAt": "2026-09-29T09:53:47.755Z",
+  "basePath": "v1",
+  "fileCount": 181,
+  "totalBytes": 2297768,
+  "files": [
+    {
+      "path": "v1/audio/fruit/fruit_apple_en.mp3",
+      "bytes": 2444,
+      "sha256": "6543b301b55059dc8bae72cfab931f7c02a45df971adf4f42e6e0ca67132d14a"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_apple_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "533b63ac7d08d9351c1146f03a352b1927a587149ce603e85cbac259df4cf58b"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_apple_zh.mp3",
+      "bytes": 3116,
+      "sha256": "4df559ebb3998460185cf6ccedf5b76c0d21c39c7b8c8be3dd655d2e50a78213"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_avocado_en.mp3",
+      "bytes": 3980,
+      "sha256": "d211ea87f494a6feebdbcb9b72c9dcb958edcf867190377b9f77e0d2f03e6835"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_avocado_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "8b9971a6e0dd6ee6ce016de378515b92641bf43193d863521e0efadd6ba2fe32"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_avocado_zh.mp3",
+      "bytes": 3788,
+      "sha256": "c865f64966a3b1d21ac13df9de08114ccba09957fe85538c9743b574cb82d041"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_banana_en.mp3",
+      "bytes": 3308,
+      "sha256": "f6b383c0314e64be6d37cfd6bdfe35df327bb801323303711ef89438a47a5a2d"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_banana_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "bd12fa122a09393e077dbead5796181a418ad8364e239732c3977b97d5603f61"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_banana_zh.mp3",
+      "bytes": 3020,
+      "sha256": "9f3762055224ec70e783a81bd7c3d4b6ce32588bd9e524bb69018a3620d6a7ef"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_blueberry_en.mp3",
+      "bytes": 3308,
+      "sha256": "77fe27fab3dd2041b4d6a84c4fba6ddd840df63e703e48dc7f1f3aec946141c9"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_blueberry_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "34ef800702dc22f6df925404129a0ff2768cf321cd868b4dafe9b78cde78c9d7"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_blueberry_zh.mp3",
+      "bytes": 2828,
+      "sha256": "64f6c9aeae49e2ab5f0dc7eb54e15ee42fdfd7a92baae8b76eb77fd21e96f0ce"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_cherry_en.mp3",
+      "bytes": 2636,
+      "sha256": "3aad5c9864512f1f75e370534489d8153c0c60c0f1b46233802525bf2e0f1dd3"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_cherry_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "dbaf104d1fec34a5a3c09b116d2aeea7c56af1ca23058982aaaf0e8c03f32d73"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_cherry_zh.mp3",
+      "bytes": 3020,
+      "sha256": "0f11c1eb0b77bccdec4537141613b7f9054c0242b4840530bebdcb8c651b254e"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_coconut_en.mp3",
+      "bytes": 3212,
+      "sha256": "0ac89f115ebe72ec5d39ff0e79ba031c1652ab52663ae3703d96c405b89fe6e0"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_coconut_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "08b57310aba6acce6bb23893cacd99d899d0266bdc347a9803e47972eec51607"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_coconut_zh.mp3",
+      "bytes": 2636,
+      "sha256": "e49213a71a34d4fe704e17fcaf2f00d92b0fb35e805d0694933291793a3e8a14"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_grape_en.mp3",
+      "bytes": 1868,
+      "sha256": "06e77efbb784c65a34b3dd112ede18159a74591ddd53387eb2b3253f4e83542f"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_grape_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "b8f06d3b459cd610513dede314ad21dea1f3942a0389c1bda8b1c109c380e558"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_grape_zh.mp3",
+      "bytes": 2828,
+      "sha256": "18ee02a340ed38efb4deaf099901128c02a1d734e9581cbb07ea2bfbdceb18d7"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_kiwi_en.mp3",
+      "bytes": 2540,
+      "sha256": "0c5d76c7cd6cd0333fec09c622483d0102ec0976948f1a5de29de9a684f88bf7"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_kiwi_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "7a907038ecbb21596da7a25a710a173aad4467d2c0ccd5964bf1c932ff47a9f9"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_kiwi_zh.mp3",
+      "bytes": 3500,
+      "sha256": "3c8f06c9cb836f0d0ea8cdc6609d6f9d251acaa3009aff9555340fa61e4f0a5a"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_lemon_en.mp3",
+      "bytes": 2732,
+      "sha256": "0047f56621cfc5dd02d4a1436557ae952991eec602f10ad51d6f68413c00a277"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_lemon_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "63c71807666f012382c8f53c7c56cca2440ba8a264639caa8b42cc3e0b7e5d3a"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_lemon_zh.mp3",
+      "bytes": 3020,
+      "sha256": "415b4f64d1e263d9d02bbd0c1b28369bfe8b36683b78ebb6feb351f3cf7f7c01"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_litchi_en.mp3",
+      "bytes": 9072,
+      "sha256": "719a2a4c70d849a0349c6418adc02df7333d048b55c1bee0cad2be4e07dc4f85"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_litchi_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "fe3f1b95cefc1ff05180e995a246c0fe4881eb75f842b11e281fd80c8853c50f"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_litchi_zh.mp3",
+      "bytes": 8784,
+      "sha256": "22a2849d9cd1f3ffc656ed3becc154d6c34c074c5a1192cffb911b01ce4c2bbe"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_mango_en.mp3",
+      "bytes": 3212,
+      "sha256": "87323c3d5c1b51a13656ba3e4e0d8b31087accc0842ca96df50a479a8a0771c9"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_mango_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "3e9539fdda13a3f786d84b0c07c231433b902514058aac5a2589f5346182e712"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_mango_zh.mp3",
+      "bytes": 2924,
+      "sha256": "2f9fb012b12c47ef0f4b1eae3fc1df7659847d87020b5b2255885ba586192357"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_melon_en.mp3",
+      "bytes": 2732,
+      "sha256": "228cc67b1f221e940976d29c9f9763f6888e153f39dcddfbf3c7f05d11a2ad15"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_melon_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "90f80b2c61468255fc643a401310522e175785cd1075e4243aa4d7ceabf5bef7"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_melon_zh.mp3",
+      "bytes": 3020,
+      "sha256": "15554316efc93dc4768ffb9322d20723ba64ecf6a530cf564cfcd957003f6ce4"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_orange_en.mp3",
+      "bytes": 3116,
+      "sha256": "b2e5b326411c8c024ecb00f081267ede791bd39979cf48b027f9cc221c5e27ca"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_orange_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "c1d6c915ec28128a811224c946f484927f3c3cfa35dd1be83309650fd9992f00"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_orange_zh.mp3",
+      "bytes": 2924,
+      "sha256": "4951731ba29321af81a488b8ddc2775cbc9613c932173828a656b33cba4e7580"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_papaya_en.mp3",
+      "bytes": 9648,
+      "sha256": "00dfe8cf6ae78d0333823d5c0215b378cf56f459da840201ad611d7d893f9aa8"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_papaya_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "4cd1212237d2b6b61a78166ceea9a08958f81743e9cd05c3a4a9353ab748cbfe"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_papaya_zh.mp3",
+      "bytes": 8640,
+      "sha256": "ba702b6196a2e3f15e3a0c6cb7e8413195a1065bd2b725b713246595f488ec07"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_peach_en.mp3",
+      "bytes": 2444,
+      "sha256": "26209710f5a57e7dc8e918f548f88e71d22d460ecf31f9743bd23371c337e14f"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_peach_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "8903f1c272df1f89c3cd96b3ce589492991ca231fd4279682956aee7968d3bbd"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_peach_zh.mp3",
+      "bytes": 2924,
+      "sha256": "c799f047cc66b6b350322a6b39b40edef4831747c29338e20990cda29015575c"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pear_en.mp3",
+      "bytes": 2156,
+      "sha256": "5b9fe0abadc57637069165c0a085bc45b9af97d59faa596aa3cbabe6578ce2e7"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pear_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "48d3c1c3cd4f9738e875d2d419b91b2e5264757479dad5766019e9d95884ac18"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pear_zh.mp3",
+      "bytes": 2924,
+      "sha256": "d018b667aba8433ce13269a5796f19257831f0bc4f67ec64332bb4af62903e55"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pineapple_en.mp3",
+      "bytes": 3404,
+      "sha256": "05a8af917f4e322ff6513ccc30b81b328fe28e619a0423fd5d3f7e0e209225dc"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pineapple_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "6d76c7c97053a4eaf4db2049cd47e3463ec6035c113c48fd08ac5af92175c2d2"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_pineapple_zh.mp3",
+      "bytes": 2732,
+      "sha256": "4715b290dd768926dc7a3addc0acb7cd257d43b9e217eeb1f09f82a48b0d1f53"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_strawberry_en.mp3",
+      "bytes": 3884,
+      "sha256": "fbb586fd36bd717ac7803af2f184927c29767fb92acb23a43d3cf73439e903ba"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_strawberry_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "2a0f3f870131920e974baf34d2a2a5ad77d5eba7c79707a17d96b507ffd20668"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_strawberry_zh.mp3",
+      "bytes": 2828,
+      "sha256": "12527dde3ca8e0dc3095e1c3380a51bb4fcdbb3fe11e4cf02a252651d77c48ce"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_tomato_en.mp3",
+      "bytes": 3308,
+      "sha256": "49a1eef9758605d9665baa8e7c71d2578056aa09356a6c29f45a4e31ae714944"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_tomato_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "0a41e000384c2b9c2b927b67c7e051cb6ad8f0c944342b2251cd8050b460b4c4"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_tomato_zh.mp3",
+      "bytes": 3116,
+      "sha256": "1858da5dd99f31052b58365dcc67c6e2a0aa766412d4574c312cbcf77d2e8d37"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_watermelon_en.mp3",
+      "bytes": 4172,
+      "sha256": "96592671d6007d6f90df863661b1c36b69228521555556a67e9c6b1c9002a897"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_watermelon_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "19c6c2d4485405ab3b3aad2533539f910c64c6d611f5c92fef6b42dbe5ffb8c8"
+    },
+    {
+      "path": "v1/audio/fruit/fruit_watermelon_zh.mp3",
+      "bytes": 2828,
+      "sha256": "cb5436cf64888f7f375217e23c4a41b8fa1c595a42488278c89f1c09f9dfe153"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_beans_en.mp3",
+      "bytes": 10800,
+      "sha256": "a575d477487a819c02fcf891e3735e3218beb80282b89274da7e17023c72c831"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_beans_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "2c6932dd3164d0acbd4505607140bce6ba9482dcb522b506d022c8992fcbd3fc"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_beans_zh.mp3",
+      "bytes": 7920,
+      "sha256": "fbb86cc47e28dd8030f17716b1a9198827a44fa1854b677f8ff0124d9ffa1fca"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_bell_pepper_en.mp3",
+      "bytes": 12096,
+      "sha256": "a017a5846949e1e18b3063c341511c78f0ce23b4964d3232b465493fc1d8c0cf"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_bell_pepper_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "78a2bf37d08068fbfedf5384058558e1d64014abfaa5973c5244cccd67f9d8c7"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_bell_pepper_zh.mp3",
+      "bytes": 8208,
+      "sha256": "89233492053e2bfc2ce6cd202d6a558877b98ddd07c67f3f15bdc70d1ee11700"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_broccoli_en.mp3",
+      "bytes": 10944,
+      "sha256": "77b497d8ae3f77e429178eefad9a448f2334ed76124a211207d24bbbdf64b250"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_broccoli_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "b0e20c8daa61f1400ca0e43c7a9469d410ca6d0a8b3525e5555f6235d8d63ee3"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_broccoli_zh.mp3",
+      "bytes": 9072,
+      "sha256": "965bc57305747cac9fdd990a7ba64cb30d81849612d7d4d72356865bf3fb91da"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_carrot_en.mp3",
+      "bytes": 10224,
+      "sha256": "c5e95c70c84c17506dae701d9d9ffd6e76e03203e7772373606fbaed98fdf664"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_carrot_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "8cb1d0e70a5fcad472ce6bc0af24d08e6c7e643d8aa1dca8c5e5c480aaeb69ac"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_carrot_zh.mp3",
+      "bytes": 9072,
+      "sha256": "0bfb1f96d5db3444ccf5d9e8d28148299eb9925dc73175902e7dc005fd881e38"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_chili_pepper_en.mp3",
+      "bytes": 12672,
+      "sha256": "381d693d5bcf15ff9f11c1d84eadf9e73990504eecc79851fffc4cc3dbde2fff"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_chili_pepper_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "1006962b698fa81ef8cc9acb7f5a33457217c1ef2d2d7d11859b783c44696896"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_chili_pepper_zh.mp3",
+      "bytes": 8064,
+      "sha256": "70e41e6b14ea069bb0ed54195972b9f97c5580515d0ecc4280d273a8f8ccfeb1"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_corn_en.mp3",
+      "bytes": 9936,
+      "sha256": "15026a6d99aa390ac1696ab6c3b5d0b5a6853c72289119b6830756cc1ee7ecaa"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_corn_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "2e8b33a012e45e7640a4f4559965b99b891b03aec5c27154fbb2722413c4c109"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_corn_zh.mp3",
+      "bytes": 7776,
+      "sha256": "19ea5e985e875b3c4722e6710529966723aba92c8853bc958aefd06e59027c40"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_cucumber_en.mp3",
+      "bytes": 11664,
+      "sha256": "858d144bbddd6791677a308a2d78a46f2a60ff383420d03b37658fd6a730cd3f"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_cucumber_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "d9b0dbacea3449cd07d24fdbbc016aec114c81a5e03140706c4d9936e732dda6"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_cucumber_zh.mp3",
+      "bytes": 8064,
+      "sha256": "7189e930f65b9eb3b237419f0ea797c52b7d72d4009fb25ca697701104a55a02"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_eggplant_en.mp3",
+      "bytes": 11664,
+      "sha256": "8179a1b4e4fc493760bb5e0d6c8f2c8dac697072577d6b2de3c28b98574e43ce"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_eggplant_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "61b34e1b8b1d41df93f0e89fb760536f0c5b34217850f48510d4377d15d3e43e"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_eggplant_zh.mp3",
+      "bytes": 8064,
+      "sha256": "2075cc255886e300a789aca496f1306c8db4fdb793ac309a7558755433e7ee34"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_garlic_en.mp3",
+      "bytes": 10656,
+      "sha256": "272f662d6bd9c357eec7a80cf58386359e518557e3e975cb064e27234c1b92c9"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_garlic_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "38fab20d099f97e0021775974a0a9dc033f3faa093994381c8ca25600d92e03b"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_garlic_zh.mp3",
+      "bytes": 8064,
+      "sha256": "84a69c2bec05b76b463bc1cc33c001dba029898e21f4770205e0bac2b71d1888"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_ginger_en.mp3",
+      "bytes": 10656,
+      "sha256": "d26ea495a8f029475f51a72686087455f02550711d63acde6abb6704ba0471e3"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_ginger_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "abddcdfa1c4a787ed2894163fffaa171325db32271f61963c3bed81612271efb"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_ginger_zh.mp3",
+      "bytes": 8352,
+      "sha256": "2d9130580709a147e6049552d60a7754a4e09fc89f1884ac73fd3da127c945a9"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_leafy_green_en.mp3",
+      "bytes": 12960,
+      "sha256": "fdd80e6ef88bfc84f77e7aaa9367f80db5bddf471840ebe42d1a1a0039029f68"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_leafy_green_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "44ba481279c3be1436abfd0b45ffe4ea8ac3f5171dc63b12184a569028397840"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_leafy_green_zh.mp3",
+      "bytes": 8928,
+      "sha256": "7d31cd9b9fb5012d964e83ca9ba66e64d86efa7b8b5c2d5a5688d7e29af15b04"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_mushroom_en.mp3",
+      "bytes": 11376,
+      "sha256": "07bc9843a7a8c228a68d8d6a73c1a0c5e7746cbbca1d41361770819803030a6d"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_mushroom_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "3cd5b92af39b3befb6487b453f33ce32385016ab8c7947883e98636f69a18c6a"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_mushroom_zh.mp3",
+      "bytes": 7488,
+      "sha256": "a3f5af64c01bd7b5c3a908f1d9c08a17125950191544e7e44861073897470b18"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_olive_en.mp3",
+      "bytes": 9936,
+      "sha256": "f2e5f8dc93f08f9170c6c25ac469ef285a742446ec8e4341ff91331b6d50a7b7"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_olive_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "03b52b432a0533ffe08d64c8464e256e61082452f73e0d1f81964f8ee4f277e2"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_olive_zh.mp3",
+      "bytes": 7920,
+      "sha256": "28d5356d84e579eb132dcb42790ade77bc705d5f57fae1b1925dcafc343acb08"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_onion_en.mp3",
+      "bytes": 9936,
+      "sha256": "a7b7644b4ce83c09aec694aa168888bc063b558e9eec9eeca1c353fe69b97f84"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_onion_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "819632b3bcb1fb06f43e179f23f49efad8a5a794cf89bba428368ff1c0c79103"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_onion_zh.mp3",
+      "bytes": 8064,
+      "sha256": "514543c45cd7573da625ff482ddcd68c76566fb4afd69ccb4a784d674a220776"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_pea_pod_en.mp3",
+      "bytes": 11232,
+      "sha256": "e9ec01c92eec9adc2c9c2d03822f4ea6c439ae1029436fb22983b0cdda934d29"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_pea_pod_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "015af72f2f4d8a54d0cce405df7b417dd19b9bd73a7cae30c2154325d9d0ecd5"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_pea_pod_zh.mp3",
+      "bytes": 9072,
+      "sha256": "51f39677131490714833b21cd30b23c6bf0068ade2aba6f19c860ec05c361096"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_potato_en.mp3",
+      "bytes": 11232,
+      "sha256": "b2687f4d3e867f0281d19d75a3c45ae5558b3646e27dc5a6e6473e9ab3e59a05"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_potato_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "bfdbd366b824f1abea08883a41d2e810741c4982517b60959b86ffa3fb5a4b14"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_potato_zh.mp3",
+      "bytes": 8064,
+      "sha256": "52457fb824c0f4d205b8baa33cd93ce1376b5164e051a19f0334485fc770d40f"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_sweet_potato_en.mp3",
+      "bytes": 13824,
+      "sha256": "8e8fb95d55169d3e15fa24abc8eb98ff4834ba3c41f2379032b2ba4ce947e28e"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_sweet_potato_en_female.mp3",
+      "bytes": 12384,
+      "sha256": "6a712c37f7a5a4d123c34b71bcaf21141f6b3df07668c4b33d0fa0861f6d7557"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_sweet_potato_zh.mp3",
+      "bytes": 8352,
+      "sha256": "5bbca281793996a0401e90dccacd65e0bd1d45cde28867f56d7fb4800e12e3cf"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_tomato_en.mp3",
+      "bytes": 10944,
+      "sha256": "1f5ba168b0a4dfed9db465aed3ad7110b8e8f198a501a996f1b93c1c5ed58fa6"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_tomato_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "0b8d688d7ce7c9b6abc9acc7ebd45050479d38e364f1a6c659e36d6f75177d64"
+    },
+    {
+      "path": "v1/audio/vegetables/vegetables_tomato_zh.mp3",
+      "bytes": 8640,
+      "sha256": "e4d7bed5f09baababd5d483ede56fc85d1b2792b47a3759c6093a6fd1b4a9c5d"
+    },
+    {
+      "path": "v1/images/categories/abc.jpg",
+      "bytes": 5405,
+      "sha256": "b3831cddcbd30be5a46baafe11e110acc04199ac6545cbebc26c45129972edbd"
+    },
+    {
+      "path": "v1/images/categories/birds.jpg",
+      "bytes": 7421,
+      "sha256": "efb78409a2c72378c2940be4cb973a01d1ae5ad4e29f20d0d57eb993b677e212"
+    },
+    {
+      "path": "v1/images/categories/body.jpg",
+      "bytes": 3063,
+      "sha256": "95b41f0961ef9f323d5037c38f9a03de337cddb14530c5067b7de87b5c7a38d9"
+    },
+    {
+      "path": "v1/images/categories/clothes.jpg",
+      "bytes": 9350,
+      "sha256": "3d2275b2ee91ca34ec28d0367034d5c78372d4221d618a6afe14dea1a54eed21"
+    },
+    {
+      "path": "v1/images/categories/color.jpg",
+      "bytes": 7588,
+      "sha256": "aaddc9889b3dbaa3e092cd7a36322863b8b6c0b6ebd5eb68bab70cceb9c0de58"
+    },
+    {
+      "path": "v1/images/categories/country.jpg",
+      "bytes": 7113,
+      "sha256": "6de25308568a9659504d703e08e37860c1249bf2799d2fa18555b0ac76cca3b3"
+    },
+    {
+      "path": "v1/images/categories/dinosaur.jpg",
+      "bytes": 8698,
+      "sha256": "5caea857675d97285d3df9599f02f2f5fb9b7f6c5a9c1962ab6351b82471ba3e"
+    },
+    {
+      "path": "v1/images/categories/drinks.jpg",
+      "bytes": 7024,
+      "sha256": "c439689298ef205a1f078a32db86f6c6831b34ca505ec1a3a6e0b87f20d473c4"
+    },
+    {
+      "path": "v1/images/categories/farm_animals.jpg",
+      "bytes": 9739,
+      "sha256": "3565566c5911be8640f9e42b166828d5b61ec3b75d9b6a7791ad82921575b4ee"
+    },
+    {
+      "path": "v1/images/categories/food.jpg",
+      "bytes": 21168,
+      "sha256": "ffee0d88564472ac8151bcb9a9631c684e0e5eaead3010a11634fa9ab9159a51"
+    },
+    {
+      "path": "v1/images/categories/fruit.jpg",
+      "bytes": 17468,
+      "sha256": "5b40668967b9f94155fd201d6622a37538252b3cf9aaf1cad8c221c576c483e2"
+    },
+    {
+      "path": "v1/images/categories/furniture.jpg",
+      "bytes": 7926,
+      "sha256": "a8cce4935623f0b7eca15a2f8c246e76c9b0cde8bbd239f79e4213148492db90"
+    },
+    {
+      "path": "v1/images/categories/insects.jpg",
+      "bytes": 11341,
+      "sha256": "60161db99c26d93f34460ce2df73ac573285604cf6c36b992871e1a267ae8378"
+    },
+    {
+      "path": "v1/images/categories/movement.jpg",
+      "bytes": 5051,
+      "sha256": "327da160cee79662398d51ca1564cc799664a4e93b6e58550c180ea1cc3812c2"
+    },
+    {
+      "path": "v1/images/categories/number.jpg",
+      "bytes": 12044,
+      "sha256": "c5906a230ead21c795fe4397a060af9bf55969977c06d13d2e1821e8d49ba232"
+    },
+    {
+      "path": "v1/images/categories/profession.jpg",
+      "bytes": 6861,
+      "sha256": "6e0e15010e4ca0707e9da7d7b605f53f64f618bc92cd3a558a649b49fadd039b"
+    },
+    {
+      "path": "v1/images/categories/relation.jpg",
+      "bytes": 11674,
+      "sha256": "d5574a5a63399d7a65c92b108c5dd30b5be1eb7a28aaa9ca2d2d4c14655fb03c"
+    },
+    {
+      "path": "v1/images/categories/scenery.jpg",
+      "bytes": 15766,
+      "sha256": "f17a2beabf8726de7f13107a98a5261910e9c6c38a3dee24a696e083e464b57e"
+    },
+    {
+      "path": "v1/images/categories/sea_animals.jpg",
+      "bytes": 10452,
+      "sha256": "e8c88811d0929523e4f5422ef5a2dedd0cd2752ec6348aee51d5b3a1f930870d"
+    },
+    {
+      "path": "v1/images/categories/site.jpg",
+      "bytes": 11582,
+      "sha256": "70171e040890fd8891145dbba6f2bf206b4f04b15d63f32b9f60358fda26e78f"
+    },
+    {
+      "path": "v1/images/categories/sports.jpg",
+      "bytes": 9328,
+      "sha256": "91e223624665cacfe7b25e2fcf77bd1b0e01583202d8273574641b04af1fa83c"
+    },
+    {
+      "path": "v1/images/categories/stationery.jpg",
+      "bytes": 7955,
+      "sha256": "f4cd524b27769914fe1ebf0fc5b727f46f5f1daef1f17f0449f489b46934e5e3"
+    },
+    {
+      "path": "v1/images/categories/tableware.jpg",
+      "bytes": 5178,
+      "sha256": "3d52029a1258bdbf98e801ba144573f440a8e8775fcc510b554e06481eb93405"
+    },
+    {
+      "path": "v1/images/categories/time.jpg",
+      "bytes": 5200,
+      "sha256": "67730df3548c423226369abbba3a27bd1b35c863cc20a2ce88b8f87849748d16"
+    },
+    {
+      "path": "v1/images/categories/transport.jpg",
+      "bytes": 7060,
+      "sha256": "1ce47b5a9fb706a625380021ff5377a373d97712063675c2e7c2ac86c4d71b6e"
+    },
+    {
+      "path": "v1/images/categories/trucks.jpg",
+      "bytes": 13654,
+      "sha256": "a6e72122f7c578fc36503120cce6cb5bd96714ff88e939c52965d32d5cc61207"
+    },
+    {
+      "path": "v1/images/categories/vegetables.jpg",
+      "bytes": 18920,
+      "sha256": "24f976c0c15a8365e4866c2f16c5f6623940ec21706d0acca261f2f8c4738f50"
+    },
+    {
+      "path": "v1/images/categories/weather.jpg",
+      "bytes": 10182,
+      "sha256": "1136474d02824b1d3657bc40b1df7066ebb51b86d468e152386f62a55d5c1953"
+    },
+    {
+      "path": "v1/images/categories/wild_animals.jpg",
+      "bytes": 14334,
+      "sha256": "79ee73300ed39935199037135f40993afbf3ea2604b638504ce4b29d2b69a4d9"
+    },
+    {
+      "path": "v1/images/fruit/01-cherry.png",
+      "bytes": 41091,
+      "sha256": "077d8fba4e47c8460fa993cd627bf14a78c4e9163c7422cdb835dad302366375"
+    },
+    {
+      "path": "v1/images/fruit/02-banana.png",
+      "bytes": 26215,
+      "sha256": "2941b0ecb22aeae33ab27f41f7cff79cd33d3452034e98574d6a6472a8ee5ec5"
+    },
+    {
+      "path": "v1/images/fruit/03-orange.png",
+      "bytes": 56985,
+      "sha256": "0098e0a039e24883ea666276d92103e5c9a321f541d33f7ebce4fe7836fb24cf"
+    },
+    {
+      "path": "v1/images/fruit/04-strawberry.png",
+      "bytes": 60231,
+      "sha256": "a40c31be2499182b37f4283dbb8779050022af1528eccdaf90bff81594aa3296"
+    },
+    {
+      "path": "v1/images/fruit/05-pineapple.png",
+      "bytes": 48929,
+      "sha256": "9037695e43b3b86511744667c385aa82bb919cc06c2e8ad9a3e82a4d97b9f6ba"
+    },
+    {
+      "path": "v1/images/fruit/06-apple.png",
+      "bytes": 44023,
+      "sha256": "e759e5b02672087239e43776f18f53e4280e9c62c192194291031c530d977a92"
+    },
+    {
+      "path": "v1/images/fruit/07-blueberry.png",
+      "bytes": 53866,
+      "sha256": "854ba2fab13256fd369ebc965eb7c6ec04c52b768c307b2e0add19c7b471fda4"
+    },
+    {
+      "path": "v1/images/fruit/08-grape.png",
+      "bytes": 50592,
+      "sha256": "cd1d4f0e76ddb8926b31f7fbfa32f2d7427c02a4b1e36be1ccb16dd049b2eacd"
+    },
+    {
+      "path": "v1/images/fruit/09-mango.png",
+      "bytes": 45816,
+      "sha256": "ac2b99205781aba122a15c405fdfe1cd1384f8ae4f7ad7681f4d43931f719d03"
+    },
+    {
+      "path": "v1/images/fruit/10-pear.png",
+      "bytes": 40445,
+      "sha256": "55b4067643618d39e3904099c8fc4011afb8fd099112468851099a875a195bad"
+    },
+    {
+      "path": "v1/images/fruit/11-kiwi.png",
+      "bytes": 48426,
+      "sha256": "f221d3bb882be1fa056b7dab6d2ee7ffd110c9b672871e7569f7e551d9b7d4bd"
+    },
+    {
+      "path": "v1/images/fruit/12-peach.png",
+      "bytes": 55196,
+      "sha256": "316253695df59f4de51c62f5e700eaca819c7e37c91bc9b17736201ae182e93c"
+    },
+    {
+      "path": "v1/images/fruit/13-lemon.png",
+      "bytes": 40586,
+      "sha256": "811a33833f12e7f2b321920831ceebcd37e25a882912efe77c6fc5e747eb59be"
+    },
+    {
+      "path": "v1/images/fruit/14-watermelon.png",
+      "bytes": 60637,
+      "sha256": "12a0db90136579a26a998280533a5f04af88a4f6e260ea55f7c1c1e04b09f97f"
+    },
+    {
+      "path": "v1/images/fruit/15-melon.png",
+      "bytes": 60910,
+      "sha256": "71afd8fc5efd2f6d1b2259b1ea28d8a686fad19f42e0647aa67934e6275229b7"
+    },
+    {
+      "path": "v1/images/fruit/16-coconut.png",
+      "bytes": 50023,
+      "sha256": "10e6aea53cbcb8a3a78d16541bf35cdbca77af865b9531a9bfb52c3a6dba3ea9"
+    },
+    {
+      "path": "v1/images/fruit/17-avocado.png",
+      "bytes": 53048,
+      "sha256": "a6d476388413c3dbce3a6c17f0ad139cb840a4fa841aa65399d3ebf81294ef51"
+    },
+    {
+      "path": "v1/images/fruit/18-tomato.png",
+      "bytes": 32878,
+      "sha256": "5025bdb33b54b73d505549611b05768569a9f13c65c4fe2c5de61feb7094a87e"
+    },
+    {
+      "path": "v1/images/fruit/19-litchi.png",
+      "bytes": 42959,
+      "sha256": "f8dacf6c0a2b640faeb25e9b50325956ebab252c9582996d70501356ca2d1a4e"
+    },
+    {
+      "path": "v1/images/fruit/20-papaya.png",
+      "bytes": 42007,
+      "sha256": "083fa8699bada9732052f2000ca6100f783fd68537c2f4e215df641082b4e47f"
+    },
+    {
+      "path": "v1/images/vegetables/01-carrot.png",
+      "bytes": 10046,
+      "sha256": "b88bcf1614ef0f3cd1e0bd4e72ff64f7b65cae627cdcfb0583a57a368e1884cf"
+    },
+    {
+      "path": "v1/images/vegetables/02-broccoli.png",
+      "bytes": 12023,
+      "sha256": "e8b429bc75fea580e96b29365fc33182f26fb10c411b4126cbfa853de502b6e5"
+    },
+    {
+      "path": "v1/images/vegetables/03-tomato.png",
+      "bytes": 11037,
+      "sha256": "930ad33186663cc530b0776abc6e02a11fa4114826bd629310dc6d90301cba06"
+    },
+    {
+      "path": "v1/images/vegetables/04-eggplant.png",
+      "bytes": 5855,
+      "sha256": "e42d1a4d4d9677d66a84b0a7d4c9f2df5ff90e1a7b00f0cdd90f1c38646b6c88"
+    },
+    {
+      "path": "v1/images/vegetables/05-potato.png",
+      "bytes": 8181,
+      "sha256": "56786e7243b046df359cc4025e5a8158937940631bb0f7e2e11d3b4063796ef0"
+    },
+    {
+      "path": "v1/images/vegetables/06-corn.png",
+      "bytes": 11873,
+      "sha256": "7590a67af6f9859974ffbcdd7d6903e3c32c8b80301588293364e0afb023931c"
+    },
+    {
+      "path": "v1/images/vegetables/07-cucumber.png",
+      "bytes": 9653,
+      "sha256": "8e82e66a0fa7ccc7cdc629ab6f0a1b80656e3e253a212d8fd8492492226c87df"
+    },
+    {
+      "path": "v1/images/vegetables/08-bell-pepper.png",
+      "bytes": 11698,
+      "sha256": "1f1622ea8ea2e6677e318a30120e6b64ea2eab0450b2861426bf3a53e3932add"
+    },
+    {
+      "path": "v1/images/vegetables/09-chili-pepper.png",
+      "bytes": 6345,
+      "sha256": "d170ec615a18760a43f63fb369e4c3bd4986bfb9345c22d6089dab6b50957462"
+    },
+    {
+      "path": "v1/images/vegetables/10-mushroom.png",
+      "bytes": 9902,
+      "sha256": "1b6ce17628cd623011b48e1ba8718a283cbbe3a01f189739da624fbd87476a5b"
+    },
+    {
+      "path": "v1/images/vegetables/11-onion.png",
+      "bytes": 10413,
+      "sha256": "b237d058b39ed4691ea51a03858c0342c8f998db3d11016cdfb9cce65442873c"
+    },
+    {
+      "path": "v1/images/vegetables/12-garlic.png",
+      "bytes": 9596,
+      "sha256": "16f6c210e4aa7407e3a8c7c3180b556b42923ea6acc420926b52378e700adb2d"
+    },
+    {
+      "path": "v1/images/vegetables/13-leafy-green.png",
+      "bytes": 14332,
+      "sha256": "65477841e0f3c694aca53ebab9a174209cd8390f9a3f6755133f06179e9ddd27"
+    },
+    {
+      "path": "v1/images/vegetables/14-pea-pod.png",
+      "bytes": 10415,
+      "sha256": "e08f060a223a4593c3cc63894e3df8882f4deea4f6b9d16684d9a5d75e268dfe"
+    },
+    {
+      "path": "v1/images/vegetables/15-sweet-potato.png",
+      "bytes": 6417,
+      "sha256": "74eff4a387d5d92a50264fa0b8a695e7cdfeb1a84e8ea326249fbffaf6c10a2c"
+    },
+    {
+      "path": "v1/images/vegetables/16-beans.png",
+      "bytes": 9420,
+      "sha256": "f37fe15936f74b3dbbc0cf484034909776cbb5ec7067d81d8c65bfb461d784ec"
+    },
+    {
+      "path": "v1/images/vegetables/17-ginger.png",
+      "bytes": 11950,
+      "sha256": "99392b6cc3f48679adc4c36d417fbbec4ef179f734f6d1c18b38efe2307ee684"
+    },
+    {
+      "path": "v1/images/vegetables/18-olive.png",
+      "bytes": 7956,
+      "sha256": "248fcb3deb2f5ac5dcc6ff48d86f5b3b94fb2878cd75d84345b73ed2ce5c0c41"
+    }
+  ]
+}
