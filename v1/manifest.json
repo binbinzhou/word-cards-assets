@@ -1,9 +1,9 @@
 {
-  "version": "v1.7.0",
-  "generatedAt": "2026-09-30T10:46:06.115Z",
+  "version": "v1.8.0",
+  "generatedAt": "2026-09-30T12:49:19.856Z",
   "basePath": "v1",
-  "fileCount": 3099,
-  "totalBytes": 55559402,
+  "fileCount": 3199,
+  "totalBytes": 58002865,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -9411,6 +9411,381 @@
       "sha256": "ce1519198e0a053a9a2284e39b01185777ad9afe3123753358515210beae0639"
     },
     {
+      "path": "v1/audio/talk/phrase_classroom/listen_en.mp3",
+      "bytes": 11088,
+      "sha256": "8a6c06bbb4e56c2dc21d5a8ada0c02e7d438ca0474df4c0b3fd145e491dc16d9"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/listen_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "0567e62161dbd8d1eeff45e2a233817a15f15625a602660ebce98bc1e3e04862"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/listen_zh.mp3",
+      "bytes": 6624,
+      "sha256": "62d966906a963afa10b5e982be68f88139c7c2f7dc8e48d896ab5dbb6fb7ca95"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/look_en.mp3",
+      "bytes": 9792,
+      "sha256": "0e43f16047eac7b892259b16427bdc2b8db538e6e87b2abe9d4e7a361cfef759"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/look_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "30aafe0398668b0c0beef6446896e44de7184ba486da9640679a3b1f14b9a28b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/look_zh.mp3",
+      "bytes": 6768,
+      "sha256": "1a391f511337a842dfaf64daa37d9ee58dceabce3fb8639c79902c6396551a62"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/may-i-go-to-the-toilet_en.mp3",
+      "bytes": 16704,
+      "sha256": "267923bc566691469463aaf73c2a46424465c33f8622561e249d811ea48e015f"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/may-i-go-to-the-toilet_en_female.mp3",
+      "bytes": 13968,
+      "sha256": "139c0ffa9efb13eb48dd3c0a1e3b240e5d9d6dc6320ed50f87626b75dcd2c184"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/may-i-go-to-the-toilet_zh.mp3",
+      "bytes": 13536,
+      "sha256": "a7f478797f1a0fa6f44c0e4732faf0b4132501a0b158786151162acc044ad228"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/raise-your-hand_en.mp3",
+      "bytes": 14544,
+      "sha256": "522a1fcb0b12dded434d1b4de65574fb7ef53de04d436cc9886cb9c3e3fd08c5"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/raise-your-hand_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "4cf0f422519702ee4fdb8f9e4b8545a61da835f5d1487975b136254d362ccc60"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/raise-your-hand_zh.mp3",
+      "bytes": 8208,
+      "sha256": "c2969ca581ab5df35a1337dcb898fdf6a87f005e0ebb19797d328bf39aa46a74"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/sit-down_en.mp3",
+      "bytes": 12672,
+      "sha256": "81e7b59846b1525f6b3fc686cc446f40980b9f856956feb42f6c66d539fc422d"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/sit-down_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "154eeefd81836c616687b54be4d751a8c28797240a4eb584b2c3b8fb1bbcaa12"
+    },
+    {
+      "path": "v1/audio/talk/phrase_classroom/sit-down_zh.mp3",
+      "bytes": 7920,
+      "sha256": "89336e4bb9829f51ab16f2dc96da0c22791900a687a4ee7ccb639870c6dd1bc4"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-afternoon_en.mp3",
+      "bytes": 13536,
+      "sha256": "3afb8e37de4eb00d2d0844947cb32f679885f1bcb6e9d52a95d19f8f7d266747"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-afternoon_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "d0ade835116f6c25675878acc75ee2a6b0a3278698a3a7eec2ed3c8a9a3f5782"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-afternoon_zh.mp3",
+      "bytes": 9072,
+      "sha256": "01b451ea9dc1e407c5ac41119b8f70f6a6323f28e5af2f709e153b390cddb012"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-morning_en.mp3",
+      "bytes": 12384,
+      "sha256": "bfc757c711e8535e7dd3495ebb2866e13f03565be1dcd343c011f955410a9faa"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-morning_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "a9abaf36399a266fb25fab60f829014e46b6824a71c872d152806a3902d1ffc7"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-morning_zh.mp3",
+      "bytes": 8928,
+      "sha256": "2627a5e619f9689c21bc85ed4c9e37e7776849a25dae3eddb8bd7317effbad49"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-night_en.mp3",
+      "bytes": 11232,
+      "sha256": "021ef3c5910fbc0ede5a2aa4f2b0c9fabba4669f8048834372fbd161a5c48158"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-night_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "fc3956405ad1bcb51c5ff11fd01a9b3cc2926c4979522b4e54c76f36993ce3b7"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/good-night_zh.mp3",
+      "bytes": 7488,
+      "sha256": "e82f11045aa6dfe36f51cad3abc4a72493634a32de88f4425e9de8e4c144013b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/goodbye_en.mp3",
+      "bytes": 10656,
+      "sha256": "6c6bae5a653ea1b557de104a0fa0a4e5d2654144cb8e09afd3be9b4415951f2a"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/goodbye_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "ac2883a66fab7609bd0d9b64693d1eadd01413e94c1ae27c95043555d387cd9b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/goodbye_zh.mp3",
+      "bytes": 7776,
+      "sha256": "3f8785dfbf5cee2f7a6466c1e1249034b768e1a3e298069641fe6bca8e836686"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/hello_en.mp3",
+      "bytes": 10368,
+      "sha256": "de7d97a3e0ccee69a5065ed7adfff7373370f2b62fe1f817cf74495545c6fe95"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/hello_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "0b9dba3ec6fb6aa810b7dd922f30e6d7db896b9334fb860ac336e844a37d3028"
+    },
+    {
+      "path": "v1/audio/talk/phrase_greetings/hello_zh.mp3",
+      "bytes": 7488,
+      "sha256": "9f416d66ffb5a8e50e730c7546f4a7235a1c4eb129c882022732011dcb41537e"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/can-i-have-water_en.mp3",
+      "bytes": 14400,
+      "sha256": "41727927024cdbec04ecd9b4d51ffe9f34f1381db7cf78567c47382ec805165c"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/can-i-have-water_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "887c3de4e5e86355db7f3ac362c39fc897f0741a33039a8c839fc2f134558841"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/can-i-have-water_zh.mp3",
+      "bytes": 11808,
+      "sha256": "0d4d18e1ee9feab5db0507f9c884b4d7f6fb4572f95b1f61506130291c97a4b2"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-need-help_en.mp3",
+      "bytes": 13536,
+      "sha256": "c4d0db63588213be24e4d97bb0da881d380aaef3d907883849adbcbc6cfa62d0"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-need-help_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "92a574319d94579e2498622428ac3387c139b72cf5c2a3b474f72ecb546dbd89"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-need-help_zh.mp3",
+      "bytes": 10656,
+      "sha256": "6842bb7a6e890af3bc7e41d631ba37b37ccfa459f8273ab76a9e81699afbc1ed"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-want-to-go-home_en.mp3",
+      "bytes": 15552,
+      "sha256": "7248bca06f0c6373a3eadc7ee1dee2ababadac5d50e391fcafd8bec3558f2e7a"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-want-to-go-home_en_female.mp3",
+      "bytes": 12960,
+      "sha256": "96b78b3e088773ead32a5657667b6157fca284e137d5fbd6d694a1a8e65c72fc"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/i-want-to-go-home_zh.mp3",
+      "bytes": 9792,
+      "sha256": "9d593edc66e98aafd38922b44e3e91921303d4acda50e0aadb4b0a415b01006a"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-hungry_en.mp3",
+      "bytes": 12960,
+      "sha256": "a3a79ab6892e0c7c6e7b53631e565cca04736f1803fa1939b3ec9914bdb2f19f"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-hungry_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "e5444a1bb48a0b8f333d00c973aa70724216549ae33f714d1074eebaf099275c"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-hungry_zh.mp3",
+      "bytes": 8496,
+      "sha256": "ad266b2d31e1dcf6cb1a4e3ed4f79ae56871b3e804360937ce341b6ee1bd7854"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-thirsty_en.mp3",
+      "bytes": 13104,
+      "sha256": "8845a0ccceb481fe0254eaf46f6c1db7a92018893980eb801a6056ec56a80a21"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-thirsty_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "59012c5ae64eab219d73da436aab668f5d8b754019ab41239363ee5f7e84d9e5"
+    },
+    {
+      "path": "v1/audio/talk/phrase_needs/im-thirsty_zh.mp3",
+      "bytes": 8784,
+      "sha256": "5b8710958d244073427f4543896a4f547da74bf3506c37219b2285dd2f1915dd"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-go_en.mp3",
+      "bytes": 11952,
+      "sha256": "ae590859d26e12ec414351b95379864cb311bb38fe7d0c1ee0cf4ebd38a89554"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-go_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "66c5b3eb512e3e6f0b139a643dc220c0447d605cdf783e189b3b50e53746b2ea"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-go_zh.mp3",
+      "bytes": 9360,
+      "sha256": "48fe456c2611802f2793d9066d71cce79c5207bcc0ff631714aa2b0ac934e37e"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-play_en.mp3",
+      "bytes": 12240,
+      "sha256": "a766464c207b1e57819462969cf4d143ff6d9b6956c676baca0c1735ed27115d"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-play_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "c0ebc9afe8a0bda7e50bd00e3c3516b274ccb4fe9a542079235d4750394ba54b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/lets-play_zh.mp3",
+      "bytes": 11088,
+      "sha256": "92826ec70ba38c18e2b401a21b4bd7ab6ccab05a4af5dfa61e6b01eccbad2e81"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/my-turn_en.mp3",
+      "bytes": 12240,
+      "sha256": "750e77786124867e83363b77ebcb760b7159d5232a6a2ef2ddbeefc55a7db167"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/my-turn_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "3792e803c022071cceff6fe13ba8ffa62998c73c22963bab4977d6333195425b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/my-turn_zh.mp3",
+      "bytes": 9648,
+      "sha256": "c7fbb05bab2bf63613838e48e12310cf81a1a61ceb1c22816166d03766f07974"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/well-done_en.mp3",
+      "bytes": 12240,
+      "sha256": "4517095eb84de3aff6adf1ecbded9a29fbfe1dd1346a1efa159a10899e5b4542"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/well-done_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "abe1b7e9cea8be31c9674715f88214856838dd455f558db0ec03fcc943e6b686"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/well-done_zh.mp3",
+      "bytes": 8784,
+      "sha256": "b6dbe0e72325899412e80da890230052b46dedc1833a8cd23a792465f07ea61a"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/your-turn_en.mp3",
+      "bytes": 12384,
+      "sha256": "9daf6317763e3132a81c200746bdfcb650cbea69b8541893bbca5ad4f13bc4f7"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/your-turn_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "c2e4f9faf46a080b3ba52b6719ebc0fcc3d72259c3c7093731a6870dbf38dc08"
+    },
+    {
+      "path": "v1/audio/talk/phrase_play/your-turn_zh.mp3",
+      "bytes": 9648,
+      "sha256": "bc855cb2c8f2794e415fa9bd392c98be88f332aee65a4cd47798f5fec5b7c2ee"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/excuse-me_en.mp3",
+      "bytes": 13392,
+      "sha256": "cd7177966052a4b27f8c83ebe6c81f2d9d028c9b4fcc7f3a14ad70f0b7d9499f"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/excuse-me_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "64683a7d99845855a49f2790cfdd1c8f4abbe3925db7eb2e0048ac6f873b6f60"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/excuse-me_zh.mp3",
+      "bytes": 9360,
+      "sha256": "985a4769aa19c40560ba5f59c14ec71e7a51b8e2dcca25251ecd110e71118dfe"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/please_en.mp3",
+      "bytes": 10944,
+      "sha256": "7870000b26d727af0d0cd02de64ddb3581e8d091802b312cc0325a0d8c0856da"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/please_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "850ca93b74c67a92c5cff66db6b647271109fa2c867189d78bfb46f744855501"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/please_zh.mp3",
+      "bytes": 6624,
+      "sha256": "91ccf11d401b875f656ad807d9ec85daafe3b276a9b4334677c36abb06d8440f"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/sorry_en.mp3",
+      "bytes": 11088,
+      "sha256": "6d1bf4c2b75c07d1963f287b948b21be0949dc9501b5f3c2f97297bebd03341e"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/sorry_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "43f80fee9a8db511919aef451d6be467ca23a30d1d3c5640349e5432fdfa3b53"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/sorry_zh.mp3",
+      "bytes": 8640,
+      "sha256": "cc3e72c25d316e1149afe630d88e60c51fa32e2e759e4a37816d5ed2cb51bd76"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/thank-you_en.mp3",
+      "bytes": 11376,
+      "sha256": "d3ca5666d7b5bc492743b47520c024aa04012f1e474c6617fd61f9deb580c10d"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/thank-you_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "7596a009a0d1baa4de43ad5bcbab754f01fd933f0ae00d7693254006a8dd0204"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/thank-you_zh.mp3",
+      "bytes": 8064,
+      "sha256": "646199d993693f262546ed34079049f0da7ee97f897fdfc74c5c91970385cf10"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/you-are-welcome_en.mp3",
+      "bytes": 13104,
+      "sha256": "44f59c5ab4175a71304858e7d404dfd259b40b4735220a2a1ddd65548a7e63e9"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/you-are-welcome_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "78d37f9259eaaa870b191d45ebfb0599d941370928ddaa08da66ab3fca6e1a7b"
+    },
+    {
+      "path": "v1/audio/talk/phrase_politeness/you-are-welcome_zh.mp3",
+      "bytes": 9072,
+      "sha256": "f484e0bc174417ebc0c1293e21ee96c066a8b734ade447a404c74052d802273d"
+    },
+    {
       "path": "v1/audio/time/time_afternoon_en.mp3",
       "bytes": 12528,
       "sha256": "231314ac12210d0bbc4bb879e943f135983538db205cc534666e74f8cb3dcd95"
@@ -14809,6 +15184,131 @@
       "path": "v1/images/tableware/20-lunch-box.png",
       "bytes": 33790,
       "sha256": "eeadd9b990071ea324290f85cf4207d07072e8621c5066dd75c1e0278d8dcbb6"
+    },
+    {
+      "path": "v1/images/talk/phrase_classroom/01-look.png",
+      "bytes": 58826,
+      "sha256": "a2014d030d513a9a42ae76838938e206f80720b73a6c05b7d012aa285077bd29"
+    },
+    {
+      "path": "v1/images/talk/phrase_classroom/02-listen.png",
+      "bytes": 58824,
+      "sha256": "83e0a600c6cda8be7ef75c2c4472451429c5cb13cacebcc06728255937264e6f"
+    },
+    {
+      "path": "v1/images/talk/phrase_classroom/03-sit-down.png",
+      "bytes": 61554,
+      "sha256": "e70de9a637cce2b4c7fd576acb5be26b439eb70bf626e346d78709f50e817df6"
+    },
+    {
+      "path": "v1/images/talk/phrase_classroom/04-raise-your-hand.png",
+      "bytes": 59339,
+      "sha256": "97743d4d1d43daeb0e698446364591993c5a0bd8c2824ef31b41c2a51e375aae"
+    },
+    {
+      "path": "v1/images/talk/phrase_classroom/05-may-i-go-to-the-toilet.png",
+      "bytes": 53537,
+      "sha256": "b61faa46e4ec583d402869e5ead177b390cfc38f90f6ed34e4d2d74cf863eb4c"
+    },
+    {
+      "path": "v1/images/talk/phrase_greetings/01-hello.png",
+      "bytes": 69141,
+      "sha256": "d4e0e9d46d0a343c9c92689fb50492ab3cb097ae68e9557f6418e4ce095cdeb7"
+    },
+    {
+      "path": "v1/images/talk/phrase_greetings/02-good-morning.png",
+      "bytes": 67134,
+      "sha256": "1c0d0c0641dd80998780e53158cd1433908a4d07694f814f1bcda6d904ecacba"
+    },
+    {
+      "path": "v1/images/talk/phrase_greetings/03-good-afternoon.png",
+      "bytes": 76122,
+      "sha256": "e3ae8c7216f0964961c144d49f9186449c20196c2e994900284acc32e4d28ce5"
+    },
+    {
+      "path": "v1/images/talk/phrase_greetings/04-good-night.png",
+      "bytes": 63762,
+      "sha256": "76df24fdf4169c6bf31a9ede3f21f9f31bd62c604817473d35b3192b515e0c92"
+    },
+    {
+      "path": "v1/images/talk/phrase_greetings/05-goodbye.png",
+      "bytes": 68551,
+      "sha256": "3924691ceb4050e72bdc75ca688b4ec226ee8fb3b37e38523d707b33b5c22f7b"
+    },
+    {
+      "path": "v1/images/talk/phrase_needs/01-im-hungry.png",
+      "bytes": 48044,
+      "sha256": "093fc617f7daa650a851e5b2dbb726acf6c1d053ec0f2322915770481029d4c1"
+    },
+    {
+      "path": "v1/images/talk/phrase_needs/02-im-thirsty.png",
+      "bytes": 52057,
+      "sha256": "0111d7ec1031943f05f5c73965581af63d4caeb144c169eeb7068961a479e96a"
+    },
+    {
+      "path": "v1/images/talk/phrase_needs/03-i-need-help.png",
+      "bytes": 50870,
+      "sha256": "4b3230b626c3ed0a78d8e0688a2bfef6c54e1872459ee3ee562738d72ac6a289"
+    },
+    {
+      "path": "v1/images/talk/phrase_needs/04-can-i-have-water.png",
+      "bytes": 49385,
+      "sha256": "6bc92de25cfa635fe7984d5b1a7a9b7ef641051d27850aad52bd3d53f2a79a9b"
+    },
+    {
+      "path": "v1/images/talk/phrase_needs/05-i-want-to-go-home.png",
+      "bytes": 85849,
+      "sha256": "c818269d295f319d16e03c0966528c91d371cc9568e57c911293863b7afede7c"
+    },
+    {
+      "path": "v1/images/talk/phrase_play/01-lets-play.png",
+      "bytes": 72134,
+      "sha256": "e1f9ca43c741486bd7e4729c2313e166878889f26ae13dca35360d85cb2593de"
+    },
+    {
+      "path": "v1/images/talk/phrase_play/02-your-turn.png",
+      "bytes": 67258,
+      "sha256": "416db78802cbdb9420afad99afc41a332008605df1789b8f9e11667fb34559b2"
+    },
+    {
+      "path": "v1/images/talk/phrase_play/03-my-turn.png",
+      "bytes": 70213,
+      "sha256": "d9e791bab944afe06ee32be5fc4108dd7b1409c971e5274c9e66420ed84eed0c"
+    },
+    {
+      "path": "v1/images/talk/phrase_play/04-well-done.png",
+      "bytes": 66688,
+      "sha256": "6a64479679069129dc365e30a1e0be55fee27ded6a29625a2e57a99b3fe91780"
+    },
+    {
+      "path": "v1/images/talk/phrase_play/05-lets-go.png",
+      "bytes": 80544,
+      "sha256": "f28c673c72f10ca0485253fcfb2e570f39be9a93b4937ca21edb342a09d8f0b5"
+    },
+    {
+      "path": "v1/images/talk/phrase_politeness/01-please.png",
+      "bytes": 69098,
+      "sha256": "28f4fc2c6ca595f28b53516568a272023d7dfee1a73a310baadabe346182c614"
+    },
+    {
+      "path": "v1/images/talk/phrase_politeness/02-thank-you.png",
+      "bytes": 72411,
+      "sha256": "4db7541faec96e463f6cd172c7d0742cb215b6eb1eefbfda02ddaf24fbad9208"
+    },
+    {
+      "path": "v1/images/talk/phrase_politeness/03-you-are-welcome.png",
+      "bytes": 70279,
+      "sha256": "497d3bad42d542b0d378a10d018094d9103c8f906af7610389e2c0bc6aa40d41"
+    },
+    {
+      "path": "v1/images/talk/phrase_politeness/04-sorry.png",
+      "bytes": 71784,
+      "sha256": "e45f0b342b4f9f7ec3f623bdd65ecbba310adec2b3fd71c8978bec88f608f54d"
+    },
+    {
+      "path": "v1/images/talk/phrase_politeness/05-excuse-me.png",
+      "bytes": 69627,
+      "sha256": "9b6703385881f7f1615ee528d1caa1ef3be5d9cd6a59436094b778b552db98ed"
     },
     {
       "path": "v1/images/time/01-clock.png",
