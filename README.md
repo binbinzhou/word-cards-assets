@@ -2,7 +2,7 @@
 
 英语卡片学习小程序的公开运行时资源仓库。
 
-当前版本：`v1.2.0`
+当前版本：`v1.3.0`
 
 ## GitHub Pages
 
@@ -24,14 +24,14 @@ https://binbinzhou.github.io/word-cards-assets/v1/audio/fruit/fruit_cherry_en.mp
 固定 Tag 后可以使用：
 
 ```text
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.2.0/
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/
 ```
 
 示例：
 
 ```text
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.2.0/v1/images/fruit/01-cherry.png
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.2.0/v1/audio/fruit/fruit_cherry_en.mp3
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/v1/images/fruit/01-cherry.png
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/v1/audio/fruit/fruit_cherry_en.mp3
 ```
 
 不要使用 `@main`。资源更新时创建新的版本 Tag，不要覆盖已发布 Tag。
@@ -45,10 +45,18 @@ v1/
     categories/
     fruit/
     vegetables/
+    drinks/
+    clothes/
+    furniture/
+    tableware/
     stationery/
   audio/
     fruit/
     vegetables/
+    drinks/
+    clothes/
+    furniture/
+    tableware/
     stationery/
 ```
 
@@ -67,7 +75,7 @@ v1/
 
 ## 许可
 
-当前图片素材包含 Microsoft Fluent Emoji 相关资源和文具 AI 生图；Fluent Emoji MIT 许可证保存在：
+当前图片素材包含 Microsoft Fluent Emoji 相关资源，以及饮料、衣服、家具、餐具和文具 AI 生图；Fluent Emoji MIT 许可证保存在：
 
 ```text
 LICENSES/FLUENTUI-EMOJI-MIT-LICENSE.txt

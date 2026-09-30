@@ -1,9 +1,9 @@
 {
-  "version": "v1.2.0",
-  "generatedAt": "2026-09-30T03:03:29.518Z",
+  "version": "v1.3.0",
+  "generatedAt": "2026-09-30T04:00:36.844Z",
   "basePath": "v1",
-  "fileCount": 1249,
-  "totalBytes": 15101110,
+  "fileCount": 1569,
+  "totalBytes": 20655131,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -696,6 +696,306 @@
       "sha256": "e485f6a781c90427b2f096347fd51c32a7f5119d0067fa6e840f96305901f236"
     },
     {
+      "path": "v1/audio/clothes/clothes_boots_en.mp3",
+      "bytes": 10944,
+      "sha256": "2e4ace427c7fd15f31a550e156fb0b4e7a870a86605f2278885dd34e3f89591d"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_boots_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "ba8ff26d28a62038b87347f2e0f070ad7bdc5a5956ee68bb0076fbdd0f125638"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_boots_zh.mp3",
+      "bytes": 8352,
+      "sha256": "9428f178661a3b5f95c6b4a222775de6612ba5d83cf39a9d3cc741e11c9ced80"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_cap_en.mp3",
+      "bytes": 9792,
+      "sha256": "31e6af5620ddf6a9f25bc321a7ea421751d58eaa7f16ba1973bd0c2346cebc26"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_cap_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "8d6c910c9c9256e6c36a484f3f4675deef68e6282da58ae6c3f2edd9500c667b"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_cap_zh.mp3",
+      "bytes": 9360,
+      "sha256": "dff25f8a31bf5d5afe2d4fc6c291bb2d8e906ae42c7f91289e7936548633ae85"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_coat_en.mp3",
+      "bytes": 10080,
+      "sha256": "d9c175307e2e37a05d7fdb4686fc7c8c2cb9793c3a97c55da8bee09656b2f9d5"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_coat_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "e9121b1243ba86dc111353a70975b6eebfca536e80942de2d042818db5258b4e"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_coat_zh.mp3",
+      "bytes": 8064,
+      "sha256": "c7ca00547e9f57db984ffbb03c68ee44b5c4b4f267b20298a241dcce2c71d6a8"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_dress_en.mp3",
+      "bytes": 10944,
+      "sha256": "46a8efe80aded7572daf70a09c937c65b9b345658c5a6252bcf5801041e8287b"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_dress_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "e889d69101d0083d29d61881f21edc6afe5b5a211e1868080adcad11625a59ce"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_dress_zh.mp3",
+      "bytes": 9216,
+      "sha256": "4937e8ccf2c99a5709359fc2ec5c8b83b3d52487bdb7275f5db5174dcd1c86c4"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_gloves_en.mp3",
+      "bytes": 11232,
+      "sha256": "65e451f00336468b69dc469ecc150665c3b0ed40915e00c1790693a3a54df510"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_gloves_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "7ebbc62ae894608960455c004383fb10e9fdf6e53891f12531ebbae92139d1bf"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_gloves_zh.mp3",
+      "bytes": 8496,
+      "sha256": "bfed9777fcce21f55ad6e1941498319fec60db78270aae19f6b12700cca4a2a1"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_hat_en.mp3",
+      "bytes": 10080,
+      "sha256": "646906f5f4e932c5c28f5eb897ec6501d4286b7b1861a5a2cfe461b58f20d8ae"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_hat_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "3b25cab4230ee0da6009482a2edbefd903f743135ce3d04f93ff471f93984c45"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_hat_zh.mp3",
+      "bytes": 7776,
+      "sha256": "5d386ac6f37619b8f2068a83418557513ad64681be2ec0104afea281446bc6c0"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jacket_en.mp3",
+      "bytes": 10944,
+      "sha256": "1bc89f42330470a6358874f0ce33a6e8165fda81c825158df15db0424a9fb7a3"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jacket_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "22ea995266bc1fda16fd39edd64b76c3c9a6be652f0a8b71ecce6093f4783a24"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jacket_zh.mp3",
+      "bytes": 8064,
+      "sha256": "dc65dc0236ff5446a9b30fd526fe4b59711867152854de2e8f39c35a1490cd69"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jeans_en.mp3",
+      "bytes": 11376,
+      "sha256": "cf88b084bbf73daa97ddfae471497864f9b44919a856741677754f9b8ccf5ade"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jeans_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "0cc3df395b6b08e015eee24969c0bda9466774346f560b1adde97dc503acf8f0"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_jeans_zh.mp3",
+      "bytes": 9360,
+      "sha256": "cb5c70c753bae007e55c814b3078b2ecad93a2454a735b37f84ee33826dfc58e"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pajamas_en.mp3",
+      "bytes": 12960,
+      "sha256": "eca191c1627388219758dc0a7e0ee66327886cf3327c185789014877ad0ad278"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pajamas_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "8e92782695d739ec0087b6f233a9385df2ad543b99623506a6f289edb97ad406"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pajamas_zh.mp3",
+      "bytes": 8208,
+      "sha256": "9bc4881caf6a4c6b8c45111e272a8c720031b9b3d660207a736633a4fcdbff96"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pants_en.mp3",
+      "bytes": 11520,
+      "sha256": "2382de67596e4b86535763c5d8d59510d36eed242492a2e37aff82d38c89d8b6"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pants_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "3d86bf50dca48b145993422afaccba549186f555231bfb32ccf82441debe4df0"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_pants_zh.mp3",
+      "bytes": 8208,
+      "sha256": "bd9919f25bee5f9856008f6be9612d47425432b7aba7bbed15ba4eb999aa9892"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_scarf_en.mp3",
+      "bytes": 11520,
+      "sha256": "cfb6b62620c0610ec910a374c98757bda069481c3c0507890bc8b288651df9d8"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_scarf_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "8b89029e3550d20d2d0dd19ddaaaf42c0bf7ce5c9f7f69f9cbeef8192e7e2bb6"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_scarf_zh.mp3",
+      "bytes": 7776,
+      "sha256": "5f96b4ff83f43b6c0e77be283cd1331d8cc4cb92433bf4901807e0afc3187481"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_school-uniform_en.mp3",
+      "bytes": 15696,
+      "sha256": "68bd2e5c088050842deb39f92f3b45447225bacebc07f98b130b6663617fada1"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_school-uniform_en_female.mp3",
+      "bytes": 12960,
+      "sha256": "c775959b296610cb620ef011cec8d0407f69aa03b49b528e9d675429ed15c465"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_school-uniform_zh.mp3",
+      "bytes": 8640,
+      "sha256": "b87df22159ac42de51170750e5b58dbbf74908034b8f254203d7994227f9d477"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shirt_en.mp3",
+      "bytes": 10656,
+      "sha256": "a226182938fca94f76d1010f579ec8cbc7215a1fd2f9be0196c07ae3560b59b4"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shirt_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "d4b98ad8eada04451c7f86041aef2bf9b949f0ffc9d9632b1cf7338db551ff21"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shirt_zh.mp3",
+      "bytes": 8208,
+      "sha256": "682d7043675c42f16b7cf76a95045a3a700117ab1974e93f3b0a2bcb6bd4f590"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shoes_en.mp3",
+      "bytes": 10800,
+      "sha256": "589a070e6764fb0d8ef33bb516b5fb19233815c17c7e37cf8776828d866e5faa"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shoes_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "e551839034f279bf20c61966bfc30f7dcb0b1c6239a541b2e52e859e8b031dce"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shoes_zh.mp3",
+      "bytes": 8208,
+      "sha256": "bd8943885c2e93186db801a377081edd88f1f5c38e78ea0c81d379513f2e3295"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shorts_en.mp3",
+      "bytes": 11664,
+      "sha256": "94c54b282294dc4c3fdc095f3bdbeed0690256ae8f5c71614d24d4d6652f43f0"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shorts_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "5908182a1adf609c57d1d4923b63a5fb95091393347d434570f6650903bc6342"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_shorts_zh.mp3",
+      "bytes": 7920,
+      "sha256": "3db2fb26ead6430b6de8b14e6b974dc128a7013c749be48ce4ab9351f0447377"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_skirt_en.mp3",
+      "bytes": 11088,
+      "sha256": "0d6e1da83aeabd64634209597e806df80ccbef30b95291d2ad2780e905cfc3f1"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_skirt_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "33156b3a477881a0ca24dc4e93e4607eabb4fb012c0dae9f410170124a99ff39"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_skirt_zh.mp3",
+      "bytes": 7920,
+      "sha256": "f0cde97339085b07ca56c496badef7418d82cec8cbf3b8ed928f650428332724"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sneakers_en.mp3",
+      "bytes": 12528,
+      "sha256": "c4c22ec5c94fa95f74ea10ec9b01281dc666d24e696c7c8abc8130dc307c0dc9"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sneakers_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "b13f2a51f80476219a48f63e929b0791e446f09eb54d6fe2034caa7bb7cb0262"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sneakers_zh.mp3",
+      "bytes": 9360,
+      "sha256": "dc3ce48673d7d0d1e14884e8d50086c388f7e35b1a0193be796475613ed45b66"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_socks_en.mp3",
+      "bytes": 11520,
+      "sha256": "342f1e8d2a14f3dd07f81df437dd925e41c49c47a0a992614d7ff1e27ec578b1"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_socks_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "b1427295223dad7f768f74689e2d68bd57ca28f7ea118ef8352f197cdab4494a"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_socks_zh.mp3",
+      "bytes": 7920,
+      "sha256": "1fc9db790f64408547e4d8e66264a6f79267f74de9dc6fdab5d1b3b6112fa644"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sweater_en.mp3",
+      "bytes": 11232,
+      "sha256": "370586ecf026d7dc3b2a3ae22ecaf2cc4d97f255a9560741add7920de6b73392"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sweater_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "70d1b2c9a45f7f0243e3b6a5a812b0d9733626749167cf882050be617147a1c1"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_sweater_zh.mp3",
+      "bytes": 7776,
+      "sha256": "d8677e44f09af39cf8ad08e3c853e4f5ed8b3a16aded8dae91dfb0ef9111e011"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_t-shirt_en.mp3",
+      "bytes": 11520,
+      "sha256": "3a98bb583cfa38a9cd30543ad0f2989d8dc8f25f50e2ec6427f346333dfc1cb2"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_t-shirt_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "e9ee64215c9dcfa1908410725171978b2c0f546c22b5eb5bccd17ce3608dd530"
+    },
+    {
+      "path": "v1/audio/clothes/clothes_t-shirt_zh.mp3",
+      "bytes": 8208,
+      "sha256": "1d358d66fafe7aedb10c0340cae5ab15fb7ae1e3e9b1d88345894e817a4ef8d8"
+    },
+    {
       "path": "v1/audio/color/color_black_en.mp3",
       "bytes": 10656,
       "sha256": "d4a9aed7fdb033892b96d13d54c5848220be1f042e353035b9dbfc4388ac52f0"
@@ -844,6 +1144,306 @@
       "path": "v1/audio/color/color_yellow_zh.mp3",
       "bytes": 8208,
       "sha256": "6e8c0a5fb822b7dbb13bc5c1bdc56f22cbbfa54b986c90bbf41c54cda2feda79"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_apple-juice_en.mp3",
+      "bytes": 13392,
+      "sha256": "e33b9dca2fdd1257283ccfb3f0a155ae050beba835b6b2bee73de4f566125927"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_apple-juice_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "9cd78eb400cf374e13495015d951a3b20e50ccc468e741486404f9ff581c88d8"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_apple-juice_zh.mp3",
+      "bytes": 9360,
+      "sha256": "b543c035465d124fced7be8f5ea0b98f224b8703ba6a7eaf9df235f14f9c022b"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_bubble-tea_en.mp3",
+      "bytes": 12384,
+      "sha256": "2c18bcde0fb0822a02097ff9ce3308b79b82d8dc5e16769961febbbc9984e717"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_bubble-tea_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "5db73d377548d0ff07217e91b3c3f1dabbde8be1ea7ec3fdab675b68c3b712be"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_bubble-tea_zh.mp3",
+      "bytes": 10512,
+      "sha256": "1b5b367fb73938cea645c0b018f943afc69ba3fb5dcbeb6bf6309ecc6b6bfa6d"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coconut-water_en.mp3",
+      "bytes": 14976,
+      "sha256": "4f597da762b1a595facfd067cf6943e3bbe186ce7b1c1ec342c0014894521c5d"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coconut-water_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "1a876fee2084bd52ca623b58fe2f3939d73b8d309f44218e18f6d2211ecbdcd4"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coconut-water_zh.mp3",
+      "bytes": 9216,
+      "sha256": "4ed7bd8496ea4f7038239cb519c731697bbdea55d6c263e72707e4dfd03b18f4"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coffee_en.mp3",
+      "bytes": 10656,
+      "sha256": "f26dff149f0a07e3d525db8e66330c297ca579a0700125b9935bff4f1d1d0ae0"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coffee_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "3ec5e57667b767ef897482376b18974b7bdbee022ba30df9917d09a472d23dd3"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_coffee_zh.mp3",
+      "bytes": 7920,
+      "sha256": "d824d76c70df68b323aca3e4df52a79b3d8de1a21b41ce4b90bb972687d64ce7"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_cola_en.mp3",
+      "bytes": 10800,
+      "sha256": "bbe9c864262c16b0ddb5bd50804505ebb4dbb2051f10fc8a7a13081eb9f93b14"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_cola_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "66c07b609d4955aa4309dedd7d8305010cc4a8fc5ed7ff4cc40bac8abbb76c98"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_cola_zh.mp3",
+      "bytes": 7920,
+      "sha256": "bb96ab1b46778ad7ff9487b1834ac4ddb4d0666d5c6a02a1651beab105a5c275"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_green-tea_en.mp3",
+      "bytes": 12816,
+      "sha256": "368abf07742fff1aef143129199a37d2c61a25791a262414df85a967c21a18ea"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_green-tea_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "fe14be771cceb1f46900cdf28e535d4767c1c42648b0f43e660b04c908555c38"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_green-tea_zh.mp3",
+      "bytes": 7920,
+      "sha256": "a7fa656b38ada3b795cdede5a136aaad1cadacadf0d109607e9e32dd28662e1f"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_hot-chocolate_en.mp3",
+      "bytes": 13536,
+      "sha256": "b39558393593617720fb5684aeb543e2e2c250734ea3fa1a2d20eeaf60b0c8e2"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_hot-chocolate_en_female.mp3",
+      "bytes": 11808,
+      "sha256": "56cb4324db7521c3ec39f672e50f9dbc9effb4c9c00115cfa4f7e28e448d5c10"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_hot-chocolate_zh.mp3",
+      "bytes": 10656,
+      "sha256": "ef2324580289194eb04498813e9740323308ec4977fd8d37c7741add3c147778"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-coffee_en.mp3",
+      "bytes": 13392,
+      "sha256": "0cfadbf6661f690454d9a5a79eb567ad46f6cebeb0c0e3d89425f43ff0688797"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-coffee_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "133513f3ef21a0a62bc88994f784d6655dccfa17ea32e9116ff3ef987f75c4a9"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-coffee_zh.mp3",
+      "bytes": 9360,
+      "sha256": "c52facaa5f4680f87f40cf3f47de7e1a6d3cb49e8c42c2e244e9dbfedef85f1a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-tea_en.mp3",
+      "bytes": 12096,
+      "sha256": "a1a0ba0a08abad02be8b63fc29926248ccae8bf7654af6200df6a05039b71519"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-tea_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "46bdd14897c4fec39c186521a527a89d3c4db915cd62e3e508676c80a2c43d7e"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_iced-tea_zh.mp3",
+      "bytes": 8064,
+      "sha256": "dd70ee7b0e83a5c505e2a60a602c107f4e231a7ab718d28879dcfd7f7e05167a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_juice_en.mp3",
+      "bytes": 10656,
+      "sha256": "5b8e4c9ffd9ff792576b23aea27c3b2b6478ccacc220155091c7bec36a8ec909"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_juice_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "63482a1d16f76d4c149840aa68ebbf419f328fc627b0cabeb633351c63a16399"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_juice_zh.mp3",
+      "bytes": 8064,
+      "sha256": "f64ee41d64e73c9af8750469a80993801fc13f08ff2fd9b775f0b645c8f8f95d"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_lemonade_en.mp3",
+      "bytes": 11808,
+      "sha256": "8637e8107b89388161f98b28b32d76dd8bb81d5296950ac6fed4280478388abd"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_lemonade_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "7e8767742414c9689c1944aa4376e3a605627e36201c202bca2c1975bf1c410a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_lemonade_zh.mp3",
+      "bytes": 9360,
+      "sha256": "3b22e9fa9ebab95993a1f7f90ce697a89cb4825445db970e739c9f8076bfae4f"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milk_en.mp3",
+      "bytes": 10512,
+      "sha256": "a0c509e8b799575199a1753538f239cf9f63f900d9526e2c3ffc2daea63e089e"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milk_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "1eb6171cbaeb441f5b6e0a0825a52be37b9b13d4e38dae14ba43087a2cd3f8c3"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milk_zh.mp3",
+      "bytes": 8064,
+      "sha256": "b3452677abb2f109ec767e014a75ffa1b3898d4f663985915b8a01fbd56b0cee"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milkshake_en.mp3",
+      "bytes": 12384,
+      "sha256": "0775bc78daaebe678c4f5e91b970f5e6c4f742ae6dea250ec231f59bb20c070a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milkshake_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "5350d3bc6b08c8ec87a4a46339af2c071ec11e69f2282c6479fd0fc4f4ecf29c"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_milkshake_zh.mp3",
+      "bytes": 8208,
+      "sha256": "84f2d9af45c9b8529f1a996da0773fd938aaadeb0faed9ac894976e0bc325b2e"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_orange-juice_en.mp3",
+      "bytes": 13968,
+      "sha256": "64ea5b22f340fc8a4f0de5e1ec4d343feb7533c43c104a6182bfa1716ce6a4a3"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_orange-juice_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "96a9db75e2e87394ae226d4e7c15795d8383b6e4a74cc08fde49983a20cfe4f0"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_orange-juice_zh.mp3",
+      "bytes": 8064,
+      "sha256": "38b43d6531e710412f6137342c73ddb443c1f1b45c119f3567772be6f2b983a4"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_smoothie_en.mp3",
+      "bytes": 11376,
+      "sha256": "b07f341a276165dd674ba6c13111653eca4948be625b80bef2332f65058df281"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_smoothie_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "4c19cdcb8fdfbf407e11dfdd82118a492f0d670fa6be31595143ebf200961298"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_smoothie_zh.mp3",
+      "bytes": 8064,
+      "sha256": "dcc3b42375dfef11c157aa6485d5d519224c33591c7850a09a4961aa3e72a5f6"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soda_en.mp3",
+      "bytes": 11088,
+      "sha256": "7bd8e17ecd1fd354cd9e99c2876bc4079abe49ce3a0da43d80f3b1965d94ae4f"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soda_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "beec2531ce81fe498039f725eabff999e4ef559fec614c5ea0cffb2bdc768c63"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soda_zh.mp3",
+      "bytes": 8352,
+      "sha256": "42803a062b3eca1f720adf65d0ab7659587c2cd4f077ec53fcf8ef6c6f731ea3"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soy-milk_en.mp3",
+      "bytes": 13248,
+      "sha256": "d69f3c1b3901c2c388610e739df96d13744804cf43355277ff4715be68a067b0"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soy-milk_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "035627d9d6585e8aa65f1f5cc2f49549350eb88765e502c9cfb91e3a81552a3a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_soy-milk_zh.mp3",
+      "bytes": 8064,
+      "sha256": "b5df06f5c65b4d7c20111baa5bc7ebfdb859fd55d0cf53dd9bf28c56452ea7ce"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_tea_en.mp3",
+      "bytes": 9648,
+      "sha256": "7d9543aaccc12af8db9e222193c9a392389fb4def9627157290657d22ae05600"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_tea_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "b5dd23a81b55564407a5727fadc8b1e2008d4d59657d4c6741f967cb4acb817a"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_tea_zh.mp3",
+      "bytes": 6768,
+      "sha256": "b0c19de80dbdbbec4850f99a7d1a114e884833b4ea24b527a5ed0bd58b346076"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water-bottle_en.mp3",
+      "bytes": 13680,
+      "sha256": "5f0c50450f82e9fcba7343cca085b2764a70ebb39bee3cba220e51951c449913"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water-bottle_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "48156ac2839a95e88867efcaf1a56bbf461b8f8f1ca48b0fc559a7c8ebcac622"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water-bottle_zh.mp3",
+      "bytes": 8352,
+      "sha256": "2107179f715f285190745b2b4d74f3fcc510d00d61edf6b3de8955f3b162266e"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water_en.mp3",
+      "bytes": 10656,
+      "sha256": "f3189e9f191a800c46e471e849c961cd8b8cbe925b7763a34a4f07ea0859e885"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "8b0563762fa6fe44e4c8afbc46832d8cd1a926b064fee6a939101d7debcb0265"
+    },
+    {
+      "path": "v1/audio/drinks/drinks_water_zh.mp3",
+      "bytes": 7200,
+      "sha256": "ff8d02733d9d0bb43c5ee3113842eec76b64aa74b2550182eca613ef77bc337a"
     },
     {
       "path": "v1/audio/farm_animals/farm_animals_baby-chick_en.mp3",
@@ -1744,6 +2344,306 @@
       "path": "v1/audio/fruit/fruit_watermelon_zh.mp3",
       "bytes": 2828,
       "sha256": "cb5436cf64888f7f375217e23c4a41b8fa1c595a42488278c89f1c09f9dfe153"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_armchair_en.mp3",
+      "bytes": 11808,
+      "sha256": "52612eab01051c90e811506eac99358054b21a809b537b894ad7126ce8a3efb4"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_armchair_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "fd4b986824fa9f62a54e95c9055a1dabc1d9e7f5a878c333fa55f95c94dfcfd7"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_armchair_zh.mp3",
+      "bytes": 9504,
+      "sha256": "2f62e7250b4ec92305eb0099939e99e916c2f74f7635d659dbbf608e0fae9c36"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bed_en.mp3",
+      "bytes": 9504,
+      "sha256": "3fdacad12a8fbac069a09fae9df5809790ef1b646bdfab6a78663bd874ae7d7b"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bed_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "4eeae87d70c672b093bfe6045dfd61cc1d7cbe244ab77f9ace2b7bbfa427b590"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bed_zh.mp3",
+      "bytes": 6768,
+      "sha256": "b5229812d77f1585dd0b266cb66f5e25c5f9798fe572b3de173a9deb8a0ab66e"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bench_en.mp3",
+      "bytes": 10656,
+      "sha256": "eb116cfc14a966bef287a83c260bb0e2b8333db9bc7a4b9d322c910d54c5cedc"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bench_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "7d169f7363577b13b05ee16c445b872acc27b5b45b19c7ef824ec35eceb77d58"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bench_zh.mp3",
+      "bytes": 8064,
+      "sha256": "5239ac03dd29010c5563685738fd45ec9fce464cd5b114b1be3cdde9f582bad8"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bookshelf_en.mp3",
+      "bytes": 12528,
+      "sha256": "93f9b804332dda569337f41b77205ee44926d5b6bd1efeb1fda100db6ff96b5b"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bookshelf_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "34198ebb12db665a2b9f9650e08c3391e8dae44e12db93e7333cd36282895335"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bookshelf_zh.mp3",
+      "bytes": 8208,
+      "sha256": "ba6ca11fca538bb6fab1cf92209dabb23a65089108d293c7e4f254e3a9b73f7d"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bunk-bed_en.mp3",
+      "bytes": 12240,
+      "sha256": "778625003f7c618a20cb41b87e6e0abfb0031cd424bb7f8429d7ab26ddc0ae0f"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bunk-bed_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "4093de0155f4a021d91f5624f4873ea83c5fd8cbf27747b6d7442dc02c483538"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_bunk-bed_zh.mp3",
+      "bytes": 9792,
+      "sha256": "8d604f864a1d7b5c5a15888ae9845b95311107c7642d781fa808be16d0ec442e"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_cabinet_en.mp3",
+      "bytes": 11520,
+      "sha256": "7a9602a816bb9d03286380a3589854e726189a7fe12eda9602943b8c364bc9c4"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_cabinet_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "1a12692dbbd13d5414cacb793c4fc4b9a908e1608fc1d825ccc2ac496e214b4c"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_cabinet_zh.mp3",
+      "bytes": 8784,
+      "sha256": "4c7b66ddeea4f5e4d2447d30f4d618e8b46da276371e2c1392483be3ae32bb88"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_chair_en.mp3",
+      "bytes": 10224,
+      "sha256": "3f75150f607558a671cd5fd547641cdcf49f70e9a09e2ab4b3274c460860e884"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_chair_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "6626228d8cd4362157ecc13b52023974a1a8f83aef47cf552ac06195b0702384"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_chair_zh.mp3",
+      "bytes": 7632,
+      "sha256": "de9d2382186e0a0d804aa3ffb27dca5b839c330a183920e2d3023833553d8b99"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_coffee-table_en.mp3",
+      "bytes": 14112,
+      "sha256": "5440b4b669b8eaba5433c149c48408135e62eb6ac01c8842b9a470df7fd85eb6"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_coffee-table_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "ef24e6cc2f84542ed3d1dd38c534c50eccdde4090d2a5dc8d17bf0026dd78a73"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_coffee-table_zh.mp3",
+      "bytes": 8208,
+      "sha256": "4eee110080ad18a0105192745c37b24b6d945e662217f345530e7e2007dac09d"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_crib_en.mp3",
+      "bytes": 9792,
+      "sha256": "0388a7b3207720f7bd97dbb78657df37955aff17c4e30c964d7cc1e13bbf279d"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_crib_en_female.mp3",
+      "bytes": 8496,
+      "sha256": "b39cdc433c0f778d761ab2ab41ff12b840f001bc8b47264286ab8102ed01a0fc"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_crib_zh.mp3",
+      "bytes": 9216,
+      "sha256": "1d6a4aac997e3377fcf73d4ae4eb7d456ff7a7a458dbe624ced11c9086127c39"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_desk_en.mp3",
+      "bytes": 10512,
+      "sha256": "d4146c083525ad81c785e0b372132d73a34d476712f2fde457b92b386cb00b8d"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_desk_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "213d86f2be50fdbd4114fdb6ade6b5ec43b841021faf662e32571a880db9b073"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_desk_zh.mp3",
+      "bytes": 8352,
+      "sha256": "c36b537593065fcf859eca412360c3d621bc77e3f9979ccc29379c19d8cff2ba"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_dresser_en.mp3",
+      "bytes": 11088,
+      "sha256": "e064b4dc750ad153fe0d49d76b238d20fd8d31a6f7ace157181e6a4e397fd499"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_dresser_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "b7c6a097e94a88bc745e5e1e029c018647b327ab8392c5d937d70edb1e92fb54"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_dresser_zh.mp3",
+      "bytes": 7920,
+      "sha256": "51981392d19a746898846ae1cead34d85c28cdaf016e07f7a6fb2efa035313a8"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_floor-lamp_en.mp3",
+      "bytes": 13536,
+      "sha256": "ec73a630a66eadf7e1746c0d3a8ce17fe427688057019d659d7ed75d48d1b67c"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_floor-lamp_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "2938d604bb46c45e35eb3ccae9289ce70b9f779ecc7a590b5f25fbf31e9b5a20"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_floor-lamp_zh.mp3",
+      "bytes": 8640,
+      "sha256": "f74867ebe4776bd3ce7ce0e657826ff8741a5fc8ca9c8bd58adc157e0277a3c2"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_nightstand_en.mp3",
+      "bytes": 13248,
+      "sha256": "4fd4a27ff0eced0517ffca4b711c539c3ba8da70eb94ef90b16923b46a9a72ee"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_nightstand_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "27c8a6ee2b4f69f96d190d9e6298b128b1c4e9c576b7b3d102dc78b7b4fc3c8b"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_nightstand_zh.mp3",
+      "bytes": 9216,
+      "sha256": "3d5919a5e21e0f10b09b6fd1b1ffa82c6dcca0ce13e0af7fc557d7356d0f6bbe"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rocking-chair_en.mp3",
+      "bytes": 13536,
+      "sha256": "e9533a7a2315a153859955e77124efc2e0fede26bbdab46487b72cd6e2c7b1ff"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rocking-chair_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "3d1adb297b94e926756853dc62295ce584a11a1cb32f774a238697c779372261"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rocking-chair_zh.mp3",
+      "bytes": 7920,
+      "sha256": "fa5ca7e6b41bf391e2349a7f1913eec465a5a27ab7ed1fea2a0fa86aab91a741"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rug_en.mp3",
+      "bytes": 9936,
+      "sha256": "f4f7ff87b3cd2686f362f1e28739e8a7835fa4b0ae87881a4ebbde0e43078981"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rug_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "87214107f0f0d4bce2d6bc8c6a964b5cc0efb65e0de12c7014066d015400606f"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_rug_zh.mp3",
+      "bytes": 7920,
+      "sha256": "28ee51df0ffd079d32decc43f674f783cc0584806e8af866f21919f20f9e8ade"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_sofa_en.mp3",
+      "bytes": 11376,
+      "sha256": "4ffe07676b136cfde95457dee88d7161209d2a37aa48177eae9a1f03ca8f278b"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_sofa_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "73599e30902aa8efa79d522a6a031b94a0c6097e99e839a92da3e6fbe87ea324"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_sofa_zh.mp3",
+      "bytes": 8352,
+      "sha256": "a7ff2bc30c1ef736630ddf48598c06d1ff5a23d732512512ddca069519a79f64"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_stool_en.mp3",
+      "bytes": 11088,
+      "sha256": "c7eed23cfa868d27c9c1485427027e6613d6cfdb602f3001a8790618f5c3bb34"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_stool_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "28d8e2b629b20f7950f78bf73245386f79e6c9e3d895c88f8a5da8b9f74205c2"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_stool_zh.mp3",
+      "bytes": 7776,
+      "sha256": "93b2241b71a032f833752ceb5700b5f12ff544c3d91696a4a29a53fe1026ccda"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_table_en.mp3",
+      "bytes": 10512,
+      "sha256": "205f3c1e3252885ee8a746f5fbf4ddaf3dd92457a630e4b0db83a6f123490cbb"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_table_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "351182efb2ae803320f7e099b6f1caa4e45645cb842847d941de002f98232807"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_table_zh.mp3",
+      "bytes": 7920,
+      "sha256": "97ccf2e7284ea402054aa9131e8192c640ffd1ee36d70e23380ec7191ac720a2"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_tv-stand_en.mp3",
+      "bytes": 14832,
+      "sha256": "eacfb5b00f75c501356ea43c9358ff2d14fec1f2be0d108490bb91680d805c2c"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_tv-stand_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "35b74b439c2e622ab4ebdadb8215a4f5c156653cd052231a405bd73f598dd752"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_tv-stand_zh.mp3",
+      "bytes": 8928,
+      "sha256": "590f837f1910e6e1756a8c9fdafa6baa1fa334ae4b2fe34c142b0be41411a7d7"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_wardrobe_en.mp3",
+      "bytes": 11952,
+      "sha256": "7848114f4abd070dbd952398eeb06a36e3d79dec450a98e72958ff99c29edbb7"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_wardrobe_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "f4675d5c74f66f1f99934bae4686a2e8c08fa50c4f8d9d33553a9ff30165621a"
+    },
+    {
+      "path": "v1/audio/furniture/furniture_wardrobe_zh.mp3",
+      "bytes": 7776,
+      "sha256": "084038c83f54d0eefdeace8d06d4710e4711c6ab73f25cdd05b4f48fcb7904c8"
     },
     {
       "path": "v1/audio/number/number_0_en.mp3",
@@ -3109,6 +4009,306 @@
       "path": "v1/audio/stationery/stationery_tape_zh.mp3",
       "bytes": 7776,
       "sha256": "62d87b01e70c4d1214ba8db166a178ed7753604188930c2cf5c3851990cb521c"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_bowl_en.mp3",
+      "bytes": 10368,
+      "sha256": "1e4a259309ce13bfaf07c3fba51b5846d05d0257f54ef80ad7597383b214e62e"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_bowl_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "c246dad7e59417ab1d7f4e10f2be4935499b7e8aab6c7e04d9d166fb69cca470"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_bowl_zh.mp3",
+      "bytes": 6480,
+      "sha256": "d5dcd1c1cee71f03e1ede155cf3f6278d4b732e792664b2c2fbff9ea6398c71f"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_chopsticks_en.mp3",
+      "bytes": 13248,
+      "sha256": "efaede277ac7cde788b8c6fbfcb55e1568ebee802c2e57548a6b762028d3e331"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_chopsticks_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "052129afe84ce4e2725c402735f4bce8ce8bf3581ca03b69266c564fe600cd61"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_chopsticks_zh.mp3",
+      "bytes": 7920,
+      "sha256": "b99b03a59718311a1bc5e3f78a775e68bd0ec139eb066753a71c875a1c6673df"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cup_en.mp3",
+      "bytes": 9504,
+      "sha256": "03585c1280dd99ec6ecd70a3fa0fda19bce9083dd7032693a9832e872be75852"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cup_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "058a6c31ce2f25677a47809bb4c523c0b981db7e38e7740c56b77fd29c4f7144"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cup_zh.mp3",
+      "bytes": 7920,
+      "sha256": "19944c844d7bdbd8cc183143cad0f53d249776a65fe34bc04d1236ab5a861404"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cutting-board_en.mp3",
+      "bytes": 13104,
+      "sha256": "355bab1567ead4d320ccfdaba08c3f43ba929955cbd58a33f841d21ed43bce93"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cutting-board_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "6a6a22af6f0e74db2c51dca73622a3918cb78ee9f4d3c7ba7652554fc93ed4fe"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_cutting-board_zh.mp3",
+      "bytes": 7920,
+      "sha256": "406ee4bae55ecfcee272f149f3d622b0f7aafcf71f82164da41440b8295f11ee"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_fork_en.mp3",
+      "bytes": 10800,
+      "sha256": "131161e27012b4576919f5169abb0ebdbe5a81d063edaaacf82d4cf034879f2a"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_fork_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "521e174613c95f0365c45317e52181cecb3cfcf4c4b66af3f68d2a60c07a116a"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_fork_zh.mp3",
+      "bytes": 8208,
+      "sha256": "0a326c1fb04e418d3d9338597a09950260a663419731af1c2b8a1092ef942e0c"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_frying-pan_en.mp3",
+      "bytes": 13824,
+      "sha256": "21da516d072db35c04ab3006a60324a3984c5d2eed37ee8de1396cdae68f9cdd"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_frying-pan_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "343ef25bf3286cd1e50c290307296dca2b4bf0942ebd622df862f8d436f0c187"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_frying-pan_zh.mp3",
+      "bytes": 8064,
+      "sha256": "b935c9ed4476e15048104638a04ab1dbc8673528c3e584c79727935da5293827"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_glass_en.mp3",
+      "bytes": 11088,
+      "sha256": "af96349c357579dd6b7d8fcccaefe35c784a95bdb657961047fee9003b91ddf9"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_glass_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "ca9ea2f8f0141c3882cff0a752a13da4548f613e8c9514cf0453119ca84ddebe"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_glass_zh.mp3",
+      "bytes": 8496,
+      "sha256": "449c3ff23ccd73dbc8715807bc8bd5d9ef6299cacc2ef7b9ef5caef8326079fd"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_kettle_en.mp3",
+      "bytes": 10656,
+      "sha256": "71958a50c117df209da16ea38ca62cf3c6ee8e8f505364374b3486ad8478876f"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_kettle_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "3c2676caa6944e1359e917be9b4766a69e17cc1345edb2d10aeeeb3d12f37d40"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_kettle_zh.mp3",
+      "bytes": 8640,
+      "sha256": "50e9b9612528e75e06bfae8335db13ac099df96f2987009b5c3062a420a68303"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_knife_en.mp3",
+      "bytes": 10224,
+      "sha256": "825ae3ac77fc311f0fbea2538d7c43b02362623c2a0516a4bdaa90a65e905235"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_knife_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "97b6fc69d29dbaac9d1eec3c24e0e9358235f1e973863fa9d7a2554c4d111fa4"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_knife_zh.mp3",
+      "bytes": 6624,
+      "sha256": "93330bda8069477e99fe2ea16d0dfbc2c24fef216d414275bbdb7c87b92252e1"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_ladle_en.mp3",
+      "bytes": 10800,
+      "sha256": "c0528091741bc84392cd9dcd1aa73af262f9bbc4d3d1c15f9e47f0a69e285e2c"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_ladle_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "028d84706f816e0482b548fa1fb1df585d3e70fea26b351611a8ffe90ed02221"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_ladle_zh.mp3",
+      "bytes": 8208,
+      "sha256": "444d6d50bb26cc470fb19ee531dc1cc6fd204c72b502b298fec78c9903b5451f"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_lunch-box_en.mp3",
+      "bytes": 13968,
+      "sha256": "6bed9cecf70eaafa9e6d0d6e8ee944384576a9a5a05c93dba62fc38e1f99a9de"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_lunch-box_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "1ae47550296e7548415c13882e9b3f0c2c9acbfc63d86a26219086d15cd64009"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_lunch-box_zh.mp3",
+      "bytes": 8352,
+      "sha256": "7d144ae1eb03238ec85fc75a409447981fe52321f5de6079f50ce2dbe84b8ef2"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_mug_en.mp3",
+      "bytes": 9936,
+      "sha256": "c6aaea11b9ffdd36171c8ad46b67fe833ceb182920a5fc6ea3bee42aa6e2d092"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_mug_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "650e9eb90727708605ce6c5411afaec2de24fa70b1f8cb91a77f4d2563d69b45"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_mug_zh.mp3",
+      "bytes": 9072,
+      "sha256": "1138fb57d21ae1f6293288ca3fa798008fa394d7775f004798e467802c002af5"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_napkin_en.mp3",
+      "bytes": 11808,
+      "sha256": "f342915ec3490af03baf4a735481c04d354eac7575d29b6db60deb929c1d38bd"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_napkin_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "1ce4bad629104b19813026b8f3620f851e53d261c1105fd44eebd53f2d5a8787"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_napkin_zh.mp3",
+      "bytes": 8064,
+      "sha256": "9445ac6759e84c0559ef0bc1f00c360d622f7245afcdf6f7a8a9b289b455f1e5"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_plate_en.mp3",
+      "bytes": 10080,
+      "sha256": "40a21443297435f6adf172952d765667eef9dabec037e4fd1176ea0978bfbef4"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_plate_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "8ab5d64b9fc054c033c465d98091a5ebe9cc3baa0d2c7378eb09ef9869ae5461"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_plate_zh.mp3",
+      "bytes": 7920,
+      "sha256": "fc9572051b122160b1b36e53d725d95c9fc9fa4fc00b3cedd89c75e45b7d7f91"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_pot_en.mp3",
+      "bytes": 10080,
+      "sha256": "d8a38a277345af1420c4fd9f27ed8f6f964d9bf4866f80c6b73488ce7075e9c4"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_pot_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "1493666be472cd1206332770fc03ccbdaf53606915fce05fe624fc81dfe27cfd"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_pot_zh.mp3",
+      "bytes": 6768,
+      "sha256": "70f92dde76ecaf8b77a098724acde9c679fee19a7fbc749aa8c38c7f9cdc1eae"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_spoon_en.mp3",
+      "bytes": 11088,
+      "sha256": "f25b041bbf5384b776e313c834f0879df5753bb592433096d82d7d183e11d081"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_spoon_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "7b2394274f619b9c6e54509472e9f25d30d54b1d4299883575c294a2bba53cf9"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_spoon_zh.mp3",
+      "bytes": 8640,
+      "sha256": "24b38bb20d2b210d4853d32f7d4da4c293110f7093ad4bbec77082c158624a1e"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tablespoon_en.mp3",
+      "bytes": 13104,
+      "sha256": "12e63563550dbd3430352f72b4487ec1d0a102461c7f6e2bec080401fdeb4aff"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tablespoon_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "1e26819963fd68611855492d44f37368d48e1927c48022eb0ee8a8f8ef0566e1"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tablespoon_zh.mp3",
+      "bytes": 8208,
+      "sha256": "2ac8fdb836bb9240194b906987ba9fbbc9f092b42e3f8818f466611b6ab85a8d"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teapot_en.mp3",
+      "bytes": 11232,
+      "sha256": "7eef4bbbbd3252b8bd5edaa0f462ae3cdd723c3899af86468a066b5133c3ad92"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teapot_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "916a8f49b730950d18987e5c940675788c29c0cb291c5b54f8427893ff6c100a"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teapot_zh.mp3",
+      "bytes": 8352,
+      "sha256": "2390a7cc5ae51243b2bf2b82d0287319017b7c6aeed50f4450eb75deaee19ecd"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teaspoon_en.mp3",
+      "bytes": 11952,
+      "sha256": "389e2e70cdd52c53dc7455cd4e0cb46cd9bf83f20c9ac0700c8d7d92b32eb296"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teaspoon_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "75dd68db0ef352ec55c46f09a69b23d63e8737599ce41218a47ca9d5f52bec47"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_teaspoon_zh.mp3",
+      "bytes": 8496,
+      "sha256": "17f2d923dfcef4963a0224c5fc2fdadf15f0e6c2552a4468d9698d1802d513f1"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tray_en.mp3",
+      "bytes": 9936,
+      "sha256": "eddfd29ec6d3a0b002bf85d20857efe1a8f67d67b098ae7826342bc54da3aa6e"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tray_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "8594c1d8b0dc129be35cdd1e855b621657a2750f3f3753e18afc04de537e6eed"
+    },
+    {
+      "path": "v1/audio/tableware/tableware_tray_zh.mp3",
+      "bytes": 7920,
+      "sha256": "ce1519198e0a053a9a2284e39b01185777ad9afe3123753358515210beae0639"
     },
     {
       "path": "v1/audio/transport/transport_airplane_en.mp3",
@@ -4956,6 +6156,106 @@
       "sha256": "79ee73300ed39935199037135f40993afbf3ea2604b638504ce4b29d2b69a4d9"
     },
     {
+      "path": "v1/images/clothes/01-t-shirt.png",
+      "bytes": 38695,
+      "sha256": "a38965532e6d9f0ad91ba7962ff155d07709cf978ab62b3ff96e20b66bca12bf"
+    },
+    {
+      "path": "v1/images/clothes/02-shirt.png",
+      "bytes": 60614,
+      "sha256": "4f6ee5ceeb12aaf49b73b88f214e76e6e62ae0eb75a91f6abb57f76c3f886eb1"
+    },
+    {
+      "path": "v1/images/clothes/03-sweater.png",
+      "bytes": 56969,
+      "sha256": "975768c805d707781dbbe0ce608c66571bd508ca260427cbe4070f3380fde4b0"
+    },
+    {
+      "path": "v1/images/clothes/04-jacket.png",
+      "bytes": 51294,
+      "sha256": "cfd71d9da5bdfbde2ec1d6e4d199af3bd45e7027808cbffe8a5835aba47cb2d4"
+    },
+    {
+      "path": "v1/images/clothes/05-coat.png",
+      "bytes": 54631,
+      "sha256": "e018fd81bfbf1607732479b901cea9f36b5f55e97c304da718522f3d9ada59db"
+    },
+    {
+      "path": "v1/images/clothes/06-dress.png",
+      "bytes": 57489,
+      "sha256": "9f050df0f62591fc306d56c4cfc306340e8581b46a50e5a46c25364fbe6a7254"
+    },
+    {
+      "path": "v1/images/clothes/07-skirt.png",
+      "bytes": 43944,
+      "sha256": "7e25e26e72ca58dc72e0e4abbe9c6dcd02164361f3ed0a89fe9a64ce82d50d87"
+    },
+    {
+      "path": "v1/images/clothes/08-pants.png",
+      "bytes": 42710,
+      "sha256": "c55bd382f6d428d24dd72d4378a9cc9a6601f3da8373e5cd8064fddca62914dc"
+    },
+    {
+      "path": "v1/images/clothes/09-jeans.png",
+      "bytes": 61044,
+      "sha256": "1bea01bb77352d6583d36374d38d03687ee19afec346fcb90f22e334648bdff3"
+    },
+    {
+      "path": "v1/images/clothes/10-shorts.png",
+      "bytes": 61561,
+      "sha256": "0485e88396064549ad126e52a06749ace3989d528346f42398901424bb12ed86"
+    },
+    {
+      "path": "v1/images/clothes/11-socks.png",
+      "bytes": 53721,
+      "sha256": "d2b7e814f4d54ec997426b2de43fa44b5eb8866fca0e03966546049258ad2cb7"
+    },
+    {
+      "path": "v1/images/clothes/12-shoes.png",
+      "bytes": 36414,
+      "sha256": "9b9dfcd5b2a357470d15ff99cab7ad4208d0aa01e94eda09364ca801091f72d6"
+    },
+    {
+      "path": "v1/images/clothes/13-sneakers.png",
+      "bytes": 46605,
+      "sha256": "5252d7b1b2251a142b392b2b35eb87514de6899de96d0e9cfa7203289cf88447"
+    },
+    {
+      "path": "v1/images/clothes/14-boots.png",
+      "bytes": 40022,
+      "sha256": "b65606e8775e6728af41fa61c77d20599ad040a9cd8f7924d53d115f9d57be0a"
+    },
+    {
+      "path": "v1/images/clothes/15-hat.png",
+      "bytes": 48506,
+      "sha256": "05f2356cbf3af6b92e1e55812a3f99c053ca5961c74262220ff879ee680d5bce"
+    },
+    {
+      "path": "v1/images/clothes/16-cap.png",
+      "bytes": 53406,
+      "sha256": "44703a3ae6c6fdb2bd7bdbc8d35a949e856105897e164caec13136a70c311a1e"
+    },
+    {
+      "path": "v1/images/clothes/17-scarf.png",
+      "bytes": 54395,
+      "sha256": "538c4453153caca9218406000cf21e431f99296bc762d6b72ac9aaf1e936efbb"
+    },
+    {
+      "path": "v1/images/clothes/18-gloves.png",
+      "bytes": 62503,
+      "sha256": "3c5ded2858f83cfc660b29e171575a40bb2ee9391390f882e41869e398950066"
+    },
+    {
+      "path": "v1/images/clothes/19-pajamas.png",
+      "bytes": 56906,
+      "sha256": "7c3c3f5cb7ec5a3f0aee0180f625a82e3df460e8fb426b7ddad80f64bb489cc0"
+    },
+    {
+      "path": "v1/images/clothes/20-school-uniform.png",
+      "bytes": 54126,
+      "sha256": "d0d8e3d7a75a3f3f1da51d8a7bfd1fd373d111c70d0e7222a0479d859fa0b1e4"
+    },
+    {
       "path": "v1/images/color/01-red.png",
       "bytes": 15879,
       "sha256": "f335abca4333b093b9c0f2bd81292b274fbf0e6a8a3aebb351d819ca5e1f5aa0"
@@ -5004,6 +6304,106 @@
       "path": "v1/images/color/10-pink.png",
       "bytes": 14945,
       "sha256": "84c1979f4902a17c5a8fbb6f2fb51d8e67355ffd9872c08973762b630c7584b9"
+    },
+    {
+      "path": "v1/images/drinks/01-water.png",
+      "bytes": 44982,
+      "sha256": "52840997f21b9f48d741a9289ba29351e9bc1b952eda23fd971f80d716e359f4"
+    },
+    {
+      "path": "v1/images/drinks/02-milk.png",
+      "bytes": 24467,
+      "sha256": "c3187d44fac572b438947f50a42d3093271de6c8cebe0f1fe589a22807c74e66"
+    },
+    {
+      "path": "v1/images/drinks/03-juice.png",
+      "bytes": 38935,
+      "sha256": "1c029abba1739d1cb45d0d4c7544e83f62924d5dbb43444158965087fc28fb80"
+    },
+    {
+      "path": "v1/images/drinks/04-orange-juice.png",
+      "bytes": 40126,
+      "sha256": "c5e0e5251a0f40f74463276255c8d8e50e744f804ad4da3c4cec6525758a0b2d"
+    },
+    {
+      "path": "v1/images/drinks/05-apple-juice.png",
+      "bytes": 40853,
+      "sha256": "eec9e5f311485221f53f94fe039249fb38db352a08006e6f787d22a5ccb3b3e4"
+    },
+    {
+      "path": "v1/images/drinks/06-tea.png",
+      "bytes": 29805,
+      "sha256": "252b6d0f3e6577fe778a0f579ec427f6fe1d4039f7d0e70953450c0533f3eb70"
+    },
+    {
+      "path": "v1/images/drinks/07-green-tea.png",
+      "bytes": 38461,
+      "sha256": "4cbcca9d0b844255edf8d2d82767b47dfe31b49c2e9826078bbf0e612ee3d54e"
+    },
+    {
+      "path": "v1/images/drinks/08-coffee.png",
+      "bytes": 32767,
+      "sha256": "40b4344e8746056c342afc8739823a2a02e5448b4b0ac4efbccc1a2cdb4d65a5"
+    },
+    {
+      "path": "v1/images/drinks/09-hot-chocolate.png",
+      "bytes": 40822,
+      "sha256": "89b5cffc9ed163dd2193768f80b59f4eb4980f7fb015c16834f6d6a1b6537529"
+    },
+    {
+      "path": "v1/images/drinks/10-lemonade.png",
+      "bytes": 42114,
+      "sha256": "baddbe9a76614df795b58ddb5e6f7948c05d4b5fdfeba60360469bee39ac462c"
+    },
+    {
+      "path": "v1/images/drinks/11-soda.png",
+      "bytes": 44982,
+      "sha256": "4f88319ab8bea09ebc219a779e0a976f1f1296072393959d52807be92d93d936"
+    },
+    {
+      "path": "v1/images/drinks/12-cola.png",
+      "bytes": 45830,
+      "sha256": "2b7c9f8dc50129e9db94247618d843304e0e2aa6d8aeb7a9ad7825076e0b9e39"
+    },
+    {
+      "path": "v1/images/drinks/13-coconut-water.png",
+      "bytes": 37012,
+      "sha256": "d486fe9af54434afbda4f36b979930729ca662c7834ab4ae10996e36436f41b6"
+    },
+    {
+      "path": "v1/images/drinks/14-smoothie.png",
+      "bytes": 32297,
+      "sha256": "176396d9933151b471e55c55c159dedea529e56cd4b053f25411fe9fa381b814"
+    },
+    {
+      "path": "v1/images/drinks/15-milkshake.png",
+      "bytes": 31836,
+      "sha256": "cd1528803f25579b126db417f7159fa924fa8dfdf7a0bc3aa290cc32cc30bae7"
+    },
+    {
+      "path": "v1/images/drinks/16-bubble-tea.png",
+      "bytes": 35473,
+      "sha256": "69b9085c9047787415ad78069c6cf0ff924064474b36fa55af7c7a4f72e90704"
+    },
+    {
+      "path": "v1/images/drinks/17-iced-tea.png",
+      "bytes": 38022,
+      "sha256": "8ee1308de7759abdc3ef2b3c764352328288a43a7efc02c863620a8c24a89d6f"
+    },
+    {
+      "path": "v1/images/drinks/18-iced-coffee.png",
+      "bytes": 42265,
+      "sha256": "75b7c437de9ef51cfeb062e24f2ec7c0450316e733f474aec1ab756eac926150"
+    },
+    {
+      "path": "v1/images/drinks/19-water-bottle.png",
+      "bytes": 28764,
+      "sha256": "8f8d732c5060253c31aeb08070826d10ce4660acac53494827a6c8d3b812450b"
+    },
+    {
+      "path": "v1/images/drinks/20-soy-milk.png",
+      "bytes": 19810,
+      "sha256": "2a85bb514eb70c6e94a58e01f197504d8455c4d0164b3211a68e7daf415b8b0d"
     },
     {
       "path": "v1/images/farm_animals/01-cow.png",
@@ -5304,6 +6704,106 @@
       "path": "v1/images/fruit/20-papaya.png",
       "bytes": 42007,
       "sha256": "083fa8699bada9732052f2000ca6100f783fd68537c2f4e215df641082b4e47f"
+    },
+    {
+      "path": "v1/images/furniture/01-bed.png",
+      "bytes": 34106,
+      "sha256": "4f80a74d99a968859750c69aa4765e676728556fcc68de586860fbbd1d85f2bd"
+    },
+    {
+      "path": "v1/images/furniture/02-bunk-bed.png",
+      "bytes": 42554,
+      "sha256": "f06d500651ce9eb637484ed594479ba9786a60c01117e88554c3a687941a22b5"
+    },
+    {
+      "path": "v1/images/furniture/03-sofa.png",
+      "bytes": 42255,
+      "sha256": "9d48d35e7e978cb9c6ac67e3673f78ad68ea9002acf6dc4b8ed424af48827459"
+    },
+    {
+      "path": "v1/images/furniture/04-armchair.png",
+      "bytes": 56921,
+      "sha256": "9a0419a054ae172e32e410ec0650af580ef3e1f99a816865f5cdea315eb8c3de"
+    },
+    {
+      "path": "v1/images/furniture/05-chair.png",
+      "bytes": 33826,
+      "sha256": "9a30dd3ab5974140dc1fc239006d770b15f21eab14a2b3a6cf3d73025592e7b1"
+    },
+    {
+      "path": "v1/images/furniture/06-stool.png",
+      "bytes": 40383,
+      "sha256": "1ec8b62e3ffda1a34c3fb6cffce6d2066542bef5202cea330e4068ad9ba05190"
+    },
+    {
+      "path": "v1/images/furniture/07-bench.png",
+      "bytes": 31693,
+      "sha256": "800b632cfdf735f2ce0cd5bb30c405b80e1fd57791e166db3bb48f27c58552f1"
+    },
+    {
+      "path": "v1/images/furniture/08-table.png",
+      "bytes": 21425,
+      "sha256": "099ac72a2266b2d0a29cce2b904a47a4e64759780a66f7c5feb1108a196689f6"
+    },
+    {
+      "path": "v1/images/furniture/09-coffee-table.png",
+      "bytes": 22840,
+      "sha256": "fd1b206c84e576bf2fe2a0f31e384acbf23f15218567365695d29226714302c5"
+    },
+    {
+      "path": "v1/images/furniture/10-desk.png",
+      "bytes": 33120,
+      "sha256": "6f5af2902c01b4741963c777f929c094765e287d458643d1341d5eae415f7d65"
+    },
+    {
+      "path": "v1/images/furniture/11-bookshelf.png",
+      "bytes": 31863,
+      "sha256": "e03a3298a3d849e1ff8a44a3b4766e1c518395ae4e8e8170812d6c1bf46bbc7f"
+    },
+    {
+      "path": "v1/images/furniture/12-wardrobe.png",
+      "bytes": 56158,
+      "sha256": "5857f6c30fc83ad82df6d9a2732672b8a5a076b0e88c66945052db31c5e6f677"
+    },
+    {
+      "path": "v1/images/furniture/13-dresser.png",
+      "bytes": 57487,
+      "sha256": "8c9c03308f0d36321dd6d747d97077f840c094ff4cd043d47988b5abfe80e341"
+    },
+    {
+      "path": "v1/images/furniture/14-nightstand.png",
+      "bytes": 43168,
+      "sha256": "d2e613581150a3b666817c68c1bf7613b9f32a57abdde5e5dbf4659fe85781e4"
+    },
+    {
+      "path": "v1/images/furniture/15-cabinet.png",
+      "bytes": 56859,
+      "sha256": "df5940e87db006fb714a3340579d59aac48f1cfa3ce289167e6c7d2cdf8e7036"
+    },
+    {
+      "path": "v1/images/furniture/16-crib.png",
+      "bytes": 39149,
+      "sha256": "b1c9f609772c2c82598430425c9ed0527a3599176d3a3e40e32dd182c0f540c6"
+    },
+    {
+      "path": "v1/images/furniture/17-rocking-chair.png",
+      "bytes": 42214,
+      "sha256": "8c9f71edbe5392351cead2b6742a2b114cd52d864a8e3a013eeff6dd44cd72e7"
+    },
+    {
+      "path": "v1/images/furniture/18-tv-stand.png",
+      "bytes": 32943,
+      "sha256": "ba611344567ba97d879b2458e3dbe899b97facd95aa481ec9085996960e01d6b"
+    },
+    {
+      "path": "v1/images/furniture/19-floor-lamp.png",
+      "bytes": 14246,
+      "sha256": "923bb8a6ae0f0b33c8a07f8830894178de6fd18d64ef39500421ce3513224973"
+    },
+    {
+      "path": "v1/images/furniture/20-rug.png",
+      "bytes": 37804,
+      "sha256": "a08a4b1c0aefa3ec8d4654c82d1c415be931a0f968b7105b470317c9de4df525"
     },
     {
       "path": "v1/images/number/01-0.png",
@@ -5759,6 +7259,106 @@
       "path": "v1/images/stationery/20-compass.png",
       "bytes": 19896,
       "sha256": "d6cc0ba6d8c30748f798e5bf79a00fb863f4a2fd9453f2e4813cce7f3de2df41"
+    },
+    {
+      "path": "v1/images/tableware/01-plate.png",
+      "bytes": 37164,
+      "sha256": "d07e97c53f808e386ba06b5f67169a953cb1b3c91d399933385eb8708b2c10d8"
+    },
+    {
+      "path": "v1/images/tableware/02-bowl.png",
+      "bytes": 20617,
+      "sha256": "829603ae705229b8e7eee3f5497f6108fbca8a015774fc77c039f7cc8675ded3"
+    },
+    {
+      "path": "v1/images/tableware/03-cup.png",
+      "bytes": 28813,
+      "sha256": "60982855ad9be9bcf6ce3a4ff9aabada25c53ccf6130d6ba7f78bee29a63dad5"
+    },
+    {
+      "path": "v1/images/tableware/04-mug.png",
+      "bytes": 31158,
+      "sha256": "03e0a8a6377b2fdc3adee2aeeed137b63c858354a2f5f5a9483d4864487d0f30"
+    },
+    {
+      "path": "v1/images/tableware/05-glass.png",
+      "bytes": 40769,
+      "sha256": "b1954dcab55fd03af9dda3a085a65febbb09c1edbfc68641db524dcb7ba9b9f7"
+    },
+    {
+      "path": "v1/images/tableware/06-fork.png",
+      "bytes": 20189,
+      "sha256": "8408be54104b917d5c51013a39fc35002baf614dbbcb5f577d2a67f765086ae4"
+    },
+    {
+      "path": "v1/images/tableware/07-knife.png",
+      "bytes": 19034,
+      "sha256": "a9cf42230715893486ec3c5b7a6323ac382b96d35348c137eaf24e9f34f17118"
+    },
+    {
+      "path": "v1/images/tableware/08-spoon.png",
+      "bytes": 24169,
+      "sha256": "e71a390ed28ca100b22cc955d11061e15e1c5a8dd776f70685beeb5d76a243de"
+    },
+    {
+      "path": "v1/images/tableware/09-chopsticks.png",
+      "bytes": 17405,
+      "sha256": "559b381e880f89df2dd6dcbd91716d15aa74b9b48248242b9da8adff62a20c93"
+    },
+    {
+      "path": "v1/images/tableware/10-teaspoon.png",
+      "bytes": 18681,
+      "sha256": "4682fd570b6c955a7c57d96cdfdff2b936f9397b281dff8626350ec436ef2514"
+    },
+    {
+      "path": "v1/images/tableware/11-tablespoon.png",
+      "bytes": 22961,
+      "sha256": "b943521d7adecf4caba4ab6207bbadc4b64a160eeac5716a3e5ee3c57f1c7ab2"
+    },
+    {
+      "path": "v1/images/tableware/12-ladle.png",
+      "bytes": 19051,
+      "sha256": "9c92fd0e244be49b9be88e1b4d9fd5d358837a09ff4a055aa6037e7bb9a4083e"
+    },
+    {
+      "path": "v1/images/tableware/13-pot.png",
+      "bytes": 28955,
+      "sha256": "5b8dfa2cd28eaf544cd31b74994ef0c9b2d3d7e0f5adbb293e8e270678f1d941"
+    },
+    {
+      "path": "v1/images/tableware/14-frying-pan.png",
+      "bytes": 28104,
+      "sha256": "b2071750f12ba08b85625ca3f18796472f804ada911f4f57a10673953010757b"
+    },
+    {
+      "path": "v1/images/tableware/15-kettle.png",
+      "bytes": 33784,
+      "sha256": "a4fb9796ae1e808eff15a4d102f2a4e2d472c30cf68c4d65728b1f6974c28018"
+    },
+    {
+      "path": "v1/images/tableware/16-teapot.png",
+      "bytes": 34815,
+      "sha256": "ed577c8fe4f1ff214c65a457cfc4518b5fd5fdea713e435d9350bfc0a50bf17b"
+    },
+    {
+      "path": "v1/images/tableware/17-cutting-board.png",
+      "bytes": 57840,
+      "sha256": "1830393e8595a1a452020714a2acc2bb0a9528c25ef55208b89809b5a48b25ba"
+    },
+    {
+      "path": "v1/images/tableware/18-napkin.png",
+      "bytes": 58941,
+      "sha256": "655bbb702fc99a6b001c917cd0ba19928427a62c62cf54fab483e51fc2fd1e64"
+    },
+    {
+      "path": "v1/images/tableware/19-tray.png",
+      "bytes": 22389,
+      "sha256": "8530e0f93e9d9fc037e2f397f583b8ee9ae1ce5e3be035e6b1b3a87b9578b2eb"
+    },
+    {
+      "path": "v1/images/tableware/20-lunch-box.png",
+      "bytes": 33790,
+      "sha256": "eeadd9b990071ea324290f85cf4207d07072e8621c5066dd75c1e0278d8dcbb6"
     },
     {
       "path": "v1/images/transport/01-car.png",
