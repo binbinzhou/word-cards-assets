@@ -1,9 +1,9 @@
 {
-  "version": "v1.1.0",
-  "generatedAt": "2026-09-29T11:00:21.590Z",
+  "version": "v1.2.0",
+  "generatedAt": "2026-09-30T03:03:29.518Z",
   "basePath": "v1",
-  "fileCount": 1169,
-  "totalBytes": 13906596,
+  "fileCount": 1249,
+  "totalBytes": 15101110,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -2811,6 +2811,306 @@
       "sha256": "3bed1998606db4824b22af2c5ba8a14a9280647f9d37cc8f8c47510f408720b2"
     },
     {
+      "path": "v1/audio/stationery/stationery_backpack_en.mp3",
+      "bytes": 12240,
+      "sha256": "d9f9d7714151516dacf8fef4194b69c15a9575c2c24aebea1a06069373db258b"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_backpack_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "ce96710ad1e7bfd00f9dffd1c0572519131c1ad3eac991469a0690397e05d790"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_backpack_zh.mp3",
+      "bytes": 8064,
+      "sha256": "d35e52fa3571e50a21aadf9973adb07ff647118825faec5e0ad246d251aa81d2"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_binder-clip_en.mp3",
+      "bytes": 13536,
+      "sha256": "c032878f527757763d58971eadcd817a4e66a207c03a2ad9d4bfb2d3fcb7a9e5"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_binder-clip_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "50f424ec5d06a2d7497cd4aaa96e35db940ea3f51b0b87f6ad144eb9bd73456e"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_binder-clip_zh.mp3",
+      "bytes": 9216,
+      "sha256": "81fd213e94008ddef8b5393856753571774f832b3302adf21381504949e9c7d9"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_calculator_en.mp3",
+      "bytes": 13104,
+      "sha256": "9dc8b866a940d58fe5ce2d311fdceb62ddadb13aee7c5332459df2b201b1655a"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_calculator_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "82e2c58cbd9f26257cf9e665ff23f3c8f0fea3e907b61ce9d46579fe6461cafd"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_calculator_zh.mp3",
+      "bytes": 9216,
+      "sha256": "e071916f805a1f2f1857094edbbbfcfb4f4b6e325ac19e3bd7d4c428f2afd6c0"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_compass_en.mp3",
+      "bytes": 11808,
+      "sha256": "507c8491a8e8a50a1d06497fe091fb57acc1d635e594001d426b0f56ac905071"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_compass_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "716575b4dccdb29b751dabc751792aba7646077ba4e4ac311a50024ef2d8311d"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_compass_zh.mp3",
+      "bytes": 7920,
+      "sha256": "328332aadb5c0c548badb26ef395b6956b5cfd015dd30adcdee3791d24108e76"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_crayon_en.mp3",
+      "bytes": 11088,
+      "sha256": "8076840bc67a43105243e7df6a21ef9e1192a1a16d53ed4276711840c7d295f5"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_crayon_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "dbb1514611027622e9fc0dff7df19e52afa061f92b377590ef1bc7f13e2ee1fb"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_crayon_zh.mp3",
+      "bytes": 8208,
+      "sha256": "5620fd1ca5c2905b6054bdfe913ad4a2a23db763658d959a5b052949b575f7e9"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_eraser_en.mp3",
+      "bytes": 11952,
+      "sha256": "4ad204ad09b94567920d726a8976f909fda6b1d16d05fe2544ec434fd5ee40be"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_eraser_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "118663f5792a336facf4eabdaa42a2efa98815701114631898ed8625f830efca"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_eraser_zh.mp3",
+      "bytes": 8928,
+      "sha256": "bb47c7bcc34077c08aa820a9ba4ea9b6b77786ce368bfe4e702fd0aa8f11aa1f"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_glue-stick_en.mp3",
+      "bytes": 12960,
+      "sha256": "2335719444e86e27648241bcbe420967688f8f2e67924227f434af366f2bd475"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_glue-stick_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "15f733cce1535475f52cdf4c9b3805f2d56eeecfeced776e4bbf83f8e6081e36"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_glue-stick_zh.mp3",
+      "bytes": 9072,
+      "sha256": "98f45aafb64c421ffa242c3ea8d060e450a74e3ca2817ad8d0bc43b5a54531f7"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_highlighter_en.mp3",
+      "bytes": 11808,
+      "sha256": "87223f92d5a549f367b6363d7b1808ab7282fac20e6bd64a0b4d36118148e731"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_highlighter_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "d8971799ed24b8575235c8b81d27842dc3156e2839dc8d4f35a0910318fbf1ab"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_highlighter_zh.mp3",
+      "bytes": 9360,
+      "sha256": "bdd627adff9fc8c1efa9e3c39b5e013cda0b5cfa01d9e7268f15375b70fc0046"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_marker_en.mp3",
+      "bytes": 11088,
+      "sha256": "1cc836ea211abd8a76556fa1ea9ad1a41cfea6d9e50a7d267e845fd927e8f9fc"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_marker_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "f6c458c643b16c41fce29edee768e5c76a4ab9fa7d0acbc023cffd298ce57c4e"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_marker_zh.mp3",
+      "bytes": 9072,
+      "sha256": "e3d32701200b26d7c2ee0fcbfd1658ca7dbfca09bcc4695f352a96351604ea18"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_notebook_en.mp3",
+      "bytes": 11808,
+      "sha256": "65107319e830a88c3be533cb66b8d66e6f8e3ef0e65864070106f266b34e53cf"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_notebook_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "907fc9ebea93e2fd6483eaf8f6c528b169ff35e11d94112e62e85cfb1aa8260e"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_notebook_zh.mp3",
+      "bytes": 8784,
+      "sha256": "f30d554d57b132d6f65e96c71d58d1e8b325f50e8a83ee88fa7631c0c17d82ee"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paintbrush_en.mp3",
+      "bytes": 12672,
+      "sha256": "4fd4f957dc995d480fea710774af4f10fcd5e1ba66efa9c268753acf8fa996cc"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paintbrush_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "5497b5cda80312dced25b411969f8bb2659795d0e06e5c6345e609ce4da91f99"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paintbrush_zh.mp3",
+      "bytes": 8064,
+      "sha256": "ff07d4e744b7a76fd2013766de62f3c239a65d685830da529f3bffe26acfe389"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_palette_en.mp3",
+      "bytes": 10656,
+      "sha256": "2dba68c92b9b78bae0341685f14284566c2cb172ad66ac6e0c651d28462c4d89"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_palette_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "752fcff57f2ce3d4d8ca1f933742559a786a7e226354b07c4c8456c864467935"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_palette_zh.mp3",
+      "bytes": 9360,
+      "sha256": "c370ea62da8b60ba1695ee6dea0146c0c1696815e21b7e8df060019669b074b0"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paper-clip_en.mp3",
+      "bytes": 12960,
+      "sha256": "54d2373176628eb0cb384d9d0377c41f2e8b02aa36da5feb1c7a381d8031ada4"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paper-clip_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "52dc631ec57fb0fbbdf78a00715b85851afe39a0821e9b13259b12157dc412ef"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_paper-clip_zh.mp3",
+      "bytes": 9072,
+      "sha256": "877c981ffccb7496c7ecffa1c94ef489d766b8da325767a7f5bbce224fe2f9af"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pen_en.mp3",
+      "bytes": 9936,
+      "sha256": "a2d5fced3ae050ce17138de99d51d066e48a8b0d7b911aea6f1ca185126fc13a"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pen_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "8b107f95c7d4b96271227ed11a6237bf4f63b3577f3c4a41bb5082b981a319c3"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pen_zh.mp3",
+      "bytes": 8064,
+      "sha256": "7f868650b7479a67a780bbc41c9a881f6013fa439bf4102fa17c843898bb995e"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil-case_en.mp3",
+      "bytes": 14112,
+      "sha256": "15e161ad6dc4eb674edc9f5972355753d6c56e323a7cf8559f60af2a94e3308b"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil-case_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "dff423a04c460a8c01e71211bec6e867bd9e293213d1e9c76928f74bcfae9a4b"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil-case_zh.mp3",
+      "bytes": 7776,
+      "sha256": "d8b52ef36c93e6668a1cc909e641e19b26c61501282ad6865185054921b2cec6"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil_en.mp3",
+      "bytes": 11376,
+      "sha256": "25ef92b9e5bc14d7063a4dc65abea10d9e09f3f99bcbe32f093b98ab655735c0"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "2f80ef677148771652701971c06d4db97da44b7faeb9b34d4eaa9a7d10be2cd5"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_pencil_zh.mp3",
+      "bytes": 8208,
+      "sha256": "842fa99605db339629bb08bb387ddeb17a01f3a4df107e67e361abc128dc069a"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_ruler_en.mp3",
+      "bytes": 10800,
+      "sha256": "f3a54f3d08352de3098c0dd465fcaccf1a2888834b4a898b4c235839eeea7983"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_ruler_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "d5fd6b1fea78d23e6c2112e40b381b1b16285c8a9bde3d4d4f0fde182fd8de4a"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_ruler_zh.mp3",
+      "bytes": 8064,
+      "sha256": "11d59eeab9f66c590f8d6398bee7b387c4c14569d71793574ae92db6dc5ae1e0"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_scissors_en.mp3",
+      "bytes": 12240,
+      "sha256": "59c42c67e1fe7c4665a20e3df9504cb0dfad0e0e9c70afb5cb33a344a3ecb4f9"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_scissors_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "246ec93cef8147eda8f9fb590828f8b070e508d7d45fc07346a84d061958dbdd"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_scissors_zh.mp3",
+      "bytes": 7920,
+      "sha256": "bd43015814992343b2bba798cc6739d4dbce30f4e727fdad269b3763ff643011"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_stapler_en.mp3",
+      "bytes": 12096,
+      "sha256": "b9ff60e6bfdc1c29a1f76ed2fd1cb56b15650d599ff3b009b3ad7138ed5f5a84"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_stapler_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "c1f69441ac2723662eebb7dc3bece2fc735fa71eaee6cdb5a3170dbdc5dec052"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_stapler_zh.mp3",
+      "bytes": 8928,
+      "sha256": "c27900aaef10d6ef2680df9314d5b6bf2483eaae5232886d974f1571c029ed6f"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_tape_en.mp3",
+      "bytes": 9936,
+      "sha256": "f89da627f52f720d6a71eed95eb1aca1e598ed315344a862b7400e204872d45e"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_tape_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "f134f1e4b61391098c6f167ecfb7c05628fd50ab30d590c410207e410d5d7f89"
+    },
+    {
+      "path": "v1/audio/stationery/stationery_tape_zh.mp3",
+      "bytes": 7776,
+      "sha256": "62d87b01e70c4d1214ba8db166a178ed7753604188930c2cf5c3851990cb521c"
+    },
+    {
       "path": "v1/audio/transport/transport_airplane_en.mp3",
       "bytes": 11952,
       "sha256": "b6023af55680b7f3543f4505fee0cd6aeee3ba19c561bec630b3b48a436d404f"
@@ -5359,6 +5659,106 @@
       "path": "v1/images/sports/20-swimming.png",
       "bytes": 11290,
       "sha256": "1df2355519cd59b73ea3812e1eede695fb532ba5cf1fefdd82963c89420a1944"
+    },
+    {
+      "path": "v1/images/stationery/01-pencil.png",
+      "bytes": 16267,
+      "sha256": "8bec8dd12e40535ade7b2b17e34ac5bc49840a13c87f3f32484ee34aa71ae214"
+    },
+    {
+      "path": "v1/images/stationery/02-pen.png",
+      "bytes": 16705,
+      "sha256": "7d9f0919156f250dc2e6d072f82dae0e57439b4ad8f674e096beba639a121f65"
+    },
+    {
+      "path": "v1/images/stationery/03-notebook.png",
+      "bytes": 49800,
+      "sha256": "333c31cf74af079fa397352e4eda297c2eb8d166fac7f4c6fbe28bb3fb465606"
+    },
+    {
+      "path": "v1/images/stationery/04-ruler.png",
+      "bytes": 26386,
+      "sha256": "4a707587c8f6c5afddd2879b00dd89eb8726417acefa47ec5ee684b1ad325286"
+    },
+    {
+      "path": "v1/images/stationery/05-eraser.png",
+      "bytes": 24198,
+      "sha256": "cb87fdb6bbc723e5bd1df68b2a8c71ea0c184456f4338cc1ccf925bfb244f752"
+    },
+    {
+      "path": "v1/images/stationery/06-crayon.png",
+      "bytes": 22341,
+      "sha256": "919627e02d61a5245ec03544705ac877310666cafff250a1f30b1be68b80153a"
+    },
+    {
+      "path": "v1/images/stationery/07-scissors.png",
+      "bytes": 25621,
+      "sha256": "3ac9c712f77615aa5687e6f12bf94035c4ab835ed14a0b8856a4f7ce5256f07c"
+    },
+    {
+      "path": "v1/images/stationery/08-backpack.png",
+      "bytes": 38733,
+      "sha256": "ef232058d6a0e7668f8ec23134f8110ecf3bfbb2980a1712e2a257b0df40f8e8"
+    },
+    {
+      "path": "v1/images/stationery/09-glue-stick.png",
+      "bytes": 19656,
+      "sha256": "2111ccb0d39c069b0f8dcb4a1717c2509e1b1873624b25c242224aaf2f217b09"
+    },
+    {
+      "path": "v1/images/stationery/10-pencil-case.png",
+      "bytes": 31247,
+      "sha256": "7123d4cf944ad5320a6ac5b7b40b3f33f6c4ae5cc7d5cd950fb9844abd23c3bd"
+    },
+    {
+      "path": "v1/images/stationery/11-marker.png",
+      "bytes": 19787,
+      "sha256": "965c8a808e38ca59de045ca26563aeefd916bef99a9dd71d53f569b359f79b63"
+    },
+    {
+      "path": "v1/images/stationery/12-highlighter.png",
+      "bytes": 24117,
+      "sha256": "b601a717b34f626906652fd9d36f8b7e65643128e83d1f86c3f26edd1a2ba7ea"
+    },
+    {
+      "path": "v1/images/stationery/13-stapler.png",
+      "bytes": 32182,
+      "sha256": "1f5af429ea5425dcbc3f05715137306609f36198a896f46990a7a72f0d488b6e"
+    },
+    {
+      "path": "v1/images/stationery/14-paper-clip.png",
+      "bytes": 33141,
+      "sha256": "f4f259fbba4d95bfabef7b9e180765479f2d2d423fe49d08f36f6b95dc396677"
+    },
+    {
+      "path": "v1/images/stationery/15-binder-clip.png",
+      "bytes": 38603,
+      "sha256": "99026e4222791510ff85af672729442637ae30bf509359b9fca45da53132394c"
+    },
+    {
+      "path": "v1/images/stationery/16-tape.png",
+      "bytes": 41709,
+      "sha256": "985a0aa9d8aaa8f8ba0310b169159a99e7004adc3aa8cfbb42f4aa2e01352491"
+    },
+    {
+      "path": "v1/images/stationery/17-paintbrush.png",
+      "bytes": 19380,
+      "sha256": "7c0a458002e9628c86b6146c8582c1ac4a572de9a85eae618aa041b09fa15225"
+    },
+    {
+      "path": "v1/images/stationery/18-palette.png",
+      "bytes": 37828,
+      "sha256": "5c107d22416e8f3d27742045a4e28bf0fc2f09054ade508c51f3e3a71b4933d7"
+    },
+    {
+      "path": "v1/images/stationery/19-calculator.png",
+      "bytes": 38149,
+      "sha256": "04fe1b3c7818e1dc649b8727990c1dc2b3c49504a211efdb3e0f57ece4a9f88d"
+    },
+    {
+      "path": "v1/images/stationery/20-compass.png",
+      "bytes": 19896,
+      "sha256": "d6cc0ba6d8c30748f798e5bf79a00fb863f4a2fd9453f2e4813cce7f3de2df41"
     },
     {
       "path": "v1/images/transport/01-car.png",
