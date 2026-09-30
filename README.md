@@ -2,7 +2,7 @@
 
 英语卡片学习小程序的公开运行时资源仓库。
 
-当前版本：`v1.3.0`
+当前版本：`v1.4.0`
 
 ## GitHub Pages
 
@@ -24,14 +24,14 @@ https://binbinzhou.github.io/word-cards-assets/v1/audio/fruit/fruit_cherry_en.mp
 固定 Tag 后可以使用：
 
 ```text
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.4.0/
 ```
 
 示例：
 
 ```text
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/v1/images/fruit/01-cherry.png
-https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.3.0/v1/audio/fruit/fruit_cherry_en.mp3
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.4.0/v1/images/fruit/01-cherry.png
+https://cdn.jsdelivr.net/gh/binbinzhou/word-cards-assets@v1.4.0/v1/audio/fruit/fruit_cherry_en.mp3
 ```
 
 不要使用 `@main`。资源更新时创建新的版本 Tag，不要覆盖已发布 Tag。
@@ -50,6 +50,15 @@ v1/
     furniture/
     tableware/
     stationery/
+    insects/
+    dinosaur/
+    birds/
+    scenery/
+    profession/
+    movement/
+    country/
+    time/
+    site/
   audio/
     fruit/
     vegetables/
@@ -58,6 +67,15 @@ v1/
     furniture/
     tableware/
     stationery/
+    insects/
+    dinosaur/
+    birds/
+    scenery/
+    profession/
+    movement/
+    country/
+    time/
+    site/
 ```
 
 `manifest.json` 记录文件路径、大小和 SHA-256，用于校验发布内容和后续迁移到云存储/CDN。
@@ -68,14 +86,14 @@ v1/
 2. 校验所有图片和音频均可访问。
 3. 更新 `manifest.json`。
 4. 提交到 `main`。
-5. 创建不可变 Tag，例如 `v1.2.0`。
+5. 创建不可变 Tag，例如 `v1.4.0`。
 6. 推送分支和 Tag。
 7. 等待 GitHub Pages 发布完成。
 8. 在微信开发者工具或真机验证。
 
 ## 许可
 
-当前图片素材包含 Microsoft Fluent Emoji 相关资源，以及饮料、衣服、家具、餐具和文具 AI 生图；Fluent Emoji MIT 许可证保存在：
+当前图片素材包含 Microsoft Fluent Emoji 相关资源，以及饮料、衣服、家具、餐具、文具、昆虫、恐龙、鸟类、风景、职业、动作、国家、时间和地点 AI 生图；Fluent Emoji MIT 许可证保存在：
 
 ```text
 LICENSES/FLUENTUI-EMOJI-MIT-LICENSE.txt
