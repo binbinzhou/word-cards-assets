@@ -1,9 +1,9 @@
 {
-  "version": "v1.6.0",
-  "generatedAt": "2026-09-30T10:00:58.716Z",
+  "version": "v1.7.0",
+  "generatedAt": "2026-09-30T10:46:06.115Z",
   "basePath": "v1",
-  "fileCount": 2289,
-  "totalBytes": 41669228,
+  "fileCount": 3099,
+  "totalBytes": 55559402,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -2646,6 +2646,606 @@
       "sha256": "f512323bba438b99b8f64cc4e567cc066c695a9388d2c66e4b732c3ca41fde2e"
     },
     {
+      "path": "v1/audio/feelings/feelings_angry_en.mp3",
+      "bytes": 11088,
+      "sha256": "d30a56ed53f6152b00cffb9fbfee5c8e96b0b7af31033e5fff63169c8412a585"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_angry_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "d0ddc126918f0d122464766168c6534abd88f3bfc3df6d4b9c95c729c66061e7"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_angry_zh.mp3",
+      "bytes": 8640,
+      "sha256": "2e162bc474390cf41c0acf7f3f945c101de3aec168052fdb6d44d1b2f0840785"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_bored_en.mp3",
+      "bytes": 10368,
+      "sha256": "6c667d2d41aa8f212c9eb80b9b2898723be125d1f12cf3a3344a38eb55f26a06"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_bored_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "0ec13c5827e1c83fc75f2cf07a3a511a41d13ad8022a7952ed3d7eb96d6fa6ed"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_bored_zh.mp3",
+      "bytes": 7776,
+      "sha256": "61aa069fd3a9f663fc928b4ca221b1771d6732195d06fe4d8f9540b662a39076"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_brave_en.mp3",
+      "bytes": 10656,
+      "sha256": "2b3e8e0a0bce5673fb3af7162394e4989510f3e255b48a8c2bea8a609017b888"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_brave_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "df9525852bc6d96b2831b91575ec78051fc6c7829d9f7eda3815b6466f539eaf"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_brave_zh.mp3",
+      "bytes": 8064,
+      "sha256": "4b205656309df37f24afde9a21a6913112bd26ed32f473a7e28bfb77671ad90c"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_calm_en.mp3",
+      "bytes": 10368,
+      "sha256": "7dbfef17af746a588945df9473db8908b4ac7243878cf8ac50b3f4d7e5c553a5"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_calm_en_female.mp3",
+      "bytes": 8928,
+      "sha256": "caaf055d4fcdc996507c679ad5a578bb505b24bc6943b1f0963e8aa0b29045ac"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_calm_zh.mp3",
+      "bytes": 8064,
+      "sha256": "3ba71adf9c1af5422c7b405aece489b1bb6cc07431af6785c6fa673e9a81246f"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_confused_en.mp3",
+      "bytes": 12672,
+      "sha256": "b5ceaa74fc0cb03d70ff2a8c2daafe4605a298bdd60ede706ab62d072760bfb6"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_confused_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "3f23bfe43ada7b9444fbaa115accf6f3d7677e3096fad08fc6ca3d13fe79e8bb"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_confused_zh.mp3",
+      "bytes": 8208,
+      "sha256": "9449aa622365528d75266c43b628eaa7a0a82c5ffd17f3c8b4c7b498ad7cdf93"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_curious_en.mp3",
+      "bytes": 12384,
+      "sha256": "21631a60a0feedad4932ec2833b3c36d7fd2016a38daac46be91a02c72bab894"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_curious_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "bb94dd94e25cbd4bd27f898de88a2300cb37b753e796e15666512b8541d849b9"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_curious_zh.mp3",
+      "bytes": 8208,
+      "sha256": "f006c6a94f7d9f76a81ef2a6143c30b4bcd10c2bccacc66ff41422cefa762715"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_excited_en.mp3",
+      "bytes": 12096,
+      "sha256": "fe99dac49eb89734375c12c813d8e113449d6307d29bd33b8c3612f59bb3c6a8"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_excited_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "7e1ccdd32a177f83c2bf948669cd0b8eff907b03b4ac029abdfd4ee0d2aa65d1"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_excited_zh.mp3",
+      "bytes": 8208,
+      "sha256": "1b1f6c594e71a5ec71ce2dfaa3efb0e5e53f315b0957bf60c9fd9735f5ea8a81"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_grumpy_en.mp3",
+      "bytes": 11088,
+      "sha256": "d37ba537bb90ba30a9b437fd12062fa8316f87b1c05b61b6883ab1190a627d4b"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_grumpy_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "c7c8059af76f4b0c6845885c5bed7501a634bca1da3f4ae6a39dc0913818fc12"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_grumpy_zh.mp3",
+      "bytes": 8784,
+      "sha256": "f482b527b114efee5c528378cc3024b33bc3e464decd833546b453595dce2ef0"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_happy_en.mp3",
+      "bytes": 10656,
+      "sha256": "8b8347a5c5e2fbff52900cafea9c4794197a3dc6f4e6ffe341a25245f602da15"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_happy_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "a1f4d108eed4285f81f90c563e791202c5ebfe5347e9d70eac41b4b1e920c7a2"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_happy_zh.mp3",
+      "bytes": 7920,
+      "sha256": "5d9562f3a8e06cdb5b14c3f60501186e87dfb671baa2a10557efe0d32294e4f9"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_hurt_en.mp3",
+      "bytes": 9936,
+      "sha256": "21cd32f5e6f78b946dfa6e81795faf46827d006527eb6863bd02fa5c667a7843"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_hurt_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "2a7c16928e7e83a1a1136fe1012300e6c92e7e0e254f0a3599ed49818a171a78"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_hurt_zh.mp3",
+      "bytes": 8496,
+      "sha256": "319d43773ec4404823925e2321db23a1e224e6211838171f6c60ed9dfc21984a"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_lonely_en.mp3",
+      "bytes": 11232,
+      "sha256": "3bdac63b7684371c03e24d5a2fc18aee1102e329d31469f1eed55e102c7d0edd"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_lonely_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "885faae533baeaeb0e10fd23070e36acb65fd6618855600c1aceb2a467ad942c"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_lonely_zh.mp3",
+      "bytes": 7488,
+      "sha256": "49f13455c7322a111c6e5ef92864d956571626fe6a12f40a22e87d81217fe1cd"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_loved_en.mp3",
+      "bytes": 10800,
+      "sha256": "24fe3526d00c2eef0ffa9af2e73129a1a1a59346656798dc6f225b2dd23ea8ae"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_loved_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "b3f4c986589e16af7d38e23be4451527ab22e75f127739a35f988ea22b249d45"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_loved_zh.mp3",
+      "bytes": 8064,
+      "sha256": "df980b2b3312a6853a0c2be755ed400f6c150184ae43709dbda31cb968bb0f72"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_proud_en.mp3",
+      "bytes": 10656,
+      "sha256": "757abf1d16e9ad7501bc7fd4014884a6f8ca0078ee3af28f895057ec71e6f27a"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_proud_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "a7516bbc7bc645949d13015d765f75a402ac20b53b35661f6aeacaedaa9b3d54"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_proud_zh.mp3",
+      "bytes": 8208,
+      "sha256": "a72d912acbc2ee8f8bdfb7814374233c6c4af900db185013eb3e735fe5cbe54d"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sad_en.mp3",
+      "bytes": 10656,
+      "sha256": "877d2b7d8f82d97e27447197c94856bc12424117ec289a1c6d42f0efaecca209"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sad_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "0cb30a8893404b18d13c2da2f8f32f11dd0c4048fa5e69f18266e5f29e468981"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sad_zh.mp3",
+      "bytes": 8352,
+      "sha256": "c0fc9509eecb0c5816cd53b079e1cc9e4e71c4d9ae6db43f1dd78704e4d93aa7"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_scared_en.mp3",
+      "bytes": 11232,
+      "sha256": "0d5640d3843a5b39c4d40b2dac2fba246f69cb706450a3d5ce34ed8154d3320a"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_scared_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "6d4aa7fc6978befb4d1b4b220fee796a5eb211a95c873e67e446c74debc8b247"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_scared_zh.mp3",
+      "bytes": 7920,
+      "sha256": "fed2747d58640c93d2b5fae88c2f2bbec1660c735dfa77a7fad9412c2ddafb74"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_shy_en.mp3",
+      "bytes": 10224,
+      "sha256": "5ae6de45b0e31ae2f698e75f42b661566650b2e17ee912fdc962a2b2ad43ae43"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_shy_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "7ce00788bb7f1f81969ff1d4951101bb36ad5817a01d76e383c229df0eb9b66a"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_shy_zh.mp3",
+      "bytes": 8208,
+      "sha256": "0119caa2e51b5bdc72f6aa5e5dd98e601f16944712c38f5176ed5f26b80a042b"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sleepy_en.mp3",
+      "bytes": 11520,
+      "sha256": "da40679f20318417fda02f0c6d54c741699022489d3402c296b5d151c64d523b"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sleepy_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "dfec695f4c75fda658cdc1a8f2ce8da14b916f71fe8af8e4118456102d7b833b"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_sleepy_zh.mp3",
+      "bytes": 8064,
+      "sha256": "a8e4cfc4e240ffc5d5911a033e751ef31eb1ac99e472e1b894533736b5483184"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_surprised_en.mp3",
+      "bytes": 12960,
+      "sha256": "835fa001e8d76a0df7fc3a2b36e0334a8b23b31ad1b31c0360d8e9ce712849a3"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_surprised_en_female.mp3",
+      "bytes": 11376,
+      "sha256": "04b021fc7334afec07768369fc303b95121a99f61f5407f8ec3c799ef3807c12"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_surprised_zh.mp3",
+      "bytes": 7776,
+      "sha256": "f2877891038d81fd8fe2cbc5ffc3d14e7de20b7256ad5fb4366b3357aa09994b"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_tired_en.mp3",
+      "bytes": 10944,
+      "sha256": "f9e576c7af0e512fe60c91cdf7fe3dd3359ba514381355f725b692042d8d6410"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_tired_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "b7377f5d949b8358c91f2ae317543b47820eb8b74b7b37fd50605f41e98c7a75"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_tired_zh.mp3",
+      "bytes": 6768,
+      "sha256": "48cb39ab0825e7c533c139a62ce1ba35142c6305cd068769b8698d943194bf0f"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_worried_en.mp3",
+      "bytes": 10656,
+      "sha256": "2d3a931a0615d80db43044f747618115bb5a3e1d017228ad546b4ab1adeaa34c"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_worried_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "e5831bfa398e5cecccbef08a9a03d2aa295d96607f409c99e15e10c7acc18ab9"
+    },
+    {
+      "path": "v1/audio/feelings/feelings_worried_zh.mp3",
+      "bytes": 7776,
+      "sha256": "15944a0164e2cca73f47c5de17f6635184c1d0df7a10370ca0714f5511e9af7d"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_balloon_en.mp3",
+      "bytes": 10800,
+      "sha256": "0ea562d978e39c1bcefaf0788e4da1756c45d932f5ba6e622fea316d1bf69949"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_balloon_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "36e14cb8b98afdd763d4a768ee84d8771903b98cf05d227e0bb4507dccedc6ab"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_balloon_zh.mp3",
+      "bytes": 8352,
+      "sha256": "eae12f8da79b41489751d499d1de4d366575be2bd65bebbb988533382bc5f411"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday-cake_en.mp3",
+      "bytes": 13968,
+      "sha256": "edc5ff0e20f0ae680992e38b71e327db1ae5b3ae7c1fc23a979b9b7bc0debdf7"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday-cake_en_female.mp3",
+      "bytes": 11808,
+      "sha256": "e0d05ac5a1afe46991c2074684472c396c860a065642ee26d21501a7fcd4afb1"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday-cake_zh.mp3",
+      "bytes": 10368,
+      "sha256": "69217179b52ff17d8d21a0849b1a169d4f1f88c94f24a0168c2d54c8dbb32eab"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday_en.mp3",
+      "bytes": 11520,
+      "sha256": "c49bfbd0c5794dfe1a9a6b5745ebfa83699ab2b6676966d1e46d508efbf0cd62"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "a4f5b17e145ecc44db8a70596503f7cbd2384f5b961d764912a5d7ebf3acc937"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_birthday_zh.mp3",
+      "bytes": 8064,
+      "sha256": "262855838dfa67c3bb606ca2c2420f541107207724516f80d4ebcd6a115e6f23"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_childrens-day_en.mp3",
+      "bytes": 14112,
+      "sha256": "85f5a1a1ac87b665122da5555236b410c5f563dcdda09db1e01b2b42e6e65476"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_childrens-day_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "6d99ec85dbf236ae3718378418050c3018ffd72438e744de51a1cad46f32dc55"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_childrens-day_zh.mp3",
+      "bytes": 9504,
+      "sha256": "c8c123af5482a821d0034815d38aba081bc4e620142f669976f2ce8758f4fcbb"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_chinese-new-year_en.mp3",
+      "bytes": 15840,
+      "sha256": "dd1e578ee9e11c31a7ea818bc5dd4d4555e16b362ac7cd1ae60cd993ae0271e4"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_chinese-new-year_en_female.mp3",
+      "bytes": 12960,
+      "sha256": "baa83f9531cc5aa55d884e4e39d61e869b7f73f0d7e88ed333665738cd7246ac"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_chinese-new-year_zh.mp3",
+      "bytes": 8352,
+      "sha256": "ca12ec36597a55d40457d7d4685981297adb20261c3e1c56c34ffb5ac9a1c40d"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_christmas_en.mp3",
+      "bytes": 12384,
+      "sha256": "f012ed9fc3ec7cbfb52504c4ad9e03bf8b37775662eaf000655371a59042b569"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_christmas_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "3e60f8cca52b066b857051c6f2e30a114a04c0d42d175e7641f2239c1027de01"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_christmas_zh.mp3",
+      "bytes": 9792,
+      "sha256": "820a892cbf10bc83de30c58936556a488d7bc6f494fd806c42db915f454d529d"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_dragon-boat-festival_en.mp3",
+      "bytes": 18144,
+      "sha256": "2090b06b0ffe41e0fd75cec6f7a05693093d76386c8859223299230bc6b6d423"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_dragon-boat-festival_en_female.mp3",
+      "bytes": 14544,
+      "sha256": "92fbcbd7d5d64132750e1542cf584e57ed29365ed070d85d33d09f238e3c6a4c"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_dragon-boat-festival_zh.mp3",
+      "bytes": 8928,
+      "sha256": "bacd5588159a2d4f22ad8079aaa70af5b390aa98e8f6761c920cfa8ab15e0998"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_easter_en.mp3",
+      "bytes": 10944,
+      "sha256": "941f33b9da24351e27f1193afc4097259f51b39ff4129605efaa353310a6d450"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_easter_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "99489b473e4712cab79645cef64bfa0c7ef5bdfe74490eedddad693c76fe1324"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_easter_zh.mp3",
+      "bytes": 9216,
+      "sha256": "ca85344893589d894da10882723872cbd1575fc01e3df7fab8ab0ae6a266bad6"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fathers-day_en.mp3",
+      "bytes": 13392,
+      "sha256": "1c7363d8154a2444dd2a588cec2e51972a4dfa1b74b4cc19f4e311d7865ac149"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fathers-day_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "2318487d8565285237a668502a26e5fee6c7304847e9755c8713d0d6d7cafd66"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fathers-day_zh.mp3",
+      "bytes": 9648,
+      "sha256": "74fa20231d56bf5404c78adfc15caec859176dd6badbf0f98633dc4d6ce13a4a"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fireworks_en.mp3",
+      "bytes": 13824,
+      "sha256": "bce8dd68052803e2b04e0d85dfb39bc7d08f17855a60abcf3085a8512c975beb"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fireworks_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "f2696d1b21a67a633f3fd395ecbe7cff9567491a11a3ffc1fb036f51ef216269"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_fireworks_zh.mp3",
+      "bytes": 8064,
+      "sha256": "5b4fd7ae254f7b034c1986fe231fe139d0b7219a80ed76a9624320e6a551226f"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_gift_en.mp3",
+      "bytes": 10224,
+      "sha256": "5fa95a3ecb9d8ad77cd270bf17e47f0d0eb69f9b5f89ec845170ac3c0de3af9d"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_gift_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "63d13bb091fbe31a438b1b9893a714eb52e5353a473aff6f43ad0794585c8f19"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_gift_zh.mp3",
+      "bytes": 7776,
+      "sha256": "0371f92e9bc574695a566990e927fd7b243b4d10b294d6fd729d077166b584d7"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_halloween_en.mp3",
+      "bytes": 12096,
+      "sha256": "d8b7d76862fd8e6ff88d642878f2b80aa5c2442e5a07cad2cd00a282d457bcb0"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_halloween_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "7c5d5ab21799a18dc8178f574cc37cb9ee81e2a579a53673ce864ea9fb468a28"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_halloween_zh.mp3",
+      "bytes": 9504,
+      "sha256": "4a23ad7a6c4082a8198049960b60c10ec2d58d155dd3de155243f1da95d218b7"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_holiday_en.mp3",
+      "bytes": 11520,
+      "sha256": "408a7cd5e19be88f190700c8cdaf1393d2a0842ce8149bec39a1154b578253c4"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_holiday_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "02a579a206a0bf14c4e22ff3acc1432bfcaebfbd3de64f18dab0f95ebb20aaab"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_holiday_zh.mp3",
+      "bytes": 8064,
+      "sha256": "e8754106361b497c9c8527d01473053aabf7d6ce97b0d5a88fcd5a6a5534e2b3"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mid-autumn-festival_en.mp3",
+      "bytes": 16560,
+      "sha256": "7bad934789426644d61c8cfbb99ef27668d963c62731b6af7afaf899f91cb612"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mid-autumn-festival_en_female.mp3",
+      "bytes": 13536,
+      "sha256": "3a4fa168b43c9792b4e94c8bf5e2942a4f268d646a0c5a27d9de0e4696622559"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mid-autumn-festival_zh.mp3",
+      "bytes": 9504,
+      "sha256": "5b6a121324d50742f7614fd8095d42fc4808737715c7330f9cd4bc624f79d2f4"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mothers-day_en.mp3",
+      "bytes": 13104,
+      "sha256": "5cf9a8ab7a42a39a53a54d6514db0705e5adb986dc8e5a4d1d0f1ca6b785ee58"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mothers-day_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "6d2c15d2b76be6be6c53a1f8caec923a7a7ad431f13da6ccc9b034086fc6162c"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_mothers-day_zh.mp3",
+      "bytes": 9216,
+      "sha256": "936d184248191157049145fd20af3e1cdca40a6f201e7824838b90adc14c42c5"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_national-day_en.mp3",
+      "bytes": 13824,
+      "sha256": "eeaed10fb34ec31508eef2363ece6b296f284e94315a4ed035844aebcbbc372c"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_national-day_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "02b880f441b55f291a8af3c761aa1a411702afddd7605437455a2f7338bd0de6"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_national-day_zh.mp3",
+      "bytes": 9216,
+      "sha256": "c73912d3371603095e3888d0ab407ab485bbb699c495f6eca43ad03f461555f2"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_new-year_en.mp3",
+      "bytes": 11952,
+      "sha256": "bf42fcce24fc071646ee00848c4180582668e47028fc4398867ce1d94239d567"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_new-year_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "08ec8d2f7ac3b7a5a24f15fe4021872280f846902ee8d7fc4ab943bbbd216643"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_new-year_zh.mp3",
+      "bytes": 8208,
+      "sha256": "cacb1283271b542cca07b90bf660426edd350a83245bf2cc59d45815a3ef66d7"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_party_en.mp3",
+      "bytes": 10368,
+      "sha256": "79ba06ba4067461f574d7eed20fde01aaffeae382bc840bb2926cc657a786305"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_party_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "c79b43743071a1711a9396e87accbe3b25faa7ba511f73d12c38c5b36572e724"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_party_zh.mp3",
+      "bytes": 7920,
+      "sha256": "5cf0e5667913fe2ed9865e45ab808193e37399f09d53d9a82644f76349e2d004"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_thanksgiving_en.mp3",
+      "bytes": 12960,
+      "sha256": "8494b66d6c742934a4d848d9693aa37eb66c174e7d1d1906bf8ad037a158eb52"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_thanksgiving_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "64fc341afb9f760cda877c5bbabe993f4b129a3f916f1ba559ef6d635adcf9f6"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_thanksgiving_zh.mp3",
+      "bytes": 9216,
+      "sha256": "6879e0663120c90be93efb4515521d0aec03e327bcb487a2293eb7deb437b27d"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_valentines-day_en.mp3",
+      "bytes": 15264,
+      "sha256": "cf475c82d9311cc2ffe639a2aed694d7883de3a1c10d4a9a54a0c47d3a1c3f56"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_valentines-day_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "fe22cca85f71a72d4f5f791fc9e48f877ec2def9ab247c5ed655ddb622bc613e"
+    },
+    {
+      "path": "v1/audio/festivals/festivals_valentines-day_zh.mp3",
+      "bytes": 9504,
+      "sha256": "4e89fb5f3ff4f4b67022491c3a1d4714e00175527f7ca64b830fd3b84320266d"
+    },
+    {
       "path": "v1/audio/food/food_bagel_en.mp3",
       "bytes": 10800,
       "sha256": "f25ad532fb0e1bbed5685af711b9d68418f8f487229851eac7a73555d63adc83"
@@ -3546,6 +4146,306 @@
       "sha256": "084038c83f54d0eefdeace8d06d4710e4711c6ab73f25cdd05b4f48fcb7904c8"
     },
     {
+      "path": "v1/audio/hygiene/hygiene_bath_en.mp3",
+      "bytes": 9936,
+      "sha256": "3fd1c87f114c3739d92ebeb641436687f6f6e8e95c47eda9369fe8800a107cee"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_bath_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "152bd5e22a6817eeb5250f88361671aa0b4937239c5b9dc9741ee2475574ef4b"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_bath_zh.mp3",
+      "bytes": 8352,
+      "sha256": "36c355fa9a0450bca1100650a86b2fd7ff5c20003bb8f983c838f815bc4f4a7f"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_bathtub_en.mp3",
+      "bytes": 11664,
+      "sha256": "a206b772c0bd2a39a23842b3553bbb6e4ba17d49832bc7ab52cee00765a69db0"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_bathtub_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "85139368629a13fc2ee53cf1d6f07394a8b7b43fa11788c7339abafcc014d250"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_bathtub_zh.mp3",
+      "bytes": 7632,
+      "sha256": "14cfc4fccd9eabf6017bf068de320706151c6ea83b7493ac7403085443be2431"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_comb_en.mp3",
+      "bytes": 10368,
+      "sha256": "e3cb8314e5ba69699845b7739e892719d8e56c95fbbc8c27354dbf75c9314b8f"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_comb_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "cd48746e2740f42d4563412c3c1d52dd8c60f1c39d219cce2c44c0c4b6033c46"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_comb_zh.mp3",
+      "bytes": 8208,
+      "sha256": "2d10a3e46172991db3357ad74fb1603f5d115f6027449719e211ee3d744ce9d2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hairdryer_en.mp3",
+      "bytes": 12384,
+      "sha256": "c1678e459e98ec372d5b844f5a6b29cea012aaf1510e477c23664524d9aa01b4"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hairdryer_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "5565d0b44896754edf7b0885851b1a3103e40de8a13e00eb4052849d4e2fbcb2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hairdryer_zh.mp3",
+      "bytes": 9216,
+      "sha256": "e8c85d0cb0c487d395814c207d20340b53d2c3157d49a935bfb82176a7529750"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hand-sanitizer_en.mp3",
+      "bytes": 16704,
+      "sha256": "bd6a8fa80c464454b2a0ef709ab8c583f3a90ad7c71fa73089f8463a251b0138"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hand-sanitizer_en_female.mp3",
+      "bytes": 13248,
+      "sha256": "a26870e72a16edc652e035e03f52119a017537839dcf619bc0c69e536485a26b"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_hand-sanitizer_zh.mp3",
+      "bytes": 11664,
+      "sha256": "6b269c8696eecfd3407b8d9ab707f651a974a08ff39068dfd1b1c865372088af"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_laundry_en.mp3",
+      "bytes": 11808,
+      "sha256": "c57e02cf19956c7c1fdd2193b06cc036bb4a0f40b5a3e577e9046ac8343031da"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_laundry_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "76c4bae607b31bdd7b063750b39b1e0286a1b98bbd6d2d7ddea4e9a8b0f1bcf4"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_laundry_zh.mp3",
+      "bytes": 10944,
+      "sha256": "4b60328e81f3edc0982ad307cbed327537a3eaa83d1405132a38607127ee5252"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_lotion_en.mp3",
+      "bytes": 11376,
+      "sha256": "1430360414203d7e157e17be56b457a2e16e42d6f95319e0a987d594962febf8"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_lotion_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "054a6199bfdd5aa5a7641dd5aed8351d6e0c827413cc415d42b6ef98cac6071a"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_lotion_zh.mp3",
+      "bytes": 9216,
+      "sha256": "b48d370c599056eb6f32e70f10035b82ca2dc486491345fed91191d08285fc1b"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_mirror_en.mp3",
+      "bytes": 10800,
+      "sha256": "6c7685ef656d5da936dffc3f81af7881efecbbf044612562939d4d01b232c79c"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_mirror_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "2d1f68dd50f2617e3a8af5f774faba0181a44d5bf9829cef6443cc23e7e1b910"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_mirror_zh.mp3",
+      "bytes": 7776,
+      "sha256": "3a3f03d4ba9b22e25909d4936197e94e6c456e3887ea8c78b07cf91de23e63cc"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shampoo_en.mp3",
+      "bytes": 11952,
+      "sha256": "8547d9417b7c0997519c8f3975070760a283febe70a4954c37e9711a92fcc8ed"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shampoo_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "da18633698b8fc183a39459c26589cb8fac1fea8170300d67b9b43e686e9fdf0"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shampoo_zh.mp3",
+      "bytes": 9792,
+      "sha256": "e179835bfff06b7a2a83eeba2b65293f39dd89e86646f22408dc41fb12e04eb8"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shower_en.mp3",
+      "bytes": 10944,
+      "sha256": "2a99e75a4c4d275e4871c034de0614cdb85e445915f77cac0943585c1243f771"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shower_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "68f799d0a629b534766bd09104adb3a17ffb1c9317847e503658fe2c5256b725"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_shower_zh.mp3",
+      "bytes": 7920,
+      "sha256": "c77de50c08081a113a10db73352d5114839f6b75fa5b6d919bebf003afdd0c00"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sink_en.mp3",
+      "bytes": 10656,
+      "sha256": "234de605edd1a4befd5a034476de5947dceb0acffec5fe59ba647fd0b463de7d"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sink_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "6e018004a077ca20f326093bf478d115afed95dce83eabc5c9d00541145b82a3"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sink_zh.mp3",
+      "bytes": 9792,
+      "sha256": "2b0ba59ec94b032d8fdc93f2e2ac451b38f275a09ce88e08c4fd69be8057df94"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_soap_en.mp3",
+      "bytes": 10224,
+      "sha256": "81b9b3157713d148d6689022fd1b9059fe34b0c3a1829013a542366f2b7332a2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_soap_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "6ceee74fbb8f8dd6732bdcd20fb42669c46b869705cd10b58a7ca87b71c53fe2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_soap_zh.mp3",
+      "bytes": 8208,
+      "sha256": "c21f49ef99e4010a616de5597af484365d5bd4b95a6547cce8b41a6a32ec699f"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sponge_en.mp3",
+      "bytes": 11520,
+      "sha256": "8881da2c036ddd62bc045cd0fd7f157fdabc4a75fe69b69023c43087c07bdea2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sponge_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "d5a5470c24ea708a16fd28118ce489fe375a56f62c0f971bca5645fd55e6b72a"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_sponge_zh.mp3",
+      "bytes": 8064,
+      "sha256": "d10210991c5974ac017a1ea468d5c679f976a867ee235c0f027daca120e9263c"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_tissue_en.mp3",
+      "bytes": 10800,
+      "sha256": "43e6ba6fcad60bf489b08867bd35bca2d811c9ec477bc8f155851dd533478727"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_tissue_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "b217d189e8a2e04afbefc1e32635e1d1d8b91479ee5244ce010cd02b7f6d9dd8"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_tissue_zh.mp3",
+      "bytes": 7920,
+      "sha256": "08693b1ae9bfa105482d181b7bc82e14a2b0b8cf1b4e35006ee88f55b41c5697"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet-paper_en.mp3",
+      "bytes": 14256,
+      "sha256": "486a2b29745f824ce6ca9e6d7769e9b101ac3cf1a585104af3dcb7ec5f0425a6"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet-paper_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "ec8373aa5404fd550ac4ad7057eb66fb354dedbba2649e6ee9fabb4a96f0c2f4"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet-paper_zh.mp3",
+      "bytes": 9216,
+      "sha256": "08c4b96f8f767a079a9377384edee195b0a8cbb591d7e2551c5955ac4c8f4f19"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet_en.mp3",
+      "bytes": 11088,
+      "sha256": "69b26ed923be5f1db81efad42160ac19496b2c828226110aaca738268e309562"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "1ef2fbad376e07d02e82a2bb706fdde43c12957be22800bd60c048ce40906200"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toilet_zh.mp3",
+      "bytes": 8064,
+      "sha256": "aa2b9e9013200049d7a5586ecb63e709ce923d30c17c77431b71854e07bfa350"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothbrush_en.mp3",
+      "bytes": 12672,
+      "sha256": "26da6c648b1cdf597883fcd5c4981b6768ab55b42ef620e4b884e6de3862e412"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothbrush_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "8eb2076557708e591c6dc1be5e49a1e13f3211d58c91e88a24341bb7f37bfbf6"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothbrush_zh.mp3",
+      "bytes": 8352,
+      "sha256": "c1c53f01c4961763b77ab687baeaeecc5d1ce512a4f4e23ae7a7fc7614b94ec2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothpaste_en.mp3",
+      "bytes": 12672,
+      "sha256": "eb24e193268a31596a9bd12ae065d5cbc11254155e7782b42d92dd99c498f362"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothpaste_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "e58dc0f19c1dc23819301ee9e7a9587cab5bc14744290e0f9da0c3b3cb45ed3e"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_toothpaste_zh.mp3",
+      "bytes": 8064,
+      "sha256": "0bd49356f8db7124ba54e5d50ede51086cb4d79813a403a7d7d87334f6b3b6fb"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_towel_en.mp3",
+      "bytes": 10512,
+      "sha256": "a32f70d998bdb9320ee460a4388c05c7edd06f8f99db14b5e32f115c10d7ad73"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_towel_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "762f5703684cf9a566c520ea50b8a14db789f17173babfba74f700ea548c8702"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_towel_zh.mp3",
+      "bytes": 7632,
+      "sha256": "10fbdcfabc0fdfab8ebf241bbcd343f759f0dffac329e4f23f6bcaf9168d5de0"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_washing-machine_en.mp3",
+      "bytes": 14400,
+      "sha256": "899376f965b94d3d9a9c0d8a65053ad6bd4281abc7cbee8ac531c00bb46be9d2"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_washing-machine_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "4e86e645036a71b1c91c8ef609ba0862d5ee62028c26c873b6fd1646a321f803"
+    },
+    {
+      "path": "v1/audio/hygiene/hygiene_washing-machine_zh.mp3",
+      "bytes": 8928,
+      "sha256": "88f79e3d85fddc391de1e2d579e369fea30fd2481123f1e919ccb023732a2a99"
+    },
+    {
       "path": "v1/audio/insects/insects_ant_en.mp3",
       "bytes": 10080,
       "sha256": "d86dd551d4e56044257f04b5f1bb4739890dc4b733bc40ec9f3c4cee455ccbc6"
@@ -3844,6 +4744,306 @@
       "path": "v1/audio/insects/insects_weevil_zh.mp3",
       "bytes": 9792,
       "sha256": "fb3ec8766e4532d122bdb2cd1dcd137f52d0a9592cd76fb1d3d09242a7c96033"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_accordion_en.mp3",
+      "bytes": 12384,
+      "sha256": "5b19549793b13bb4002d9fca81b4906eb821a25b0cdae770d8c68d31d0f7ecaf"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_accordion_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "276d32bd622182fc5cf3750957f4b54bcae7990ebfd33a99e5f5b1e8051c4188"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_accordion_zh.mp3",
+      "bytes": 9936,
+      "sha256": "2043e79af917c70d9ec338a7c2c885f6dd5c5b7a3b34c22ab1c6c44f14d675cb"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_bongo-drums_en.mp3",
+      "bytes": 15120,
+      "sha256": "3a7aa640edebe1bffde64d693cc6f4028bb71074430a988bc2f16382705466ce"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_bongo-drums_en_female.mp3",
+      "bytes": 12528,
+      "sha256": "da41536c94c7257cb6d91b0050184cbaabd871facc32a694f6eaa12aa691d541"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_bongo-drums_zh.mp3",
+      "bytes": 9360,
+      "sha256": "e7e265b84f64ee8bbbbfa2ef9f195ae890ce3c78fa02b7afed6d8bc1ae8c907f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cello_en.mp3",
+      "bytes": 11088,
+      "sha256": "65ac4aae171ced583e84fcef8d8f30838bb6e1471e080b34da526aac5e01fc93"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cello_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "d2856b2b24eb8c04c97970860771e9adfa1887dc355ecfa882882f7268c1d632"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cello_zh.mp3",
+      "bytes": 9504,
+      "sha256": "44aeae3bddfb32f69cab3fbfb2e64257fbd0c0678590a452830e1080b52747a0"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_clarinet_en.mp3",
+      "bytes": 11952,
+      "sha256": "20f94cfa9c45b26ffbd054fe6f9b576c735d1d6ecec615b5e97702b06c5ebf7f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_clarinet_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "028a0a964bae3ae6cff92b8669fec2af6361d5c0e70dd650012b8d5b310a1d83"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_clarinet_zh.mp3",
+      "bytes": 9072,
+      "sha256": "2f3eb41751d78b93334ccf3cf7cfae16929a57b6354c720ae6d6704e8d9b1b34"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cymbals_en.mp3",
+      "bytes": 12672,
+      "sha256": "9862f0bef27af033eb00e43e55152aac3e9deb03ed9b7203fe3516df36a0d23a"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cymbals_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "451800da0168945b46d68474ebfe942880ae9de45b0cda9b980fdf0430e687eb"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_cymbals_zh.mp3",
+      "bytes": 6768,
+      "sha256": "517585069834e1b1dd6d509602df2032e0906d271389bd7aacf28c0af69cec5b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_drum_en.mp3",
+      "bytes": 10512,
+      "sha256": "e5dee5398718c202a2e276bb54569795b5ef887425274be44f5d33428edcd184"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_drum_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "b77eaeccf4648100eba2f67ed6790752d07939d5f0d528c118612c09f748fdbb"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_drum_zh.mp3",
+      "bytes": 6624,
+      "sha256": "166a7521339dc2d010e2c8c0eb989b17f25a93e3c206839690846ef0a8b589cc"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_electric-guitar_en.mp3",
+      "bytes": 15408,
+      "sha256": "65ea8d8c17c064fa9a46fbc700556b5319d3489df08976c2a43e9e8c6594a5a2"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_electric-guitar_en_female.mp3",
+      "bytes": 13248,
+      "sha256": "466b8491ae67fdd35ad4b56466710c6cce1932c81a8b3c5e9b3ec00a5e840ae5"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_electric-guitar_zh.mp3",
+      "bytes": 8784,
+      "sha256": "4c8309eb37774db5ccf81c66499dc0b9c09c54d244a9b75cf3e113091e6adaee"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_flute_en.mp3",
+      "bytes": 10512,
+      "sha256": "47e1e905da935b9e9b56030cf86912a15447031ccee58d48a265859480fe95e1"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_flute_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "d19ade8323da0e2182aa88d08ee0d50e23e2fc8f617749d5285d0de379884136"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_flute_zh.mp3",
+      "bytes": 8208,
+      "sha256": "ae529d9c958ae6d06c6938b1aa0e5fffc5d1a7e67c6384d0f23163d9a04812ac"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_guitar_en.mp3",
+      "bytes": 11088,
+      "sha256": "e50100ca7fd3ba9695fea7b3f53146af5002ab236f546dd05ad2179cb56a1e7f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_guitar_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "a357fac084c8158c18bcaf32ce009a59c1b5d636dd640d0c1d885d711007542b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_guitar_zh.mp3",
+      "bytes": 7776,
+      "sha256": "1281e6aeb9433ed17f9ea76bba4338d1d75ec433133909af09cdb59aa3ad7472"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_harp_en.mp3",
+      "bytes": 9936,
+      "sha256": "cec92ed4bcee54fd6ae171744aca79dae1d9bd7c13780eef28e7dcc4c7d95c52"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_harp_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "1e79f43f27f655521d268083d70b51fbc0e08224a58d47372dd706f9a263dcb1"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_harp_zh.mp3",
+      "bytes": 8784,
+      "sha256": "27ad232fe0cb2545d9aa34b45b248856cb3ec72b56afb4d76b60942b4df7af44"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_keyboard_en.mp3",
+      "bytes": 11664,
+      "sha256": "3fdbc924104a5f0a68cd669af3f83e2e775d255e9197a5bad9e5b615099df067"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_keyboard_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "898cbf6c43f75e5f036d64e880f5b2900864d58b1b071afa4a3339be050acacf"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_keyboard_zh.mp3",
+      "bytes": 9216,
+      "sha256": "aa8572e19688f2bd56195bd2c8736c79373e4114560d1e2656003c878bb86f6f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_oboe_en.mp3",
+      "bytes": 10656,
+      "sha256": "ff14a2ce12b879b35e06a03a443d51253a55c4da635655a796aae29021d81fbb"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_oboe_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "5ec02536c7b0a0d756e0675731fc89f3ccf618d5e509a93148a4d10a90902433"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_oboe_zh.mp3",
+      "bytes": 9792,
+      "sha256": "68f8bab0ac65fabc5d8d67f856d184e79c7bd957d21bb7f18f72b5f2935208da"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_piano_en.mp3",
+      "bytes": 11376,
+      "sha256": "f649c04b341013db66eec93c5a708264c1641cf230b8d00c013e5b7d30bb4d35"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_piano_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "9910af2ee6b23b9162bd32816762e3e0eb7591e494cf61a3233b0fa2bb210d1f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_piano_zh.mp3",
+      "bytes": 8352,
+      "sha256": "9472fdd074575dd08233255379a503caeb08e50604692f7c5f94367e49d8dea2"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_saxophone_en.mp3",
+      "bytes": 13104,
+      "sha256": "c345728ec705261b75b27d340641555c45b5bfa4b822fcc52c35d831dd4ee250"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_saxophone_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "467a165349d4d83e41c6cb79488a596f0039270cbf8c9308a32b036d126c13a0"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_saxophone_zh.mp3",
+      "bytes": 10512,
+      "sha256": "21ca661a3cfb296f01ed14a37bb5fde307f4fe2865482c39d8cfc0b51ce6af65"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tambourine_en.mp3",
+      "bytes": 12384,
+      "sha256": "21f216b0ecf7cf7883d0ed031c13b909cbef158b017b6c1df50d8fbfd9fe6a0d"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tambourine_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "df8db5d9ed144ec8349d540011ef72de8a496c2d420cdfabc569eb7cf92ec0fa"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tambourine_zh.mp3",
+      "bytes": 7920,
+      "sha256": "3307afc58b679b84aa6d694b1028df67a5bf8a04444f2a5a94cc129776f8c05c"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_trumpet_en.mp3",
+      "bytes": 11376,
+      "sha256": "828724c48c10cc638e5c4b47ae742d620f2dc8d449d1f23322b83d8ccf3b9c44"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_trumpet_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "f989ab46c67ecce9c05a784e994a3721b24bcabadc8f05f2ef2b58138372529f"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_trumpet_zh.mp3",
+      "bytes": 8208,
+      "sha256": "2f819abf451dddb7afdff42e0d3ee0d08949f3739da9813cace338dab9c06a2b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tuba_en.mp3",
+      "bytes": 10368,
+      "sha256": "0988d4da4ad27f3b0735f5697f95f7ecb430c4fc9ae4787dbcb1363b9f63a522"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tuba_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "83944b095d5cbbb718cbad1d18e5427d8ef7e1ca27b58218199e426b674f7b4b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_tuba_zh.mp3",
+      "bytes": 7776,
+      "sha256": "d8301863ed4c0926b1c9555aa979be9adbbf015f6cf7781da8b126c28bdd0220"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_ukulele_en.mp3",
+      "bytes": 12672,
+      "sha256": "1f150bacf2dc944edfe98e507b983f72e7472c5a4cee0505a09a98da75610087"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_ukulele_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "c0c1b8cbca1dc5c5ca19c437b3d8b98e806285f42ed06977ecde0d87d5eafaed"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_ukulele_zh.mp3",
+      "bytes": 10224,
+      "sha256": "b6a675418454d60f74181f2d60ff4a95cf78915fbd8014636a75115112973a9b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_violin_en.mp3",
+      "bytes": 11376,
+      "sha256": "828e5e4d7d7278bacb6a8d47e799283ed7f4924b5de6b13f69b1c6f814320d49"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_violin_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "52e61ff7bccc8d500c3697cd9abc5ea61f9dcb4db3fb58039580d84ae7d9db6b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_violin_zh.mp3",
+      "bytes": 9648,
+      "sha256": "6a66183f9f174bf4deac3d7f345932218983e450e8a6d4150aec8024f083852b"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_xylophone_en.mp3",
+      "bytes": 12672,
+      "sha256": "c9e60974b223019e7c0a4807d8c163ee3ee516537c4156d6e3ad15742849cd4c"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_xylophone_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "eda7317d2dd95ab1b3d2c8ed314bb73615012900e6b672f65b9a74f369980fd6"
+    },
+    {
+      "path": "v1/audio/instruments/instruments_xylophone_zh.mp3",
+      "bytes": 8064,
+      "sha256": "8c600920d09f815f59399abe70b460bb553f41fa171fd147cac13449d359ddec"
     },
     {
       "path": "v1/audio/movement/movement_balance_en.mp3",
@@ -4309,6 +5509,906 @@
       "path": "v1/audio/number/number_9_zh.mp3",
       "bytes": 6624,
       "sha256": "f166c0866eaf8c1e2ff2ae596d8468cdbf83171c600c401ce8dbd814174af555"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_before-after_en.mp3",
+      "bytes": 16416,
+      "sha256": "f8228ff910ed22b4227df2aceebf42eb894d47dda7e1f33e7eb7c5bb46709747"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_before-after_en_female.mp3",
+      "bytes": 14400,
+      "sha256": "a41ed44f392177c5dec0ac4dcddbbd5dcaaab4268739bc600607715d79d38d87"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_before-after_zh.mp3",
+      "bytes": 8064,
+      "sha256": "654080beca2c9911ef1576380a4c22e2ddca18467bb2695ceb88de018453d8eb"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_big-small_en.mp3",
+      "bytes": 14976,
+      "sha256": "52d950d47546b2b693f40600c511c800211167e0af04f4b7872c499d4587f856"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_big-small_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "58219ed1e44bdbe4d4cf997e10aae37ffda1f129017b28b5fdb09d20828056eb"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_big-small_zh.mp3",
+      "bytes": 8208,
+      "sha256": "886cbbdcd720eb38ba5bcc135b7a9d35f86b321fcf812e1e378cb16f557b7311"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_clean-dirty_en.mp3",
+      "bytes": 15408,
+      "sha256": "97d4c8d29613888da5f827cd4228c437bd8f100d4ecc5b914386838cf4ae8948"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_clean-dirty_en_female.mp3",
+      "bytes": 12960,
+      "sha256": "50bfd81a844596d4ffb8d48ad90ea41335040d392cec79ce271753b7ef45e80b"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_clean-dirty_zh.mp3",
+      "bytes": 9072,
+      "sha256": "38a85bbaa4eb468392e3343e228f03840ab9ea05523b5c6ac334776617823cf6"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_day-night_en.mp3",
+      "bytes": 13824,
+      "sha256": "c2056ca807345039b62afc025ba9f70219080914a6b9f65d1aaddfdf291fd92c"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_day-night_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "ea4e50c3968f6dd7696b09ac5dcc46b0273ba139fc66702c5bef1df6f98080f6"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_day-night_zh.mp3",
+      "bytes": 10512,
+      "sha256": "f65c6bafb9ebb4e8c31ebf3b563aee709a6dad9f522b2efe3edf4511452f86b1"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_fast-slow_en.mp3",
+      "bytes": 16128,
+      "sha256": "912325075148a0af7250eb5f00cbfeb7cabc519320489e2cdc505ede8a923890"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_fast-slow_en_female.mp3",
+      "bytes": 13536,
+      "sha256": "8df752483f435e90b0f698595cad840809ec0bbf32ccefcfba113b6aa16ede44"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_fast-slow_zh.mp3",
+      "bytes": 7920,
+      "sha256": "25898c42551e2396474df8c47b439eb493dfc184e9e37c102af94d460e2227ac"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_full-empty_en.mp3",
+      "bytes": 14976,
+      "sha256": "9b0c6bdb4b8031fe7f9dd37aec8d212a0da00154025fcc7649bc5274ef4b83d1"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_full-empty_en_female.mp3",
+      "bytes": 13536,
+      "sha256": "cae7841c2ede328640c91b95ede28f35e4878f9b6815e8e8b8c3583f31cc6923"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_full-empty_zh.mp3",
+      "bytes": 7776,
+      "sha256": "b88d0d0c0f8fca744293e1d8dce7764654d3b661f333c8b7ba1ee9f70f2f27ab"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_happy-sad_en.mp3",
+      "bytes": 15696,
+      "sha256": "7c8cd6a82ade549eecb5fbcf86a99908f920dd862b6be6db24073a5753b41d18"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_happy-sad_en_female.mp3",
+      "bytes": 13104,
+      "sha256": "101b66ab5a1a91e2789b8b2445a3972b978d7f3d3b93e01157c6522e06f16795"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_happy-sad_zh.mp3",
+      "bytes": 11520,
+      "sha256": "94eaa7602d6f3f47da86a0cfb241864e4e87dce16745d3556d21861ad512a9d1"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hard-soft_en.mp3",
+      "bytes": 15840,
+      "sha256": "23087199174e55450178f5f14f4ca3d25a9ca0126e7bb250fb8ec435dfd22305"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hard-soft_en_female.mp3",
+      "bytes": 13104,
+      "sha256": "36576b755aec20a0ac5e73cc8d5b768068430d6d9c8ccb5dd6461ec1f29b96d0"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hard-soft_zh.mp3",
+      "bytes": 8208,
+      "sha256": "05dc4456d18c6e3ff9362c4ebe1e7131ec9693c42c6cdcee0c8561c96fd311eb"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_heavy-light_en.mp3",
+      "bytes": 14688,
+      "sha256": "a13bf253d816a10b6d8f2f23bd06127263d41c558a8a64e4ec1e21e693ac78da"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_heavy-light_en_female.mp3",
+      "bytes": 13104,
+      "sha256": "5eafb36b0c2874ded0047d5fd5a3d9907f495c4703135fa8da29e0eb621ca815"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_heavy-light_zh.mp3",
+      "bytes": 8064,
+      "sha256": "8e9b50c928f0974c402995485b8ff40eda70fd3baf72f6c014b30d93d2849cdf"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hot-cold_en.mp3",
+      "bytes": 15408,
+      "sha256": "c48a9afc3efab676361fb45da69f449ba182a7c76cecbcbc140edc9df4fb6c59"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hot-cold_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "86603f100555230864faddbb634794270ce95901df6fcb688ec27011c7915ed5"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_hot-cold_zh.mp3",
+      "bytes": 8064,
+      "sha256": "f1a0fc568637027d8b40498be82aade2f321de6a62246d5ecdabbbb93b88a3e0"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_in-out_en.mp3",
+      "bytes": 13104,
+      "sha256": "f8a0f8c2291f669738f9e8ddc1f75fde118f0976929a74c188d60dc12dc8481b"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_in-out_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "e40a9a70a4ebffd6d6aedebe1fbc57cf908753ebc211d11f5fb41cc0197c6ff1"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_in-out_zh.mp3",
+      "bytes": 7776,
+      "sha256": "124d53993a5647cef6cead82aabd9f85a04769d14ad0d0a171f14cbf95ce4730"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_left-right_en.mp3",
+      "bytes": 14976,
+      "sha256": "c77370b4636525f4396cbfe389c01418f050ad2e7a99c797115026b252384a92"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_left-right_en_female.mp3",
+      "bytes": 13104,
+      "sha256": "485fd0d4b4c86408a2ff1efdc5f43a182f2bfebd44eb99a04e831c6987760e19"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_left-right_zh.mp3",
+      "bytes": 8064,
+      "sha256": "08ce303b4535f564273017a9da63a14a5de8f36a6c42f107cfa2c1c0fc810f4c"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_loud-quiet_en.mp3",
+      "bytes": 16272,
+      "sha256": "bae8b459869a6024c4ba6a63c064a3c1a58de2030bb3490f7131c1fafc0c8e9a"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_loud-quiet_en_female.mp3",
+      "bytes": 13824,
+      "sha256": "e4e3d8f9182be135838922c2e2de273a57aa753df3b200cc7eef1ffefe697014"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_loud-quiet_zh.mp3",
+      "bytes": 8208,
+      "sha256": "215ee8f39215e234d520907a59f5ab7a107b2f9517cc1a90a2ef15fa2f97c272"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_near-far_en.mp3",
+      "bytes": 14544,
+      "sha256": "565518646b24fa352f903dbbc617b56cd5b2698a828d729aaa7188023b6976f2"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_near-far_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "99af79146b8fb1e2c417f6cb39052dfbbfdbb69f187dd9a05732937489192704"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_near-far_zh.mp3",
+      "bytes": 8208,
+      "sha256": "d2437005f734ad77555a45fcd081a01e2de4d3d8bf2011ad61923feb301bb6d7"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_old-new_en.mp3",
+      "bytes": 13968,
+      "sha256": "a72270da9f39d58765042479b86b68d0df4696385adea0e857dadeb8fb4bb0f5"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_old-new_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "37cc7963a76ad37437cbbc4ab1995874fbdb83469bb93a5032f6dda31faa07e4"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_old-new_zh.mp3",
+      "bytes": 8064,
+      "sha256": "e75f53b52f705a8668477f18220226bd58da74914f9776b119e6e511a3fc7424"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_on-off_en.mp3",
+      "bytes": 13680,
+      "sha256": "efdf718e1308722437946f8de9df263e99a9428c2a9e37330cf0f1da368129c2"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_on-off_en_female.mp3",
+      "bytes": 12384,
+      "sha256": "f8190304ed64e82dbd2786b8474c6b00e5e13e13e30ff3373830353e843643ac"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_on-off_zh.mp3",
+      "bytes": 7920,
+      "sha256": "152c31253a92fedcfa6f97357ee99e9d2d05da428579f8c28e5eaf7d176a6269"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_open-closed_en.mp3",
+      "bytes": 16704,
+      "sha256": "c7be379551452300ea5294da32b0da663d998c9b01621ab8a7060184ecc913b0"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_open-closed_en_female.mp3",
+      "bytes": 13680,
+      "sha256": "271de1122b006619c699bc26dff4558d860ca6609cd412d71a04b33e9e0750b1"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_open-closed_zh.mp3",
+      "bytes": 7920,
+      "sha256": "0aceeaca28d0f5a8f86438443a8b03b4ff32379c22180c1ce5dc134d83ac0a92"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_tall-short_en.mp3",
+      "bytes": 15264,
+      "sha256": "aa424d92b8ecb06b37366bc3f8ce07e05c1d30a85000adc0b177482ba788a3a6"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_tall-short_en_female.mp3",
+      "bytes": 13248,
+      "sha256": "b4f40578dfe86301370d06bb6c1dfd1218eca800d7cc81065034cf66126f6ccc"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_tall-short_zh.mp3",
+      "bytes": 7632,
+      "sha256": "017a5957ccdd773cddeb9e9880dd93867291ec1293310705fe0862beebbd5c2e"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_up-down_en.mp3",
+      "bytes": 13680,
+      "sha256": "e01549728e252c2ca8d5489b6151cd11930a7c08769ccfac83dcf6959c029937"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_up-down_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "c9e83d4ef86948080cfd3640a83be6be8430ef8980a5a5aee657e2720f1d90fb"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_up-down_zh.mp3",
+      "bytes": 8208,
+      "sha256": "095d2935436b885755bc69469ee9a0ce8278dde5523b08734a1010db4e149e72"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_wet-dry_en.mp3",
+      "bytes": 14544,
+      "sha256": "c656eae38b2579b5efe74f0bb8ae469bacebfcc1b9e17d774a7c0e39a5fc5d5a"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_wet-dry_en_female.mp3",
+      "bytes": 12384,
+      "sha256": "1f186fc54f523945b1b0612f04bfed6e8a6e6c6b696d39b9d0749449d8432ede"
+    },
+    {
+      "path": "v1/audio/opposites/opposites_wet-dry_zh.mp3",
+      "bytes": 8352,
+      "sha256": "e7aed7d9b674efe77433fb3dfcb2474f0caea1d4324df0a7d535a7b299c9e4e9"
+    },
+    {
+      "path": "v1/audio/plants/plants_bamboo_en.mp3",
+      "bytes": 11232,
+      "sha256": "1740842aa35f5b6487e61bd19abfd026950b3fe4a23f72140db7fc6afca549ee"
+    },
+    {
+      "path": "v1/audio/plants/plants_bamboo_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "d7e4e309766335270ef62c850164ca874c2ab8f4101501432e8dba8bbdb6e94e"
+    },
+    {
+      "path": "v1/audio/plants/plants_bamboo_zh.mp3",
+      "bytes": 8064,
+      "sha256": "8f5fe6a8d227ecc8c070803ba4371c302d19f2740fbf11fa3a52afcfca0b7f15"
+    },
+    {
+      "path": "v1/audio/plants/plants_branch_en.mp3",
+      "bytes": 11088,
+      "sha256": "04a8884fc4a28748a529e3ce201148cbdf947aca7eb0b5540af26dfe74172967"
+    },
+    {
+      "path": "v1/audio/plants/plants_branch_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "404d6f4fb1b4d6c953f46c6f0c1316067a77bf13913b3c49afb57eb881b19501"
+    },
+    {
+      "path": "v1/audio/plants/plants_branch_zh.mp3",
+      "bytes": 8352,
+      "sha256": "c1a74eb3b7d57aca136feb9eab374ffc24e0940f63e364e9e51b61abf51bfbe0"
+    },
+    {
+      "path": "v1/audio/plants/plants_cactus_en.mp3",
+      "bytes": 12384,
+      "sha256": "415e78b56ed2aa3b0e955ea84034980ab3317868fb443a44a4fea16fb4edd40b"
+    },
+    {
+      "path": "v1/audio/plants/plants_cactus_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "5f237961c90d85d05adb713d20353555b2d357f04716fa355a7332aa118258c8"
+    },
+    {
+      "path": "v1/audio/plants/plants_cactus_zh.mp3",
+      "bytes": 9216,
+      "sha256": "5de05da44f2873a4abce299008591113d56f6175dab9e73938fe61099ee99804"
+    },
+    {
+      "path": "v1/audio/plants/plants_daisy_en.mp3",
+      "bytes": 10800,
+      "sha256": "81d5622dbfc17abf3e7a4990b8b129293bb433062b81408524ef2cd033702d42"
+    },
+    {
+      "path": "v1/audio/plants/plants_daisy_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "91ca3712fa233e4e4dc8d75efc3b86daa3d1d615676d903d1da3f410de19846f"
+    },
+    {
+      "path": "v1/audio/plants/plants_daisy_zh.mp3",
+      "bytes": 8208,
+      "sha256": "855e557e5b0e0ac6b688c74ad70fc2dc6bb1d88564a716f6ede4d58003603be8"
+    },
+    {
+      "path": "v1/audio/plants/plants_fern_en.mp3",
+      "bytes": 10800,
+      "sha256": "54f7e5d159c9aea521a48af63fe818f895e7b1e12bd75526f3dd7f9bcc91ae47"
+    },
+    {
+      "path": "v1/audio/plants/plants_fern_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "314d9ca1fc81fae7390cdcf9dedd01858dda1e0db39424ec7619175430272dc9"
+    },
+    {
+      "path": "v1/audio/plants/plants_fern_zh.mp3",
+      "bytes": 10368,
+      "sha256": "ec2684f4031fd1701ea91a500f4a708fc1a351de6a7f6de8ba1e19fe8d55fbbe"
+    },
+    {
+      "path": "v1/audio/plants/plants_flower_en.mp3",
+      "bytes": 11232,
+      "sha256": "ad79df75be7ca0166f3923c2392efef17fd43a58573c36dc5cbe8fb5e0009b05"
+    },
+    {
+      "path": "v1/audio/plants/plants_flower_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "3ef64e1e1271e1fed7600861d80382ccbb05faa25d90f49654fc0aaa93cbd378"
+    },
+    {
+      "path": "v1/audio/plants/plants_flower_zh.mp3",
+      "bytes": 6768,
+      "sha256": "eba0ea349d1397ef4280d8aaff32e01f1bd5f0e57711391f6f756410e63fe2e4"
+    },
+    {
+      "path": "v1/audio/plants/plants_grass_en.mp3",
+      "bytes": 10944,
+      "sha256": "b9f17136e640d62c3bdad1a197fab83038d04f6a98d71998911ed185b8304429"
+    },
+    {
+      "path": "v1/audio/plants/plants_grass_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "591bc71c990539685c9acef55b5b2e501cebf3819ae5a8d929a332eef7dda58d"
+    },
+    {
+      "path": "v1/audio/plants/plants_grass_zh.mp3",
+      "bytes": 6624,
+      "sha256": "eea047ea815828b5df9f58e58f50bbdd6362235307571b39db64d1a98d7c55df"
+    },
+    {
+      "path": "v1/audio/plants/plants_leaf_en.mp3",
+      "bytes": 10224,
+      "sha256": "9984cc8caefd914e19c575f8134f7c18ddf2f5b06765a49fd8eaa83ca2af67f5"
+    },
+    {
+      "path": "v1/audio/plants/plants_leaf_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "6a403d53a412ae5a1026adc00d2656b3c366a0dc0fdeb3d4c636cfecfad5c79c"
+    },
+    {
+      "path": "v1/audio/plants/plants_leaf_zh.mp3",
+      "bytes": 7776,
+      "sha256": "0421ac9675c0977a61025e29c3142343c7d7698b95a0d448a46f48c454457fe2"
+    },
+    {
+      "path": "v1/audio/plants/plants_lotus_en.mp3",
+      "bytes": 11808,
+      "sha256": "633fbc7616eb3e4338c34f18bd12a9188ecf956278ad3e96b7dc12d86ec92997"
+    },
+    {
+      "path": "v1/audio/plants/plants_lotus_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "48ba5f106c1737afc62f0bc8b77539eaea029c960af1b2c22dbec3211b1eca2f"
+    },
+    {
+      "path": "v1/audio/plants/plants_lotus_zh.mp3",
+      "bytes": 8208,
+      "sha256": "b2c5f5a2fdd34f6d6c23fce62e7242416087454dc226c6f8299c035e3a3ec526"
+    },
+    {
+      "path": "v1/audio/plants/plants_moss_en.mp3",
+      "bytes": 10656,
+      "sha256": "007668655410b50d8b7ca7a5e3046546c954c82f0b172866d4a6de8b2d0369fe"
+    },
+    {
+      "path": "v1/audio/plants/plants_moss_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "05d84699b88b233d0f8057936f8c57d382cc4c26dd1f16b3ab6596fca13d60ba"
+    },
+    {
+      "path": "v1/audio/plants/plants_moss_zh.mp3",
+      "bytes": 8208,
+      "sha256": "b4b7a060692ec3fa6b7c268c69655b314958f14601f5586c23df4f885f4bb4c4"
+    },
+    {
+      "path": "v1/audio/plants/plants_potted-plant_en.mp3",
+      "bytes": 13824,
+      "sha256": "678baf05abd0d2a68e7dbdb8f6e9e0c8d26a22a96b3e5aa1a654ec99a5fa1b95"
+    },
+    {
+      "path": "v1/audio/plants/plants_potted-plant_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "e6860c42df8d9e7f743b22a18185fc831bf0d881681ae84edbb7328fba2f9bdf"
+    },
+    {
+      "path": "v1/audio/plants/plants_potted-plant_zh.mp3",
+      "bytes": 8064,
+      "sha256": "7def62b9c501e7de199a0f0be4042ea8457a0a87ecb6ed6f5ffc553730785191"
+    },
+    {
+      "path": "v1/audio/plants/plants_root_en.mp3",
+      "bytes": 9936,
+      "sha256": "edc0bd6712dcd3be3fdd18e3ca47b04ae0805d54f86075f412cd864619939ebe"
+    },
+    {
+      "path": "v1/audio/plants/plants_root_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "4eea444062e61c313b44d8b41e920f29837bb52a7c1d8b576ab369633c4e6cdb"
+    },
+    {
+      "path": "v1/audio/plants/plants_root_zh.mp3",
+      "bytes": 6480,
+      "sha256": "37b34e24b88916976b4d4206c05a08ef59d019020ab543a41520bb0c7338aad1"
+    },
+    {
+      "path": "v1/audio/plants/plants_rose_en.mp3",
+      "bytes": 10800,
+      "sha256": "c9c19e071ce1bf973580522caf341847d08eacfe06cac5f7a05a72e81e9d1332"
+    },
+    {
+      "path": "v1/audio/plants/plants_rose_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "33e2ed543d9ac7154a2fb82bafc28df19c65058fbbe5f28179b8f31e0c6e4400"
+    },
+    {
+      "path": "v1/audio/plants/plants_rose_zh.mp3",
+      "bytes": 7920,
+      "sha256": "a8740a59a59aa7e32843d442d65e672096a4cb45d014d3d7718dfc257b0c8cd0"
+    },
+    {
+      "path": "v1/audio/plants/plants_seed_en.mp3",
+      "bytes": 10368,
+      "sha256": "384497fa327c1dc40ef9a5d1cc9d8ea9e720d24a94910686468a251efcd02aa5"
+    },
+    {
+      "path": "v1/audio/plants/plants_seed_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "70f1bac4aeb079014d47f57cdce5d3d60b39eaa2cf51b120173a2563a4ae3656"
+    },
+    {
+      "path": "v1/audio/plants/plants_seed_zh.mp3",
+      "bytes": 7920,
+      "sha256": "7eb0467ead92e1462e2159b89371cdf0ee8382166c289d856a7f7ae841844021"
+    },
+    {
+      "path": "v1/audio/plants/plants_sprout_en.mp3",
+      "bytes": 11232,
+      "sha256": "4893bbcf342b1a39e9d57143e451cbdd377ee1a6ec475bd79f8c7bee2711be28"
+    },
+    {
+      "path": "v1/audio/plants/plants_sprout_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "0b79897555776c122272b15085e87cf09bebebae6ed5e6980e5979c108629de4"
+    },
+    {
+      "path": "v1/audio/plants/plants_sprout_zh.mp3",
+      "bytes": 8208,
+      "sha256": "19dfcb5275937cb381819ebee516fc07450099bfddd10aebec680afe5188e2eb"
+    },
+    {
+      "path": "v1/audio/plants/plants_sunflower_en.mp3",
+      "bytes": 13248,
+      "sha256": "5f9ff628f973512c09351b8893176e3ee42141e5a4566e4d8148d304067d43d4"
+    },
+    {
+      "path": "v1/audio/plants/plants_sunflower_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "0b70f11bcbe2317891eecb436f65bf100362b041c78f183ff94919002824ecd8"
+    },
+    {
+      "path": "v1/audio/plants/plants_sunflower_zh.mp3",
+      "bytes": 9504,
+      "sha256": "432e3559a558fb00560bcd18de567ee7a29e45de7dcb4ba1c7f8f2c3a0eade5b"
+    },
+    {
+      "path": "v1/audio/plants/plants_tree_en.mp3",
+      "bytes": 9936,
+      "sha256": "1c9a7cbf1ab9b319b5538ac9143b5e435ead1ff2efdde88e498bbcfaf5787ee1"
+    },
+    {
+      "path": "v1/audio/plants/plants_tree_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "2438d5c42c354a49e2d733b7448e68275d5beec347b5c04040456aa42ee990c0"
+    },
+    {
+      "path": "v1/audio/plants/plants_tree_zh.mp3",
+      "bytes": 7200,
+      "sha256": "600dc7fb85c028fef5b236968a285f9e4396f070a41a9a7b8610234238cbb22c"
+    },
+    {
+      "path": "v1/audio/plants/plants_trunk_en.mp3",
+      "bytes": 10656,
+      "sha256": "b6295c668a16bf321564f6aefb91f096358dab4655214683166d2b52221f2af4"
+    },
+    {
+      "path": "v1/audio/plants/plants_trunk_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "0d44936dc4d6f0102c5b29b43466660423f3b77e5c2e1c8f0d750ae4f786e74b"
+    },
+    {
+      "path": "v1/audio/plants/plants_trunk_zh.mp3",
+      "bytes": 8352,
+      "sha256": "2a362a4649b7e919036be57b8c03c8f05b4135164c086941141a9374906eae75"
+    },
+    {
+      "path": "v1/audio/plants/plants_tulip_en.mp3",
+      "bytes": 10800,
+      "sha256": "d28b11d0d4184c3a27d108db1372c52b22dc69d8c876122a0f8348c4c6e59310"
+    },
+    {
+      "path": "v1/audio/plants/plants_tulip_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "d225c8077089ef2766a3cb3b1b180b7143042e87d54327011b47f61e7fca88f5"
+    },
+    {
+      "path": "v1/audio/plants/plants_tulip_zh.mp3",
+      "bytes": 9072,
+      "sha256": "ec90c6dbabcab9c5ea16f0f556e423189cccb4fd7fe61c4a45a6b7c126269cee"
+    },
+    {
+      "path": "v1/audio/plants/plants_vine_en.mp3",
+      "bytes": 10368,
+      "sha256": "380c0d079f96257747cb5eb9d4bb228c18a7f2d8a3cb70b81b9c81df4d10af39"
+    },
+    {
+      "path": "v1/audio/plants/plants_vine_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "0a770a60a8e9c0719ad53af055ada37a6297bba558fd1fcd85f47f94fc792b41"
+    },
+    {
+      "path": "v1/audio/plants/plants_vine_zh.mp3",
+      "bytes": 7920,
+      "sha256": "a3db592e7041159ab8b3345adecf5d444f6b10446da35543bfe3a03153985e03"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_above_en.mp3",
+      "bytes": 10656,
+      "sha256": "571e3a73d13f763dc5755bcd7f59757f0748cfa48b1433de2a8fc6b6d2ec02ad"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_above_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "35cde76383dc86cd2be0e310d93471466d2294340c6b5955509793695ed59593"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_above_zh.mp3",
+      "bytes": 9072,
+      "sha256": "7387996a0191ffc0a32c7cdf37c35d0bf374b975602a27d6ce0ba438aa2b39f6"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_across-from_en.mp3",
+      "bytes": 13680,
+      "sha256": "019f64b0eac226fca057168143b96cb35b0cb55217aa16a2d641f765505d5884"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_across-from_en_female.mp3",
+      "bytes": 11520,
+      "sha256": "1ad962cab7e559f0bb431ee21395b9605d6a5c8990eb90ac057f83392600d0cb"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_across-from_zh.mp3",
+      "bytes": 8928,
+      "sha256": "c08d3362dec018b5833bca0b4c10031139049ab71bdaa36d30eff5d011da14eb"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_along_en.mp3",
+      "bytes": 10800,
+      "sha256": "c2b403af891d36ccfd3e59416a973f575825a9b8aaff9f0955ff8028315979ed"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_along_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "2aacbac9a520dfab29092aa25e082fd584751b7fb9494abee18ca27323d64420"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_along_zh.mp3",
+      "bytes": 8064,
+      "sha256": "4e509d5cb828b5797ca4cfba145d5ad140afaff3317a4b57f297e85d64e27a4c"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_among_en.mp3",
+      "bytes": 10800,
+      "sha256": "d24ce751e3e38c0844a5f40a8883164ffef3e9010b1ba300341fb968f5183039"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_among_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "3160084122b781bc38f65acb39d3958b5695fa240e49b136d2448e2c35f29dd6"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_among_zh.mp3",
+      "bytes": 11376,
+      "sha256": "8e463fc098e6d29a0cb6c60d86aeb7ede312172e30187e63db3a54a804178eb1"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_around_en.mp3",
+      "bytes": 11232,
+      "sha256": "a1702e50cf0db12ae4cd86da4e0e58de37020b4ceebddcfa7cd0e486525b7329"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_around_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "386b9973aeffe0e3c8d4aa4124d071bf5a5febb9caf295fb5a1146e2fffe3b87"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_around_zh.mp3",
+      "bytes": 7920,
+      "sha256": "700aa2d8d2aa836e1476410028993950d056059e1495ca7f5f18138f0da2d1b4"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_away-from_en.mp3",
+      "bytes": 12960,
+      "sha256": "0bb74d5d97256273dae885dc872df7e96d766c2b88e63741c13143f14ad0d712"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_away-from_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "1a12364ff2c26ead9e348b3362c067c074d5fb5e0d8c2eaa1c48687ae6b7f0ab"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_away-from_zh.mp3",
+      "bytes": 7632,
+      "sha256": "39d53db91751d7a4bb935c4364b4e745fd01654f117df1daaed82d73b9ee6d18"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_behind_en.mp3",
+      "bytes": 11520,
+      "sha256": "013e008b1118be707d7c336b9b02ae6095640ca81395b429d5faa1dbb194b714"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_behind_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "5013409a060b6bbe47d8d7e1c6760204cc99899c7a5e69dc24613c25d4c61a4e"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_behind_zh.mp3",
+      "bytes": 8928,
+      "sha256": "6de53f80bfa43f2a22eb69129f32b7eff6d7a87fcf677d485ce4b4a821bd8cc8"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_below_en.mp3",
+      "bytes": 10368,
+      "sha256": "66e6d6c19a751984510647455a50b3a795276552f43cd3dd87de57d90c5c6888"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_below_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "9dc66e62df523482684eaf399391b266ece5cdd810148d84c2a78a1a464634c1"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_below_zh.mp3",
+      "bytes": 9072,
+      "sha256": "214b7cde7b6a62740987ed2359d509e8ec80687a3b4a76045f41641e2db0fff6"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_beside_en.mp3",
+      "bytes": 11088,
+      "sha256": "eca6f1ddbc17f1907274110431241821a0a514681aa9a80bd2833b475e7ba894"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_beside_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "f66823dbdc83163a6acf437f952e16998c82252a0af3c05798a23ddaa6551451"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_beside_zh.mp3",
+      "bytes": 9072,
+      "sha256": "9645e53fce403ed33206e3aaa5fcb887351b9e4957a528551b52e336eb758175"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_between_en.mp3",
+      "bytes": 11232,
+      "sha256": "52e985192ff6aea623fd2a105d53caf705fc246e64e7ce8a97e4ec7079b5611a"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_between_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "56adfea2e02727a4b753ea77104bd27807138186664061a17e0a652a176a5745"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_between_zh.mp3",
+      "bytes": 9072,
+      "sha256": "7ebcdc2bd66fa5886e38c8f4d30c961c5e6f71506fc05281c928f28d9e9085cf"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in-front-of_en.mp3",
+      "bytes": 13392,
+      "sha256": "c08a9b7823cc34cbfcd54d684b33aa4dee1fae651325882f4f48ba1c5503d3d6"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in-front-of_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "1359c326cd365d303e5403f768b718f6fda46b93ae76a41086ec7a9d642e057e"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in-front-of_zh.mp3",
+      "bytes": 9072,
+      "sha256": "4c9ba2312dce3cc98677121b944e13f833480afcbd3585cffef5153c5611390d"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in_en.mp3",
+      "bytes": 9216,
+      "sha256": "71368e8b50edb57254ae9693999df918d85d8a3a5a203d60fcb9123ed567a878"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in_en_female.mp3",
+      "bytes": 8352,
+      "sha256": "436549a5de9d6ecbcf8792d5665a8658f14a22178e2bb2e163a0ae18677f469e"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_in_zh.mp3",
+      "bytes": 8928,
+      "sha256": "910f599c9ef90302bd6152b1c379a9270df76e25c7174628b581f49ffd49ba14"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_inside_en.mp3",
+      "bytes": 11808,
+      "sha256": "bf2b9c8d2be12a2f377fff399ac1c647b9168e4e151445c5e858d98b04359264"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_inside_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "93f27eb41f60f7e406c070943d480568a659125fb4c1e6c6cd2ae515acc36a73"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_inside_zh.mp3",
+      "bytes": 8784,
+      "sha256": "4d1ee03c2ecb9a2a0ea3b066390522ffdc552bfe8d74f528d94874b26e85cecb"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_next-to_en.mp3",
+      "bytes": 11952,
+      "sha256": "a39efdedb730e51b71dbae98603556e490da0fa90e179b18766842baed6ebe86"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_next-to_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "b2127d842b0af51830c99025c4553f9aa1c317921117ac8d1a12bbd18abd6a65"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_next-to_zh.mp3",
+      "bytes": 9072,
+      "sha256": "a240ee3b51917f59eee06a0e8b1f5fc120808923df0cbae050ec36891c2dc732"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_on_en.mp3",
+      "bytes": 9792,
+      "sha256": "8af5b70fa84eeae1204c49273132095a2fab7ef70c642131c8c69e4e1db2a525"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_on_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "c579b25bda1d46e7c2d37d58f4cd9589f400c30f68600d42681df118cee5002a"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_on_zh.mp3",
+      "bytes": 9072,
+      "sha256": "bd8740e711f302e63d11620ef8bb9becbc2f32949a3bf735bb7b47b0abeae104"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_outside_en.mp3",
+      "bytes": 11664,
+      "sha256": "89d8b702196599e49b10a531e10d89434b4168285565e60ce4008e2df5e4bba4"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_outside_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "7f3402962648d5988f5b294ca4857fd68b6be3de6df592c9268a867e0e54d5b2"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_outside_zh.mp3",
+      "bytes": 8928,
+      "sha256": "e3c380739dcd4ca39ec9b2bfd37e2fb189e30bd51996254aa4ed0c4c63392c95"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_over_en.mp3",
+      "bytes": 10368,
+      "sha256": "4e118ea4a0ce0fb9864aab73f991234229d8f8eef204622e372530ad5e40f921"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_over_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "e64b76c5a1e5f5e3f0f52921c2659d4b2e64d8317d2a5c90bddf3cea604ff943"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_over_zh.mp3",
+      "bytes": 11520,
+      "sha256": "2b58514746dd969ca79dcee6c06c607bb93b9e127d3dba1e575855e6d44de1b0"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_through_en.mp3",
+      "bytes": 10080,
+      "sha256": "c83a840a1a33c44c2dbc6b482ccd774c8a06416ffbbaa8509ca04c6f927b3982"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_through_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "1c9f77b9f2e5f79f76bc3a79e155f4b770d20ef90662fcf1beaf25eb1b2df310"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_through_zh.mp3",
+      "bytes": 8064,
+      "sha256": "22c17e4d4f32832dcc597535a19346d654aa7bd78b0376e7dd1fbaab431e6914"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_toward_en.mp3",
+      "bytes": 10512,
+      "sha256": "70e1b5f41d85fc3af27c3ee95399cb73d09c8832d99c48f07c8d3c33a49be04c"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_toward_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "99165e055e42710033dc93b8d2bdf34e02a07a4a2793bb57da5a6fe966ebf51d"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_toward_zh.mp3",
+      "bytes": 8208,
+      "sha256": "330304b42432a0fa59cf5cf68a0ea9de0ba4b8123c54d2df0d28e3d76ac614dc"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_under_en.mp3",
+      "bytes": 10656,
+      "sha256": "cae5666daba1557f99a66ceac8e728ca1d4b534e2f6de40a425870548f18d7c8"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_under_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "369d07c959c00e8fd1e31a603b6150cfd66cb258411abb1c9defb51b3cfef00d"
+    },
+    {
+      "path": "v1/audio/prepositions/prepositions_under_zh.mp3",
+      "bytes": 9072,
+      "sha256": "900ed53a7bb18e9f7a8f6ec90c5c5222eafd9f0395f3f2b2271d3c37b2d8ca69"
     },
     {
       "path": "v1/audio/profession/profession_artist_en.mp3",
@@ -5511,6 +7611,306 @@
       "sha256": "024350461f1f2933a5968753729ab29ec127c136c7f19ec59cfb6258267c7b33"
     },
     {
+      "path": "v1/audio/shapes/shapes_arrow_en.mp3",
+      "bytes": 10368,
+      "sha256": "e6b73ab1d2049c7e990b4ff9c2e98e7edfb46480fa089fa2f0bf8cdfdbfb071e"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_arrow_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "4efd3e1a58ef476c4fa34c1fdf3e23325c51ea683d298980da410f7574623023"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_arrow_zh.mp3",
+      "bytes": 8064,
+      "sha256": "9bdd81286d21039f12bac2329cd0a621276ef85fca10f9e622126e15582513db"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_circle_en.mp3",
+      "bytes": 11520,
+      "sha256": "6ec0ef4437f981696c061f4cc42fd9117e493965d386f54b9365b767bf410de9"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_circle_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "41edf02218bc6c8c533e7df76a644e2db22bd16a8eb0768298c852ba4124fba6"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_circle_zh.mp3",
+      "bytes": 8208,
+      "sha256": "69d2ef31585a2b30835bcdd9817c09e674775cdec1fe53c2b84ade022c2de4ec"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cone_en.mp3",
+      "bytes": 10368,
+      "sha256": "ead1800da4a7e48bdb330ae0af600db6e550a10c9ffdae05dc42e2dc236c708a"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cone_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "194d08a89659d7e146aa32b9b7b9abf8970d76a344b12a9bb0400d7029effd8d"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cone_zh.mp3",
+      "bytes": 9648,
+      "sha256": "47f24af0558f3b8811522b1fe35fe4c6493a1c24878b381b3e1683adc7a870c1"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_crescent_en.mp3",
+      "bytes": 11664,
+      "sha256": "6c8e469383a059307859bc723e69d169ec4cd8b88c8ebdc010b70b357bdc09f8"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_crescent_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "355f7977a93123c9f6aed0ac46b303108ecdec4ffaa9a18f1ddaba8840f50861"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_crescent_zh.mp3",
+      "bytes": 9504,
+      "sha256": "fa86ca58ea5c596280f65822169390c974f3f39a6d6015d0f0f729b38d9836da"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cross_en.mp3",
+      "bytes": 11088,
+      "sha256": "e9de5094e0c4377992c7de6c794211ad452165713e9b31fcb33b665b7ffa55a8"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cross_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "b8e0c9b0cb11463e45597d3b5bb86a19113be5088a80d8f9af3163e3fbc01d7f"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cross_zh.mp3",
+      "bytes": 9936,
+      "sha256": "9f2a27fee4e78b0fd0c233901bd7394772afc7d51b581c4a2a8a62364cfd652a"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cube_en.mp3",
+      "bytes": 10080,
+      "sha256": "f3411dcd307fdcab8d05c98bbd68b83e9b3366d486365b291003bef763b23d23"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cube_en_female.mp3",
+      "bytes": 8496,
+      "sha256": "fa49b795f1ea56f4146fc231639ae493cba6b121a577a442424ad8cab78d3465"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cube_zh.mp3",
+      "bytes": 9360,
+      "sha256": "78e6b084e016179a26b63ebf1989612e27a6f08a1faeb3207d09f36689d4453d"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cylinder_en.mp3",
+      "bytes": 12240,
+      "sha256": "1462a0c53b7f11ecfaf75a51a3706fca248a6c36e9da7a05fc42619c0429e7ef"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cylinder_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "0e8ff5b0ae3c93e6741ae093415ea2aa948292638e9c0acf2d845130157faa38"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_cylinder_zh.mp3",
+      "bytes": 9360,
+      "sha256": "24a376d8a4fd002518fcff997de560dbce7f0959aed761b6df914229e83a9d29"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_diamond_en.mp3",
+      "bytes": 11232,
+      "sha256": "82d4b7876f4b64e13fbc18364187a89fcb1b8caec16c5ac94129e85dba87c456"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_diamond_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "4ade7377a268de2db84b855e24bff7645164356d114450e485c286466505d0d2"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_diamond_zh.mp3",
+      "bytes": 8208,
+      "sha256": "82f774e8b7c724efdcc63fe153a9acb11824ffcd50d6f288446d3251e433e2dc"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_heart_en.mp3",
+      "bytes": 10368,
+      "sha256": "ab81a5344ec13d3290d19233d715d1b5ba055df18f185af8f34f840a88be86d6"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_heart_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "fa9ae4ae5144efda07d00847fef14bb96ca8236510e491c8825d00c845452b82"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_heart_zh.mp3",
+      "bytes": 8640,
+      "sha256": "516d8953b2729ed3f9fbabfea5e6575074082c398623e10b4eca0b70b23f3004"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_hexagon_en.mp3",
+      "bytes": 12384,
+      "sha256": "403b86acf788626f3c2dc85704e097061fcff09b42b54107d32f368a29a6528f"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_hexagon_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "7325befe31c3965d7705bc7ec60ff4d35f6fbc3c32263943d71a7236096f6e13"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_hexagon_zh.mp3",
+      "bytes": 9648,
+      "sha256": "6974ee75fa8dcb87ff00754de33177f99d9ec3f2b63de0026d59924561a58235"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_octagon_en.mp3",
+      "bytes": 12240,
+      "sha256": "13d89db2a87696e85867fb5c7265023b56114c9f17979702ad14bcfa661a9adc"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_octagon_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "44e3395f5521cf2947d47ce68afb707e7cee9d041ae28ed2766b263f8e363619"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_octagon_zh.mp3",
+      "bytes": 9360,
+      "sha256": "d2079caa54d761c9fe66ea6689a14388b69319cf908797132a75a3e4caf7897b"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_oval_en.mp3",
+      "bytes": 10656,
+      "sha256": "37fa9bc76c74b572a8e0ad96c75c2912115cf3113c7c2c8226db4ab78602ad08"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_oval_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "ceae80aed62fd8c6b27471f4fa5f0bd568b7dd3fa7a587661de318181c5c5022"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_oval_zh.mp3",
+      "bytes": 9504,
+      "sha256": "e876ff297caf72b4748274b3f6a36cf8db3565421b7bcf8c76338e72f97133f9"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pentagon_en.mp3",
+      "bytes": 12384,
+      "sha256": "e807e546f9efce32cf1a1906144d74bdde38d13fac3c0292d9e4d41a3cc39f8c"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pentagon_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "9bdc9616c2320f15b37adce6b8e6dd75383680d146b58bba0a42bf64a9792ad0"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pentagon_zh.mp3",
+      "bytes": 9216,
+      "sha256": "346e8c1c4532ea9e8ace663fd4d63c6041e954a50090ef334984a17d3dc62022"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pyramid_en.mp3",
+      "bytes": 11520,
+      "sha256": "a573bda35c1208505c867b1e6f2c40419c78529e23fa370017609d362b58102f"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pyramid_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "319fd5a0a6c7cb183112ba516d77e0b4c2f04c26ef1413cc086b841cfa3a785f"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_pyramid_zh.mp3",
+      "bytes": 9504,
+      "sha256": "49ad0960a0d23a1a8480c3a0b3d710a2ae8a887d7ed93a61a4cfdad93474a8b2"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_rectangle_en.mp3",
+      "bytes": 12960,
+      "sha256": "e15bf48b3af80fbae43cbc534f414308c5edb2e0ed2f42feaf4906afed6619de"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_rectangle_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "7c1884d2fa9674649664c0458ec814af46bfccb71e3aad2a65d8ced6cad8e907"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_rectangle_zh.mp3",
+      "bytes": 9504,
+      "sha256": "a9780f6de40b664fff6db113f8599333526d016f3145f485fe119eeec5c266f7"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_sphere_en.mp3",
+      "bytes": 11088,
+      "sha256": "c8403c639cb65d0ad997591327001bbc9614a460ca1546a96a39ddc3b3eb3f70"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_sphere_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "84314281c40ae134d6748a9b9d2b8a85eb8ff55fdd19d4e3faea83814ef452d7"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_sphere_zh.mp3",
+      "bytes": 8352,
+      "sha256": "8d510f525119070340b94863b8ee75f67b6c05b3ba8c974494c37e3ec52b1b0a"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_spiral_en.mp3",
+      "bytes": 12384,
+      "sha256": "940bbd85ec627f5ef0d8556592b0a60cdf6830b4ac863785b13f18244f15fb55"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_spiral_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "c470489feac25406f72332f71375b3cff7ddf63ab1ac3d48e2472346b98b6dce"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_spiral_zh.mp3",
+      "bytes": 9648,
+      "sha256": "2664ec108ebab93a363869f45f75fd4e7e4d963ae9e823d8930760e89529c9e5"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_square_en.mp3",
+      "bytes": 11232,
+      "sha256": "53c546c107375b594479d8aeebd0cb44b9ac137e071f56c5e958ac62358a535e"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_square_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "ec6afaf833a7a1a932a805b48b0012240c07fb4011c32d9f4a46c5b70c32d3de"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_square_zh.mp3",
+      "bytes": 9360,
+      "sha256": "fcc77ce063e7a3d2f7d0abcff923e9abac7ac1d7aec3dc5224d7aa80e6a1998e"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_star_en.mp3",
+      "bytes": 11232,
+      "sha256": "9992093b3348286aca4314a31ddf1029cc59b230ccf9e44e34b94a16439d1a41"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_star_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "35956d710b019a4b571b4897e55d4f05bfe1729c86385ff6b8932cc70ba98f28"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_star_zh.mp3",
+      "bytes": 8640,
+      "sha256": "184f1d294ddbb48b58628c83fd94aa3e2b41732f308da580b8057fba2a6ea35a"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_triangle_en.mp3",
+      "bytes": 12528,
+      "sha256": "34be8d120b8847815dda6dcdc7dadfe2a626a563b029ad6253f4a3e5fef8e0ac"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_triangle_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "aabeb305d8aa1919f5ae4c1e448392319e0a9ba7a8e66115508f4e6146016aa6"
+    },
+    {
+      "path": "v1/audio/shapes/shapes_triangle_zh.mp3",
+      "bytes": 9648,
+      "sha256": "a6f19535b671bea59079960659063f66931200d452544a1d457eee62a94567a8"
+    },
+    {
       "path": "v1/audio/site/site_airport_en.mp3",
       "bytes": 11376,
       "sha256": "5b1d137921c0dcb93c92bd8eb9cf71462e2ddfb6a8bb4bad298723ae3eef49fd"
@@ -5809,6 +8209,306 @@
       "path": "v1/audio/site/site_zoo_zh.mp3",
       "bytes": 8352,
       "sha256": "7142d5c0d32d8516f1a4bc3907ba9371c6d1cc8ec03a560f4fb169afdb9b30af"
+    },
+    {
+      "path": "v1/audio/space/space_alien_en.mp3",
+      "bytes": 11088,
+      "sha256": "f7ceba148dab32e107b36edb193361bd2ee94be079cb2ffb255826c2fc90a26b"
+    },
+    {
+      "path": "v1/audio/space/space_alien_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "0c01dac2a553ebf494c9fa006d250e7f17eda185dddbded0306628df91c8ce69"
+    },
+    {
+      "path": "v1/audio/space/space_alien_zh.mp3",
+      "bytes": 9072,
+      "sha256": "155e03e99000a285cbf77b3ee0bec84f4324aacc9fde2b7a47fecaa4a39b11d5"
+    },
+    {
+      "path": "v1/audio/space/space_astronaut_en.mp3",
+      "bytes": 12384,
+      "sha256": "4be3f7edb55eb70401b8d70077b508b47a364806832462ae7c007e317028b9db"
+    },
+    {
+      "path": "v1/audio/space/space_astronaut_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "b6fca63ff94e23c34299ccc324383e1a5e48d921f5cfa0c719789609fc241701"
+    },
+    {
+      "path": "v1/audio/space/space_astronaut_zh.mp3",
+      "bytes": 8784,
+      "sha256": "3f166b48dbf849f141c3ce2546540abb5992ff23f61481bceaa53a0ea2e6a4d4"
+    },
+    {
+      "path": "v1/audio/space/space_black-hole_en.mp3",
+      "bytes": 12672,
+      "sha256": "bbe3e72a0faef685aeb14693869c5981f89bf409b7dcc9ff3f116848b14845b0"
+    },
+    {
+      "path": "v1/audio/space/space_black-hole_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "b62295c906a3ad17c52d35092162716ba6c9a354db8ae62bc1787366b1741fe9"
+    },
+    {
+      "path": "v1/audio/space/space_black-hole_zh.mp3",
+      "bytes": 7920,
+      "sha256": "87fc1b55aebb3a0edc12b4bf708def6fc4a63f38e75be6241eebae60a0f760a6"
+    },
+    {
+      "path": "v1/audio/space/space_comet_en.mp3",
+      "bytes": 10800,
+      "sha256": "1d88c29d98f34af111fd62cd48691acd9b9743347a5fab3b242cb810cabc6fd2"
+    },
+    {
+      "path": "v1/audio/space/space_comet_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "32cf1225633a568b709819a08e7197886625da2dcab723f47189ca0882e47a12"
+    },
+    {
+      "path": "v1/audio/space/space_comet_zh.mp3",
+      "bytes": 8064,
+      "sha256": "446cd5dbb40345f32f6943de8a182b1e40d4dc528fbd92dc3a14fba1d25f1234"
+    },
+    {
+      "path": "v1/audio/space/space_constellation_en.mp3",
+      "bytes": 14256,
+      "sha256": "8e4caa5e9366161e677a03f771666f934a874beb53568bd80cfa33c49652c80f"
+    },
+    {
+      "path": "v1/audio/space/space_constellation_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "4957153fa905b5af89676939cbf674d2983d5c1561141c225e2809fade020877"
+    },
+    {
+      "path": "v1/audio/space/space_constellation_zh.mp3",
+      "bytes": 8208,
+      "sha256": "710cea1ab3d26d00e7f5630b1f42f30038fc92e9dc1c0e0cdc05e2715720e2c9"
+    },
+    {
+      "path": "v1/audio/space/space_earth_en.mp3",
+      "bytes": 9792,
+      "sha256": "19e1c9991ea22ae250547fede62a653768d9da7a9cf4a5905720264c8f7b53d7"
+    },
+    {
+      "path": "v1/audio/space/space_earth_en_female.mp3",
+      "bytes": 8496,
+      "sha256": "69d319f3aee95f76fdf8b50cb104b94d3fc39658ec66a576d06d2904d159265b"
+    },
+    {
+      "path": "v1/audio/space/space_earth_zh.mp3",
+      "bytes": 8208,
+      "sha256": "4ccbccc017c994605489d8a9a35af1552980d6873b396fe432b09c70e137b5c3"
+    },
+    {
+      "path": "v1/audio/space/space_galaxy_en.mp3",
+      "bytes": 12096,
+      "sha256": "41419303db708ad318644e208e49615382f9009930ec9d850cba69eb94304a53"
+    },
+    {
+      "path": "v1/audio/space/space_galaxy_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "d0ff8db8176d5848f31ebf937bf60f228ecad5e56567ebea20feaaed2bbb3dad"
+    },
+    {
+      "path": "v1/audio/space/space_galaxy_zh.mp3",
+      "bytes": 8352,
+      "sha256": "5aa446292102b003ad93bb6c4d5a145da1ce3e29586c54e91368524e501dff50"
+    },
+    {
+      "path": "v1/audio/space/space_meteor_en.mp3",
+      "bytes": 11376,
+      "sha256": "21a93f6812d67214ab474c2b3698ac86ee907651f970dc5e1c9f24a324a704f0"
+    },
+    {
+      "path": "v1/audio/space/space_meteor_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "cfb7253870c9ba824820d315b202b85d3ae2bb5439d03ed9008e219a4b9429a7"
+    },
+    {
+      "path": "v1/audio/space/space_meteor_zh.mp3",
+      "bytes": 8064,
+      "sha256": "ab521b57796c284214d47847ace25e8d60779894c6d3d25eacf8191811f7dd93"
+    },
+    {
+      "path": "v1/audio/space/space_moon_en.mp3",
+      "bytes": 10224,
+      "sha256": "a725f1c77d00cddcf77f12406eaef79d3df7b8a55ee661af82637748b92198bb"
+    },
+    {
+      "path": "v1/audio/space/space_moon_en_female.mp3",
+      "bytes": 9216,
+      "sha256": "1451d763e347765ad5ea38581d8828eb2ba07453a976fda2705d5543bf4647b7"
+    },
+    {
+      "path": "v1/audio/space/space_moon_zh.mp3",
+      "bytes": 7776,
+      "sha256": "b1603dd730d6861c0d7c15d78b9cb56c5e6b9819581ceb7a49d80fe3b78bab3c"
+    },
+    {
+      "path": "v1/audio/space/space_planet_en.mp3",
+      "bytes": 11232,
+      "sha256": "2e6c50a300c49812ce00ff512777a7a67e158f92d7d04ae643956cebd0652440"
+    },
+    {
+      "path": "v1/audio/space/space_planet_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "74eedba0af326da3dbe94e4c52c0eec781efe13bb7f4dd1fe1e927e7fdbd2b1f"
+    },
+    {
+      "path": "v1/audio/space/space_planet_zh.mp3",
+      "bytes": 8208,
+      "sha256": "1d0dd599649f26a3f32bf5a8c22a833d1112045cb2ef67cfc59aa2eaa9f693f6"
+    },
+    {
+      "path": "v1/audio/space/space_rocket_en.mp3",
+      "bytes": 10800,
+      "sha256": "c854724720b9e32e7a61291f3449b9e47ba8b8c0fbb3a85632c8317e7857fc7f"
+    },
+    {
+      "path": "v1/audio/space/space_rocket_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "8abaf7e6e34c0eff24cb570b20c84689b2968b4156d3328f9d750512387eda05"
+    },
+    {
+      "path": "v1/audio/space/space_rocket_zh.mp3",
+      "bytes": 8064,
+      "sha256": "8dba1828c1dd6df442916072ece0da07246a4d85e18a6d5f60cf0d2a3bd8886b"
+    },
+    {
+      "path": "v1/audio/space/space_rover_en.mp3",
+      "bytes": 10800,
+      "sha256": "2d9063e62c40163f13cdc3f5b4180cbbb5873bd385ea84353424ba54c7fa42ae"
+    },
+    {
+      "path": "v1/audio/space/space_rover_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "973ba294aecd56e3b003eeea18b4f1e9ccbfba0b1642fd31e972e048a9d6f537"
+    },
+    {
+      "path": "v1/audio/space/space_rover_zh.mp3",
+      "bytes": 9504,
+      "sha256": "05880d590394e320d2c8d30fc5674ad49acd6342107d56176966d5083df421d3"
+    },
+    {
+      "path": "v1/audio/space/space_satellite_en.mp3",
+      "bytes": 12240,
+      "sha256": "00a03c7d2e0edbda9e145d7c24bd269de827cccd8629f07f5be3995d6192ca94"
+    },
+    {
+      "path": "v1/audio/space/space_satellite_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "4a334cc0e1f1e072e3a9f6a7726c067dbdc23b7d378d2c4828acc42b946ace56"
+    },
+    {
+      "path": "v1/audio/space/space_satellite_zh.mp3",
+      "bytes": 7920,
+      "sha256": "dca3628196ecf6a0467e76323e0b50fa13d7da16e33e0fe283615f9c9758008c"
+    },
+    {
+      "path": "v1/audio/space/space_solar-system_en.mp3",
+      "bytes": 14832,
+      "sha256": "dbbe948e7ee8aa6e19c868552266cceee6513f3f6a46ebbb3c461c29e423b778"
+    },
+    {
+      "path": "v1/audio/space/space_solar-system_en_female.mp3",
+      "bytes": 12816,
+      "sha256": "33f8558f889c9d69a1c9b7eeb1d3c3f8f3a80797c807f5b69da4505aaf6a1381"
+    },
+    {
+      "path": "v1/audio/space/space_solar-system_zh.mp3",
+      "bytes": 9072,
+      "sha256": "bf715e4094843e72e5862ad857fbe2509f0cbad2fa13abe22ddb8eceffa4f81c"
+    },
+    {
+      "path": "v1/audio/space/space_space-station_en.mp3",
+      "bytes": 14832,
+      "sha256": "0aa6771f2b48bc4abd12b1c27888dbf5db9537ef112d1200b7d51940838561bf"
+    },
+    {
+      "path": "v1/audio/space/space_space-station_en_female.mp3",
+      "bytes": 12240,
+      "sha256": "6b39c1add8c7feca4f0e2ab2f0273d578864d8122dbc6d3cad38e97caa312508"
+    },
+    {
+      "path": "v1/audio/space/space_space-station_zh.mp3",
+      "bytes": 9072,
+      "sha256": "cc8d71a729b5443d7ae68193921f5e6a17e4459f7a7a89240c8e5a84d2a0ead5"
+    },
+    {
+      "path": "v1/audio/space/space_spaceship_en.mp3",
+      "bytes": 12384,
+      "sha256": "fee29437410ecba6201533a517d5f45db36da951435d7ba6a2686926f4e43f45"
+    },
+    {
+      "path": "v1/audio/space/space_spaceship_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "a3ea703266ff313bb2f417bffb554bf99956844ba76de5be1c558ab492f2a963"
+    },
+    {
+      "path": "v1/audio/space/space_spaceship_zh.mp3",
+      "bytes": 10512,
+      "sha256": "84a1fb1e37bda83cbc5958f15c4250288e11cdc37226f6a364abca5c92d597c7"
+    },
+    {
+      "path": "v1/audio/space/space_star_en.mp3",
+      "bytes": 11232,
+      "sha256": "9992093b3348286aca4314a31ddf1029cc59b230ccf9e44e34b94a16439d1a41"
+    },
+    {
+      "path": "v1/audio/space/space_star_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "35956d710b019a4b571b4897e55d4f05bfe1729c86385ff6b8932cc70ba98f28"
+    },
+    {
+      "path": "v1/audio/space/space_star_zh.mp3",
+      "bytes": 8064,
+      "sha256": "4979310725fdc4e7482618b64439263061db0e11068f908667166505b2fcf6bb"
+    },
+    {
+      "path": "v1/audio/space/space_sun_en.mp3",
+      "bytes": 10512,
+      "sha256": "7469c55a87ab828660a08f544d20814576cbeb3556506ab487ee7028a6ebdd11"
+    },
+    {
+      "path": "v1/audio/space/space_sun_en_female.mp3",
+      "bytes": 9504,
+      "sha256": "a4f82b679533a7a340649d20bf92c3c49b5e2de9eb6c81481c5eacf8138abb84"
+    },
+    {
+      "path": "v1/audio/space/space_sun_zh.mp3",
+      "bytes": 7920,
+      "sha256": "ad07602f309c786d456f8c551abfc9847e21e3d1e25d1bad33370e10edd1e58e"
+    },
+    {
+      "path": "v1/audio/space/space_telescope_en.mp3",
+      "bytes": 12384,
+      "sha256": "a159b2fd0a38fbfb1093ef14f1caddac1ff8301a3733cf70bce94200f1c897f1"
+    },
+    {
+      "path": "v1/audio/space/space_telescope_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "df1c304271aa12c3cb5b261c5e82b132661e7999fd0e37c5e8f21141dbe666bd"
+    },
+    {
+      "path": "v1/audio/space/space_telescope_zh.mp3",
+      "bytes": 8928,
+      "sha256": "0e5e5913f0445fc12c344dae0ce963a31464f6bd67f954ce0fe82c1aff892980"
+    },
+    {
+      "path": "v1/audio/space/space_universe_en.mp3",
+      "bytes": 12672,
+      "sha256": "b3b7adcdf0c75c6e733f2da7663e9be8824a464a3c86936433ae6d8533d9e221"
+    },
+    {
+      "path": "v1/audio/space/space_universe_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "4796d35a92ee45f737b08a8edf17e2ab629e2a79c2c5c58faaabfcadcf7ed120"
+    },
+    {
+      "path": "v1/audio/space/space_universe_zh.mp3",
+      "bytes": 7920,
+      "sha256": "d51ccf77b9aeec5a60185d417c70e5254b7152be495c60e4940cd75bd98b30bf"
     },
     {
       "path": "v1/audio/sports/sports_american-football_en.mp3",
@@ -7009,6 +9709,306 @@
       "path": "v1/audio/time/time_year_zh.mp3",
       "bytes": 7920,
       "sha256": "a569e3d28b3b90282864e049893a734942df011f38fbcd3012ee1a29e06b567f"
+    },
+    {
+      "path": "v1/audio/toys/toys_action-figure_en.mp3",
+      "bytes": 14256,
+      "sha256": "b42f35b9780f8730080d4913b209e6d45ed00905304048d765f33ef299d3013e"
+    },
+    {
+      "path": "v1/audio/toys/toys_action-figure_en_female.mp3",
+      "bytes": 11952,
+      "sha256": "26a87f93403dbfb8793c925ce6df9a2e7d5f77542b2353906abdc46fe4b9604b"
+    },
+    {
+      "path": "v1/audio/toys/toys_action-figure_zh.mp3",
+      "bytes": 9936,
+      "sha256": "5783529aebd054897b840f0028440afdfef18ff5af5822b41dbe9c02afa310e6"
+    },
+    {
+      "path": "v1/audio/toys/toys_ball_en.mp3",
+      "bytes": 10224,
+      "sha256": "6fc5aabe714fae6686c1c6fa4d33ae7d875390b487bcce9f053935cffea49562"
+    },
+    {
+      "path": "v1/audio/toys/toys_ball_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "bbef0f7b76482f222b58407b4ee8c545a30e4272db740bb521a0488db70b3e83"
+    },
+    {
+      "path": "v1/audio/toys/toys_ball_zh.mp3",
+      "bytes": 6768,
+      "sha256": "a68ac25f9d20c536d776213183f5144fa2a8c11bb791198eccf0b1d536b2a9de"
+    },
+    {
+      "path": "v1/audio/toys/toys_board-game_en.mp3",
+      "bytes": 12672,
+      "sha256": "d0ce93848607571111e1cc39343edbefcaeb1d1727c3e5e48291eb091ac6879b"
+    },
+    {
+      "path": "v1/audio/toys/toys_board-game_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "fe3ec0dace952594e05271e941ed15df62c84145eb72f158148e3bbc8b336836"
+    },
+    {
+      "path": "v1/audio/toys/toys_board-game_zh.mp3",
+      "bytes": 7920,
+      "sha256": "70f9a568c7b43992cd5970cc7d403ce262f48d0762d965023e555a70fe54205a"
+    },
+    {
+      "path": "v1/audio/toys/toys_bubbles_en.mp3",
+      "bytes": 11520,
+      "sha256": "4f93a7add1d2e31e0358ca22c40223c7be34345bf5818491885b871ca8dff7fa"
+    },
+    {
+      "path": "v1/audio/toys/toys_bubbles_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "5c7aaccb48db857cf5aedd68611a2f43f1105357da1147dc8d9466cc85f92142"
+    },
+    {
+      "path": "v1/audio/toys/toys_bubbles_zh.mp3",
+      "bytes": 7920,
+      "sha256": "a0644235b72beb7169b8524d360a96ba97be3bb905bc18f6f2f1af5ea896c985"
+    },
+    {
+      "path": "v1/audio/toys/toys_building-blocks_en.mp3",
+      "bytes": 14976,
+      "sha256": "b9dc89d66f25d8262f00f63e62ce3cc4be14e568ce038117c30e361292688372"
+    },
+    {
+      "path": "v1/audio/toys/toys_building-blocks_en_female.mp3",
+      "bytes": 12384,
+      "sha256": "380ccc0968517b238d3784a05a03790bd0ebdac33810f7ae10869c2921b9eaa8"
+    },
+    {
+      "path": "v1/audio/toys/toys_building-blocks_zh.mp3",
+      "bytes": 7776,
+      "sha256": "db612530d3bb6ff95f7bd5d644b045ee4a7dd5f63d242533e3f54e240ced930f"
+    },
+    {
+      "path": "v1/audio/toys/toys_doll_en.mp3",
+      "bytes": 10368,
+      "sha256": "710dbc06c0fa49e032cc1befc32c94fb0a3e658ba6df9b0f0118a4713d51fd1e"
+    },
+    {
+      "path": "v1/audio/toys/toys_doll_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "d5702f981564538f45f87c29c309a790af301cf1a2a73e026d9f041fed9ece92"
+    },
+    {
+      "path": "v1/audio/toys/toys_doll_zh.mp3",
+      "bytes": 8064,
+      "sha256": "e16ded48dd6c42a9f44b3bdd94c64aeabc249adb152a70c08766ecb3a0bf7df6"
+    },
+    {
+      "path": "v1/audio/toys/toys_jump-rope_en.mp3",
+      "bytes": 12240,
+      "sha256": "d76d6ae524b864218c10f84f1fdd43b216f763e736c42ac2ae2e8ffa6dad1dd8"
+    },
+    {
+      "path": "v1/audio/toys/toys_jump-rope_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "ab4746a61e15c63967a5fd4ca16acbe3019793a363629ce9a157eb2f5c2cc9c6"
+    },
+    {
+      "path": "v1/audio/toys/toys_jump-rope_zh.mp3",
+      "bytes": 8352,
+      "sha256": "84f99960ec26d0a492cf5ca0bb4b4a823bab921ca7603476edcc75e6dce90b57"
+    },
+    {
+      "path": "v1/audio/toys/toys_kite_en.mp3",
+      "bytes": 10080,
+      "sha256": "75aec524dd3eec47c9e208d3bb91f28c390ffc1e335aa965c08386979bdec682"
+    },
+    {
+      "path": "v1/audio/toys/toys_kite_en_female.mp3",
+      "bytes": 9360,
+      "sha256": "2fe3acb8f1231afb0bcf48d8271aee52564e9dc463f82d80b56919e1ab692b8f"
+    },
+    {
+      "path": "v1/audio/toys/toys_kite_zh.mp3",
+      "bytes": 7920,
+      "sha256": "6b39c38df84202feba863ec7a4ea3e475d0cf86bd8ae5d66245f8600ddd61f8a"
+    },
+    {
+      "path": "v1/audio/toys/toys_plush-toy_en.mp3",
+      "bytes": 12384,
+      "sha256": "ef10570353cff00820fbe2d55de62e8a611b293d6af9cde5a01a75be5f588731"
+    },
+    {
+      "path": "v1/audio/toys/toys_plush-toy_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "f5ea8fe7fc209a3fab40830d366fda459f22aca9c9e8d4bc5c93f8fe1868d84c"
+    },
+    {
+      "path": "v1/audio/toys/toys_plush-toy_zh.mp3",
+      "bytes": 9936,
+      "sha256": "4e6cc42c4be3b8b2e0d0d5ba32f158202879a7ad917f53bcd1fd0f61d74fe326"
+    },
+    {
+      "path": "v1/audio/toys/toys_puzzle_en.mp3",
+      "bytes": 10800,
+      "sha256": "c1b41683eda0f60359bc2fca8c7e925a9467c555d4232f74d23556bd22f62426"
+    },
+    {
+      "path": "v1/audio/toys/toys_puzzle_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "59e43eecc380f7b095c2000179024966d5303393c16418763c3b65d0a321fec2"
+    },
+    {
+      "path": "v1/audio/toys/toys_puzzle_zh.mp3",
+      "bytes": 8640,
+      "sha256": "76c55748b998d83ca6ff790399024b8afb099316bdd6c76a11f593f17b3757b3"
+    },
+    {
+      "path": "v1/audio/toys/toys_robot_en.mp3",
+      "bytes": 11088,
+      "sha256": "7855684e2a195bd1c88020d20697e1b5f0b379c9802ed4c90f81424bfd860f2f"
+    },
+    {
+      "path": "v1/audio/toys/toys_robot_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "d87917b845633a52f95bf12c0f4aac64e3cdd0f4731f3053570f4d6a5643ee31"
+    },
+    {
+      "path": "v1/audio/toys/toys_robot_zh.mp3",
+      "bytes": 11232,
+      "sha256": "a9e84781a78d34392ee0ee777cb6844bd1c4d1f394bc1f3cd62d612d87a8df88"
+    },
+    {
+      "path": "v1/audio/toys/toys_rocking-horse_en.mp3",
+      "bytes": 13968,
+      "sha256": "6e810e32ba2e4383be49808c1438abced8cb70fc0d8308face01fab27d0db805"
+    },
+    {
+      "path": "v1/audio/toys/toys_rocking-horse_en_female.mp3",
+      "bytes": 12096,
+      "sha256": "6c4bfc09c101dd6bca4422e68a42f186c6f90829d1e39ce4b0670b19cedb0a58"
+    },
+    {
+      "path": "v1/audio/toys/toys_rocking-horse_zh.mp3",
+      "bytes": 7920,
+      "sha256": "dd9331406a4ef7d5ead6c3b4f8f2c9942f4ad8c6ea1c81990ff80adb44d033ae"
+    },
+    {
+      "path": "v1/audio/toys/toys_spinning-top_en.mp3",
+      "bytes": 13824,
+      "sha256": "e894e597bbc8a3e4b53ae75c2ab9add2ef6fd068c8094b45585b72a72858ad5e"
+    },
+    {
+      "path": "v1/audio/toys/toys_spinning-top_en_female.mp3",
+      "bytes": 11664,
+      "sha256": "a676e66898bdbf23a2925d80392c968def2c62800e36aa35a3c8a4d264cb67bf"
+    },
+    {
+      "path": "v1/audio/toys/toys_spinning-top_zh.mp3",
+      "bytes": 8064,
+      "sha256": "355c7c867db1b34053608d46fcea28cf1a34d1c0f5492d3cdc60ef114411d31c"
+    },
+    {
+      "path": "v1/audio/toys/toys_teddy-bear_en.mp3",
+      "bytes": 12384,
+      "sha256": "214861a9cefe3a3e6e60ee0cf89ba13df10d1463ca31ab496bce296ff21c0a5f"
+    },
+    {
+      "path": "v1/audio/toys/toys_teddy-bear_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "9b103b48d64b6ccf52c6c34c674ebc4b5cafde16ee6e9a725fa2903907501f19"
+    },
+    {
+      "path": "v1/audio/toys/toys_teddy-bear_zh.mp3",
+      "bytes": 9504,
+      "sha256": "6d7ac6cd111e011df8d5d35331bb182c3be00b87970cf93a9e8c84ef59a416ae"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-car_en.mp3",
+      "bytes": 12384,
+      "sha256": "1424b573b01045841fdc20d64bbec18dff5fe3d0c2ab0f73996849388ec3490c"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-car_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "0687177f271fcb1ab1885e9f90de9ed0bbbf2b7022c5db5b70c64573bcc203ce"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-car_zh.mp3",
+      "bytes": 8928,
+      "sha256": "fbfaa3006ac0678662f432df7e9a5b57d95650bb725df11dcb1cdbd1a8543cb5"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-dinosaur_en.mp3",
+      "bytes": 14544,
+      "sha256": "36818f5d143d4a987ba6c6702effa4cad12c20d21d72d2584dc42052e4b834d4"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-dinosaur_en_female.mp3",
+      "bytes": 12384,
+      "sha256": "dd0b0fd216a88ac6ddb223c50c883b71c831e76cbb73148b39150af5f483ea69"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-dinosaur_zh.mp3",
+      "bytes": 9936,
+      "sha256": "2367bfcd00ca0e3338c5e4339762b2b325f1e70099b509bd1539fd0419d9c077"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-kitchen_en.mp3",
+      "bytes": 13248,
+      "sha256": "da8fd6013ec4b3e12b230afe88d8deae163a8e99835574fbbba3161c81514949"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-kitchen_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "801633f940b054d4bcbdfac1be7c6526fa105b0e324f0cf34b3924d7c22e9a16"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-kitchen_zh.mp3",
+      "bytes": 10224,
+      "sha256": "9cddf5c96e70caf4eecab65fa1463042d2b1e024816a55083d750d897d3b99e7"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-phone_en.mp3",
+      "bytes": 12240,
+      "sha256": "c9ada5a2a1bf1a4ffb3c0402c29254f0ed89c8b8b0b404a3364352b1d414878f"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-phone_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "c5f3c3e87f090c59943d70238c3539287722a12a85a31d0549650df0604a6945"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-phone_zh.mp3",
+      "bytes": 9936,
+      "sha256": "9c237f37926e2612ef2d399e0e9177b061c83514f91169b1056aeef666a0f0f3"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-train_en.mp3",
+      "bytes": 12816,
+      "sha256": "5e6fe450740a5423c0093f40f7d1a5d2fb2d100f1a36ff3aef6efe64f98c83b2"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-train_en_female.mp3",
+      "bytes": 10800,
+      "sha256": "e83161fa207b589e487c8d6d433ea815c4dc973f3a945957bd672120a1fbfab5"
+    },
+    {
+      "path": "v1/audio/toys/toys_toy-train_zh.mp3",
+      "bytes": 9936,
+      "sha256": "e3fe0a3e4577ed9eec21f13dc4a3ec2969de9b56cec9234f21b0d7d901e3e6dd"
+    },
+    {
+      "path": "v1/audio/toys/toys_yo-yo_en.mp3",
+      "bytes": 11088,
+      "sha256": "0dbc824f66f5fd9c5a3ab6a6d9ca95dfb9ac7d44431e479cc3884ef2d4949613"
+    },
+    {
+      "path": "v1/audio/toys/toys_yo-yo_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "7ca3dfaa71eb6ca46d150a3777bd24cc18eb931da6759e948abeb8cf1a1285d2"
+    },
+    {
+      "path": "v1/audio/toys/toys_yo-yo_zh.mp3",
+      "bytes": 9216,
+      "sha256": "3f3a657c65fb4416ff41cd95d5f29e3fac1a4f2a63aaa4ec7c970ea8ecc3e7c9"
     },
     {
       "path": "v1/audio/transport/transport_airplane_en.mp3",
@@ -8856,6 +11856,16 @@
       "sha256": "98cd6da5e3e5339b082dd03af5562029694844b028905387083db1cbb7d7a576"
     },
     {
+      "path": "v1/images/categories/feelings.jpg",
+      "bytes": 107397,
+      "sha256": "086d892323e9d314a2d0d82b50bbcb638465b0d0b5737e48bc23e52b9e50f624"
+    },
+    {
+      "path": "v1/images/categories/festivals.jpg",
+      "bytes": 135872,
+      "sha256": "cca64d7602ac6ecca0df1e6a70a85f15adb6fceb2ed2193ff44ab8fc69f3882c"
+    },
+    {
       "path": "v1/images/categories/food.jpg",
       "bytes": 130519,
       "sha256": "001856ba3292b377682ba2aac8d49756ea0535aaee0775148545eb7dbcee7dd2"
@@ -8871,9 +11881,19 @@
       "sha256": "a324c02e4aa0b90d3a9ade824193cf66d1b002e5e774ec7dd208d42af6289d70"
     },
     {
+      "path": "v1/images/categories/hygiene.jpg",
+      "bytes": 105890,
+      "sha256": "047a38f4a154b88fa993d21b1a9a2d63211e31ded9cf070293d3a9549bd1e184"
+    },
+    {
       "path": "v1/images/categories/insects.jpg",
       "bytes": 153179,
       "sha256": "745b113858051d732d9ec152257928e0daa8c585414a2c33635c199500597753"
+    },
+    {
+      "path": "v1/images/categories/instruments.jpg",
+      "bytes": 109805,
+      "sha256": "7bf9f2da6f6c42c2cbf841a4d91e4509a0debfe365d8e14db08a0e8a81a1761e"
     },
     {
       "path": "v1/images/categories/movement.jpg",
@@ -8884,6 +11904,21 @@
       "path": "v1/images/categories/number.jpg",
       "bytes": 128997,
       "sha256": "d6025de21042adf10fd49fbbadd433a67bc6dbfe563238a01828ec92435d37d3"
+    },
+    {
+      "path": "v1/images/categories/opposites.jpg",
+      "bytes": 114347,
+      "sha256": "edc30cb4e109dd3c47bf3fceebe654ce3aa7aed0e3298307ba6dad46aa54e767"
+    },
+    {
+      "path": "v1/images/categories/plants.jpg",
+      "bytes": 158143,
+      "sha256": "8a8b280add38c9850b5822613beb199c4bced4618a98588e0d1154255b01d0de"
+    },
+    {
+      "path": "v1/images/categories/prepositions.jpg",
+      "bytes": 95123,
+      "sha256": "29545e6d9ea51dd0927e737cc9c2709112641c44b5dd31185cdb6e53768ec7b9"
     },
     {
       "path": "v1/images/categories/profession.jpg",
@@ -8906,9 +11941,19 @@
       "sha256": "6bf7da5420be8ff193bbd9fd68564b56fa856a1027b04809b064bfae1176d92d"
     },
     {
+      "path": "v1/images/categories/shapes.jpg",
+      "bytes": 103678,
+      "sha256": "921153b424aaf12eb1b6f5984bb6e3f1fb94f99e93a89e3d6e54db61c11d3eea"
+    },
+    {
       "path": "v1/images/categories/site.jpg",
       "bytes": 160378,
       "sha256": "c96e347242038bc96c8e9058c73d303d424fe634de1a36c6677ce2d35b4ddfd3"
+    },
+    {
+      "path": "v1/images/categories/space.jpg",
+      "bytes": 112699,
+      "sha256": "2589f23ac5c0e969412a04290e49e9e6b4ba84a7c5764d46497655c2b1339984"
     },
     {
       "path": "v1/images/categories/sports.jpg",
@@ -8929,6 +11974,11 @@
       "path": "v1/images/categories/time.jpg",
       "bytes": 121578,
       "sha256": "d56b29235a8905008377c50dcb56330c079c010a64cab54c0e380569bb6b14c4"
+    },
+    {
+      "path": "v1/images/categories/toys.jpg",
+      "bytes": 111578,
+      "sha256": "fca04f1d8000b7614ac665c307a8fba82a571a2f940f6dbbcd7ba13be6fcdf4d"
     },
     {
       "path": "v1/images/categories/transport.jpg",
@@ -9506,6 +12556,206 @@
       "sha256": "6c2fdd9588c4f3b5decb2eba97683bff03c5f90fb515097d91ec84c87029a471"
     },
     {
+      "path": "v1/images/feelings/01-happy.png",
+      "bytes": 30293,
+      "sha256": "5a50d75ee59cfa9898b08344b23c4012f1893e261968f4a9c5e124e6405296f1"
+    },
+    {
+      "path": "v1/images/feelings/02-sad.png",
+      "bytes": 34446,
+      "sha256": "8752788f0913b1dfc07d16568dec45d46ee5e7b0293157d9e18d099ebd8e8444"
+    },
+    {
+      "path": "v1/images/feelings/03-angry.png",
+      "bytes": 33001,
+      "sha256": "c8d74065bf4689ae4372f78b722413a10913521d6da2905e8ca4a067312c99df"
+    },
+    {
+      "path": "v1/images/feelings/04-scared.png",
+      "bytes": 30474,
+      "sha256": "79976db59899fb02bc28d5677bb8f9379ff0b8e26d0f3fb543b1fbb72f83fc60"
+    },
+    {
+      "path": "v1/images/feelings/05-surprised.png",
+      "bytes": 35120,
+      "sha256": "6fbc89cbebdf6a0806270995c00c8332d447a0397d6988550a4a1ecd53cee0f1"
+    },
+    {
+      "path": "v1/images/feelings/06-tired.png",
+      "bytes": 34888,
+      "sha256": "4f023d96250193bcc053bbae112b9198eb71a96414e6f05e7f55888212acba38"
+    },
+    {
+      "path": "v1/images/feelings/07-excited.png",
+      "bytes": 31710,
+      "sha256": "f7c05b355ae26ae166a43e20aad3ae78aeef15274122729732984324dd272ce3"
+    },
+    {
+      "path": "v1/images/feelings/08-bored.png",
+      "bytes": 34008,
+      "sha256": "8ec0e33ab00d88fb72622ac3a107d85a82b37fcc1b991900493e63b8d138f706"
+    },
+    {
+      "path": "v1/images/feelings/09-calm.png",
+      "bytes": 34333,
+      "sha256": "1211cd07d0b7c432ad2fe43090e27f70c19a83696f757176d83d9aab53357bbf"
+    },
+    {
+      "path": "v1/images/feelings/10-confused.png",
+      "bytes": 27129,
+      "sha256": "fa315febf78ce7cb2fb860927a532470348e8536cadd1ca9bbd5a57f9a690d69"
+    },
+    {
+      "path": "v1/images/feelings/11-proud.png",
+      "bytes": 25978,
+      "sha256": "ec460bb8d30893f5b47b5144ef36a197bb6c377931657c86ce7420512594252c"
+    },
+    {
+      "path": "v1/images/feelings/12-shy.png",
+      "bytes": 25265,
+      "sha256": "d67aa19c36b5a2b2421b9562d0ecf0cd69c5847e7dfdb512b0296f9a47540cb8"
+    },
+    {
+      "path": "v1/images/feelings/13-worried.png",
+      "bytes": 25775,
+      "sha256": "f30a25c6d96993595af23d020d66f3ccc90293f0e84f2c9fac4d03ecbe295290"
+    },
+    {
+      "path": "v1/images/feelings/14-lonely.png",
+      "bytes": 32642,
+      "sha256": "1dce4e2abebc52d04d22fde2f3dd0e66ed95a75c30bf23d14f93d0b5ddbc4260"
+    },
+    {
+      "path": "v1/images/feelings/15-sleepy.png",
+      "bytes": 27685,
+      "sha256": "717b53b569b873d21c5f1703975400b42c87de9defb7df2900a4de1f5d2c2507"
+    },
+    {
+      "path": "v1/images/feelings/16-hurt.png",
+      "bytes": 30931,
+      "sha256": "e3a4e531299696ad694d82763e3c56d6f7c957cd2cfed5f22ec017ff15a3bb44"
+    },
+    {
+      "path": "v1/images/feelings/17-brave.png",
+      "bytes": 27521,
+      "sha256": "74cf35b73c238f15782af64a267a2ca70a2be5c17e6cb32d7f52efd15854d559"
+    },
+    {
+      "path": "v1/images/feelings/18-grumpy.png",
+      "bytes": 25425,
+      "sha256": "f0dd5fc86ff3de366b09a0beb5f7296fbb7a17cec1ee473323d2d0c95a8b02a3"
+    },
+    {
+      "path": "v1/images/feelings/19-curious.png",
+      "bytes": 29233,
+      "sha256": "3d4250e849e4c0fb8948c1db0e2e6726ef862a8dd5ad4753779d45b663fd7435"
+    },
+    {
+      "path": "v1/images/feelings/20-loved.png",
+      "bytes": 33588,
+      "sha256": "cc2d78de09190f7f315ba55e6037e05318349408aac60f54302c33387b089cf3"
+    },
+    {
+      "path": "v1/images/festivals/01-birthday.png",
+      "bytes": 39450,
+      "sha256": "19bc4770482a25111422a18d2e277ee301b4a5b2a879ad0ee770ce66b9ce9aca"
+    },
+    {
+      "path": "v1/images/festivals/02-new-year.png",
+      "bytes": 45857,
+      "sha256": "a64ef861e96d6afbf8ac1df4ee8aa9e8fc029f87622d7b9481a3dbc0cf25314f"
+    },
+    {
+      "path": "v1/images/festivals/03-christmas.png",
+      "bytes": 43484,
+      "sha256": "95f713a58faf0ed1c2b42d7da2356392284d8901b698e5c50ba8243cfd4691c5"
+    },
+    {
+      "path": "v1/images/festivals/04-halloween.png",
+      "bytes": 35753,
+      "sha256": "0e427a533952ab87bf66a4243c8aba34fa046043bafe4f4c73815a0188d36c9c"
+    },
+    {
+      "path": "v1/images/festivals/05-easter.png",
+      "bytes": 41835,
+      "sha256": "df8a8196eff878f5003e0c1e3719824592ec7a99e7ca3703c70438100e6a679b"
+    },
+    {
+      "path": "v1/images/festivals/06-thanksgiving.png",
+      "bytes": 45441,
+      "sha256": "00748ee6f174ff89703cbae5af4b549138866bd705e070a626fb9a01bde556c5"
+    },
+    {
+      "path": "v1/images/festivals/07-valentines-day.png",
+      "bytes": 48594,
+      "sha256": "1fcc2b9727380f6ba1564b23f24ab64510d86786b4b2df5c7ebf6017ac5d7382"
+    },
+    {
+      "path": "v1/images/festivals/08-mothers-day.png",
+      "bytes": 47785,
+      "sha256": "2a7e5d54efa30fa31159b3201764d11bd39a2dde2e1f96c560fc0a37a981a94a"
+    },
+    {
+      "path": "v1/images/festivals/09-fathers-day.png",
+      "bytes": 36468,
+      "sha256": "d76f0b9e83c2a59e9699496d71743dfad5679b64df9cc02711f841ed14f8835d"
+    },
+    {
+      "path": "v1/images/festivals/10-childrens-day.png",
+      "bytes": 29993,
+      "sha256": "4acb60d80812e3cab4c629602ee56b4d8181f5178aee28e97736d3e7f97012b7"
+    },
+    {
+      "path": "v1/images/festivals/11-national-day.png",
+      "bytes": 30675,
+      "sha256": "d606038daec2823241da2e23654c9281d2b1cf5527096df53f9af33ffdaaffe2"
+    },
+    {
+      "path": "v1/images/festivals/12-mid-autumn-festival.png",
+      "bytes": 35160,
+      "sha256": "9703aa8a6d4ec36f6c1882411e9078a64f0bfffba5099fb7ce19610caf1edbec"
+    },
+    {
+      "path": "v1/images/festivals/13-dragon-boat-festival.png",
+      "bytes": 39228,
+      "sha256": "9773e1decf7745505f7c828cec944e5adefdcdfb62e32e2dc88255fd304a8300"
+    },
+    {
+      "path": "v1/images/festivals/14-chinese-new-year.png",
+      "bytes": 51533,
+      "sha256": "efd0ad8d70eef3a424ed6c028be728adb36074eddec2d0f5697b15a1f43ea56c"
+    },
+    {
+      "path": "v1/images/festivals/15-holiday.png",
+      "bytes": 34151,
+      "sha256": "9f002ca9954788cbc574e14031cc04b3a52cf2bde155ab5ee480f59f9276fe60"
+    },
+    {
+      "path": "v1/images/festivals/16-party.png",
+      "bytes": 25445,
+      "sha256": "19cb23a5b2e8874611458becea28fb04e0eb8e453d4f347e6d9a1f24f81052d0"
+    },
+    {
+      "path": "v1/images/festivals/17-gift.png",
+      "bytes": 39127,
+      "sha256": "8cbb156ba66109096a97ff2144c488cf1a351e28dab6520f45fb2e68713d6bbe"
+    },
+    {
+      "path": "v1/images/festivals/18-birthday-cake.png",
+      "bytes": 36050,
+      "sha256": "5ac09395615590a96b9410a96cc40b27943d6b0fa0d78bfee6f81a06ef0621ca"
+    },
+    {
+      "path": "v1/images/festivals/19-balloon.png",
+      "bytes": 18353,
+      "sha256": "e29868c61000657ed77c45ae86b677f7eba98a401490351654811f222301f71f"
+    },
+    {
+      "path": "v1/images/festivals/20-fireworks.png",
+      "bytes": 32430,
+      "sha256": "7fedb2eb655e1553dba07efbc8ea9f8755e9017d76e9f1f6ff50dfb5097a20ac"
+    },
+    {
       "path": "v1/images/food/01-bread.png",
       "bytes": 49212,
       "sha256": "0500642a5c9de045fa713a36e6d13ef3e2dac95dd100075be482a9b0fd7872ad"
@@ -9806,6 +13056,106 @@
       "sha256": "a08a4b1c0aefa3ec8d4654c82d1c415be931a0f968b7105b470317c9de4df525"
     },
     {
+      "path": "v1/images/hygiene/01-toothbrush.png",
+      "bytes": 14192,
+      "sha256": "8dd0bbc895260530bbff0c62fa0a6c755d9fb601b4f1a17755ac4212819dbc41"
+    },
+    {
+      "path": "v1/images/hygiene/02-toothpaste.png",
+      "bytes": 23407,
+      "sha256": "214029fc55e6dda5d4ec33b18404b974e5a80e4531d3effb1d7d103835952e31"
+    },
+    {
+      "path": "v1/images/hygiene/03-soap.png",
+      "bytes": 33689,
+      "sha256": "fc4095f37f81e4f10b11019220464c108ce66631c1cd0f0b1831f9ffaaaae97b"
+    },
+    {
+      "path": "v1/images/hygiene/04-shampoo.png",
+      "bytes": 23173,
+      "sha256": "fc8d411e81f620b81ed29586989733124bc5950fadcc28f346f4efef7bde2590"
+    },
+    {
+      "path": "v1/images/hygiene/05-towel.png",
+      "bytes": 50721,
+      "sha256": "62098de2b8a39fc3ba9d85f5f3e788a83494d81ccc38043c91291b5198f5a85a"
+    },
+    {
+      "path": "v1/images/hygiene/06-comb.png",
+      "bytes": 28203,
+      "sha256": "37ee75ac66addc240a35d39fe607f754ab5ab7903104f79643ac0a64882e2a42"
+    },
+    {
+      "path": "v1/images/hygiene/07-bath.png",
+      "bytes": 26743,
+      "sha256": "d43cf6eda6463ccc0df282c0899298169e91a8faf22d01e5f38066e9bf2d5605"
+    },
+    {
+      "path": "v1/images/hygiene/08-shower.png",
+      "bytes": 34345,
+      "sha256": "d4869068d8483e375ee88cbfd423a8ca1e9c6d090d11be59e30990b096997d81"
+    },
+    {
+      "path": "v1/images/hygiene/09-bathtub.png",
+      "bytes": 23021,
+      "sha256": "5929d516f699289959d25fb9a5687c954217e410f0d81ff44e9bf306e9a078b8"
+    },
+    {
+      "path": "v1/images/hygiene/10-sink.png",
+      "bytes": 26394,
+      "sha256": "7177aaaa774028d3a8275d0db70f123b574a4bfc22c35c9ed08eacd73d2a0115"
+    },
+    {
+      "path": "v1/images/hygiene/11-mirror.png",
+      "bytes": 39001,
+      "sha256": "27c7f8a74a6e67ac739c9e110c430aea2e7a632142547c55edbcb9181c9b1a26"
+    },
+    {
+      "path": "v1/images/hygiene/12-toilet.png",
+      "bytes": 33765,
+      "sha256": "a3faecf5abaca39898f266d6690ec8b4e9a26921da34c6a73ba47c777333e128"
+    },
+    {
+      "path": "v1/images/hygiene/13-toilet-paper.png",
+      "bytes": 39614,
+      "sha256": "58761c292d085e8b642c9b36a4d9dca6e887248ab7a89364298abae67a1172eb"
+    },
+    {
+      "path": "v1/images/hygiene/14-tissue.png",
+      "bytes": 38569,
+      "sha256": "d5a7b5735e23870c58f292ab8fe0c9c1f1dc949808e10be02d07e467f76a9e22"
+    },
+    {
+      "path": "v1/images/hygiene/15-laundry.png",
+      "bytes": 40127,
+      "sha256": "3108c82863e50d9053c044135c24707011a1b879e9500b9e238b406b0176d76d"
+    },
+    {
+      "path": "v1/images/hygiene/16-washing-machine.png",
+      "bytes": 46774,
+      "sha256": "7135fb97972441ea115c21c9dde668a48ad9f2bf70839c210418a90ca6044972"
+    },
+    {
+      "path": "v1/images/hygiene/17-hand-sanitizer.png",
+      "bytes": 31744,
+      "sha256": "a22becd134b8067e77ffd568960d2ffa88897a7012d515575d78bb35dfa6793e"
+    },
+    {
+      "path": "v1/images/hygiene/18-lotion.png",
+      "bytes": 24971,
+      "sha256": "328a60b2693511510e045182adc06f4718173ad188e00dc737f5cf26afd4e5ef"
+    },
+    {
+      "path": "v1/images/hygiene/19-sponge.png",
+      "bytes": 51105,
+      "sha256": "c51d42488eac9a9607288a09b2103644fcdbe3c8b4a77be74e3aca400a5bd2f0"
+    },
+    {
+      "path": "v1/images/hygiene/20-hairdryer.png",
+      "bytes": 24926,
+      "sha256": "6034c0f2f7a759f1a405737c9a34dc19fb65e7fc038111beb3da5c90c48408e5"
+    },
+    {
       "path": "v1/images/insects/01-ant.png",
       "bytes": 27982,
       "sha256": "2749a849a22fff28d8606cf9b892350d8c74d620ba792ef785b6bf590084af49"
@@ -9904,6 +13254,106 @@
       "path": "v1/images/insects/20-termite.png",
       "bytes": 25494,
       "sha256": "e9f8ed85da65b37cf625f288361ad9e4882a989761d1a33d7fa1782a6f83e784"
+    },
+    {
+      "path": "v1/images/instruments/01-piano.png",
+      "bytes": 36552,
+      "sha256": "5acc1bb7bf8d18f9c0f8fbd71dad53057b92c17efdc89594411bc55febd6cebe"
+    },
+    {
+      "path": "v1/images/instruments/02-guitar.png",
+      "bytes": 27773,
+      "sha256": "3e8f6f91579a4f5d1695da6748ae9d1bb141d05e6a94175b0f367fbdf40c525e"
+    },
+    {
+      "path": "v1/images/instruments/03-violin.png",
+      "bytes": 29325,
+      "sha256": "f8a7973bced4afbe480d2333b35df46dc25e8319c039697a51864dea638fbde5"
+    },
+    {
+      "path": "v1/images/instruments/04-drum.png",
+      "bytes": 37112,
+      "sha256": "7d0ad13ee41c5045d10673e973fadee113dcc552dfd640ca50b617682d43972b"
+    },
+    {
+      "path": "v1/images/instruments/05-flute.png",
+      "bytes": 14925,
+      "sha256": "f3be35cb8643218a7b7870434bf58272bf436b77f3d60dea739a5cd9d119e09d"
+    },
+    {
+      "path": "v1/images/instruments/06-trumpet.png",
+      "bytes": 25002,
+      "sha256": "661cda868c7cba4b16090e296f4438b96c7376dfa64d2fff2661b663fb14e409"
+    },
+    {
+      "path": "v1/images/instruments/07-saxophone.png",
+      "bytes": 27614,
+      "sha256": "72d74585d7a677f316989cad6d7adab2f0986d5ae66e7b2a3fc2dd880c88af20"
+    },
+    {
+      "path": "v1/images/instruments/08-cello.png",
+      "bytes": 26033,
+      "sha256": "93b3ff5400f1f4ae7b5743d70187df9ca83c49919519b7888c23bb417764a250"
+    },
+    {
+      "path": "v1/images/instruments/09-harp.png",
+      "bytes": 36901,
+      "sha256": "05694c154e545de25d3ee3f35ab6ee1134a3e03e2482379d0f46be45862c7ddd"
+    },
+    {
+      "path": "v1/images/instruments/10-xylophone.png",
+      "bytes": 23555,
+      "sha256": "b3ee26e4ba4092f138aa6b14956828a781284f0bfc372b5c531ccd2fbdbfef13"
+    },
+    {
+      "path": "v1/images/instruments/11-tambourine.png",
+      "bytes": 50247,
+      "sha256": "510ae70f400669ce4d19fbdf6b24b05397cce8079d3cf9a589619a806e1a7744"
+    },
+    {
+      "path": "v1/images/instruments/12-accordion.png",
+      "bytes": 52639,
+      "sha256": "415d223d47328423cf8b76d0cdd6720efd94e167f78e00cad27612f15b7b972f"
+    },
+    {
+      "path": "v1/images/instruments/13-ukulele.png",
+      "bytes": 33738,
+      "sha256": "432a7b2c722f299e1812c50565ef6ba004ed93d067273ed96035490d46779cef"
+    },
+    {
+      "path": "v1/images/instruments/14-clarinet.png",
+      "bytes": 16608,
+      "sha256": "484f8ea1e65af926714040b7b3ee063f485ba28faac908d6e94e61fad4d37c31"
+    },
+    {
+      "path": "v1/images/instruments/15-oboe.png",
+      "bytes": 16071,
+      "sha256": "262ad5f56d252788f22c7299b5e4c2cbd3a2737d75546dcb89373684591710b0"
+    },
+    {
+      "path": "v1/images/instruments/16-tuba.png",
+      "bytes": 46446,
+      "sha256": "ad92c0ad54e10e5ea3113cc5aed7c757114509bed65c53d235a3f0462b0c3377"
+    },
+    {
+      "path": "v1/images/instruments/17-electric-guitar.png",
+      "bytes": 27314,
+      "sha256": "10ea8db40b2325df3bf225e9e0c47c670f527093642614e5545dcd20a6ed5e0f"
+    },
+    {
+      "path": "v1/images/instruments/18-keyboard.png",
+      "bytes": 35087,
+      "sha256": "275a96291f2efe54861e849ed40a5a4cf8d96d87d06f7bc3a044d2334a8fb86d"
+    },
+    {
+      "path": "v1/images/instruments/19-cymbals.png",
+      "bytes": 41198,
+      "sha256": "28148fa6fed46aa59fe41c10690c65402ff99648dc73eec4b70da53c17958b59"
+    },
+    {
+      "path": "v1/images/instruments/20-bongo-drums.png",
+      "bytes": 30952,
+      "sha256": "e1389d3b07cf1e608bcbfdfd9a8994f74c90c6952b466d211d4ca8a4787203d1"
     },
     {
       "path": "v1/images/movement/01-run.png",
@@ -10059,6 +13509,306 @@
       "path": "v1/images/number/11-10.png",
       "bytes": 8623,
       "sha256": "0edc9ef8792ebc7f21a4998e64453df8103a3c7c007656c6a1cfe0b2b27aa147"
+    },
+    {
+      "path": "v1/images/opposites/01-big-small.png",
+      "bytes": 36738,
+      "sha256": "826138e2d551cb8dd242229ddb238f67b802e714e08ccd8b7a662328cefe162c"
+    },
+    {
+      "path": "v1/images/opposites/02-hot-cold.png",
+      "bytes": 31871,
+      "sha256": "3ec75c1f70e0851e7e3805ffd1ef73111e3c736a06d8683ceb3f6664f65e9c8a"
+    },
+    {
+      "path": "v1/images/opposites/03-fast-slow.png",
+      "bytes": 23650,
+      "sha256": "e5dfe6dadaf5be9deecb4ec2115a99e146184b0b664d34fd7388a09d7ded2ee6"
+    },
+    {
+      "path": "v1/images/opposites/04-tall-short.png",
+      "bytes": 28830,
+      "sha256": "94aedebb3ef6453dfc152875d81ab60157495048467ad2ec3b6388b1695fb798"
+    },
+    {
+      "path": "v1/images/opposites/05-happy-sad.png",
+      "bytes": 36902,
+      "sha256": "5819b6b93d963f41329b41692314b27b9aa904ce7287b5a5e384cfe8acae8efd"
+    },
+    {
+      "path": "v1/images/opposites/06-up-down.png",
+      "bytes": 20408,
+      "sha256": "4d16f6a2b962146b03a3e7cbde62584fecbfa800c31c5f6b1d1d3775604c7252"
+    },
+    {
+      "path": "v1/images/opposites/07-open-closed.png",
+      "bytes": 34039,
+      "sha256": "4ee8a049655fdeb234b3b2dd05c08b3c71b24cf59bb87f32767cddc24cf032f8"
+    },
+    {
+      "path": "v1/images/opposites/08-day-night.png",
+      "bytes": 22837,
+      "sha256": "ba3a99c04f50811b89175bcb29fc8bbafab3660ff532650a76720c3e2d44a795"
+    },
+    {
+      "path": "v1/images/opposites/09-wet-dry.png",
+      "bytes": 30871,
+      "sha256": "6aad4b1399217a5102f8493947b76f38bffbe814af2baf9847dabe88264b91cb"
+    },
+    {
+      "path": "v1/images/opposites/10-clean-dirty.png",
+      "bytes": 24267,
+      "sha256": "82fcfa11a5877ca0b0de7c99a5c1058c93b3c65307d01f720cfbe2e163b40671"
+    },
+    {
+      "path": "v1/images/opposites/11-loud-quiet.png",
+      "bytes": 13505,
+      "sha256": "183fe37c16ff82e3f1e38bfd06b1a80e9796bbdfd9b6ffb66e8c037642c94f18"
+    },
+    {
+      "path": "v1/images/opposites/12-hard-soft.png",
+      "bytes": 24596,
+      "sha256": "198decc1383e88175e322ff537873553aa69239bb289b992429567fb492821ce"
+    },
+    {
+      "path": "v1/images/opposites/13-old-new.png",
+      "bytes": 22645,
+      "sha256": "c35f445ae27bf011f63a32ab32821e991834ad74c36a791103831b8d33b3e2e3"
+    },
+    {
+      "path": "v1/images/opposites/14-heavy-light.png",
+      "bytes": 25894,
+      "sha256": "d01671d7d7474b32f3fa221c0dcf6ad6a675ac8723d0f1c5b853e3a7d181f954"
+    },
+    {
+      "path": "v1/images/opposites/15-full-empty.png",
+      "bytes": 22185,
+      "sha256": "5556cb80c7746e4377f0c2de8c4b8ef5676792f684c7e5a597da51bef6fb980e"
+    },
+    {
+      "path": "v1/images/opposites/16-in-out.png",
+      "bytes": 26070,
+      "sha256": "a808ef44bc37336cb14e4cc7a46e6858e341238a8ca0a38bfd7ae1146430a270"
+    },
+    {
+      "path": "v1/images/opposites/17-on-off.png",
+      "bytes": 25834,
+      "sha256": "4837f7be070bd2160850fb5c093bc01788a4a79f0f455a88950c17e2e5ba2db9"
+    },
+    {
+      "path": "v1/images/opposites/18-left-right.png",
+      "bytes": 13585,
+      "sha256": "9acadd5a90a2e1647999b0074f6c6894ebb516219f215dc79c053fc4362f0ed0"
+    },
+    {
+      "path": "v1/images/opposites/19-before-after.png",
+      "bytes": 25586,
+      "sha256": "57a4eb99981655796dc6bbe09d6ad03ffb77a0f8ac61cb270af25276a482e106"
+    },
+    {
+      "path": "v1/images/opposites/20-near-far.png",
+      "bytes": 20796,
+      "sha256": "54b78bd57872bf4c39a040dfc581a031c811f2d225761a8eaf5df854a719fd3f"
+    },
+    {
+      "path": "v1/images/plants/01-tree.png",
+      "bytes": 48258,
+      "sha256": "ba09cd69ce1557efef57c8e3d647fbbf224961e1fdee35fc85b23c096a30dc09"
+    },
+    {
+      "path": "v1/images/plants/02-leaf.png",
+      "bytes": 40756,
+      "sha256": "64cd6f9105db241f97ace39471a90c6afbd10d3291d6489444abfad14cc878e5"
+    },
+    {
+      "path": "v1/images/plants/03-flower.png",
+      "bytes": 40228,
+      "sha256": "808e0b5392c82870eff8accaf228e54ff6a5a8b680435df898039813f7492b7b"
+    },
+    {
+      "path": "v1/images/plants/04-seed.png",
+      "bytes": 57418,
+      "sha256": "66993d3912e4e64f2e05dee996fa3ae7652a0769aece5a88118c98a869775907"
+    },
+    {
+      "path": "v1/images/plants/05-root.png",
+      "bytes": 46892,
+      "sha256": "b99fa7f442c2c2ccc6d67b5105b60fa262f98c108d614e03daae42230b73479d"
+    },
+    {
+      "path": "v1/images/plants/06-rose.png",
+      "bytes": 31751,
+      "sha256": "27ad8bb9544c9a294ee3a8cf49088401e96ee065fca7b20d98ce744a486690d8"
+    },
+    {
+      "path": "v1/images/plants/07-sunflower.png",
+      "bytes": 45616,
+      "sha256": "6ce8b29f9eeb9acaffadabaa12a894ff9fb0ceaf8318ad66f59cb6679a00efc2"
+    },
+    {
+      "path": "v1/images/plants/08-tulip.png",
+      "bytes": 22578,
+      "sha256": "2beea6683a44479169af42ce1d7e830964357684f9209246f734b940f829c45c"
+    },
+    {
+      "path": "v1/images/plants/09-daisy.png",
+      "bytes": 37331,
+      "sha256": "2711f4719ade4e3cb304d7b1aedb6aaab7a2a9a149e2450a3bc6b32f5be2f20d"
+    },
+    {
+      "path": "v1/images/plants/10-cactus.png",
+      "bytes": 40503,
+      "sha256": "d7efa8d4d5960ba67bace9a52c314a2715d0992fa6e9c14a358779382be4a09e"
+    },
+    {
+      "path": "v1/images/plants/11-grass.png",
+      "bytes": 39900,
+      "sha256": "f54b4cfc0d6e025290e62d8af4c2893c6f3ace326311955d90132d050230f3dc"
+    },
+    {
+      "path": "v1/images/plants/12-branch.png",
+      "bytes": 32791,
+      "sha256": "00fc416e72525f9a1475e9b028728ac78ae0198df30160775917895656917bc5"
+    },
+    {
+      "path": "v1/images/plants/13-trunk.png",
+      "bytes": 50666,
+      "sha256": "599229f20afe153c007bc9eac69fb093a32b1606d87d2c843ca82fe92a2dd8e7"
+    },
+    {
+      "path": "v1/images/plants/14-potted-plant.png",
+      "bytes": 36366,
+      "sha256": "b391e1c3343fc6865d1e9734a5b844bd5ba359b34fe0a8f47f8dd5815582f07c"
+    },
+    {
+      "path": "v1/images/plants/15-sprout.png",
+      "bytes": 23870,
+      "sha256": "70bc1d437d46925dad24f9c670ed6b077e1833441a997d271342bea0dfa52ddf"
+    },
+    {
+      "path": "v1/images/plants/16-vine.png",
+      "bytes": 31306,
+      "sha256": "7c0fcf6c23b8826d365c51538abef0722ffcd1a795ee2c5db07cdcc0cb6af834"
+    },
+    {
+      "path": "v1/images/plants/17-moss.png",
+      "bytes": 48079,
+      "sha256": "5c8f8cd63484f607862387900d15ca462430d1a38bd9ca24aba0adc7692733fd"
+    },
+    {
+      "path": "v1/images/plants/18-fern.png",
+      "bytes": 53567,
+      "sha256": "4943136f28a6b9ac4172477ada792ebedc29ba1c92a9b16339859354031a2869"
+    },
+    {
+      "path": "v1/images/plants/19-bamboo.png",
+      "bytes": 38237,
+      "sha256": "7d9a058bbfcfe56ffd7c938ed90f5480dd26aa9daa9a0aa9ccfcf08623f11d05"
+    },
+    {
+      "path": "v1/images/plants/20-lotus.png",
+      "bytes": 39012,
+      "sha256": "85fb76a61d7599d270cc9b3777e55d1a96fef890e260b8fddb48b4c17d66bb64"
+    },
+    {
+      "path": "v1/images/prepositions/01-in.png",
+      "bytes": 27852,
+      "sha256": "95a5ad9e24a8f62a4a5f6edd4cab96afa5b7cefc20fe17294798df751489c2da"
+    },
+    {
+      "path": "v1/images/prepositions/02-on.png",
+      "bytes": 23231,
+      "sha256": "a9e4bcea0e020bd00ea4fd95eb9b3ed112e93e55b32c5cbd5912336226e54c94"
+    },
+    {
+      "path": "v1/images/prepositions/03-under.png",
+      "bytes": 24608,
+      "sha256": "fa53567aa7f736d1cd7f4d0a5e12408ceab37e523e20d6b88b7c6a5953635cec"
+    },
+    {
+      "path": "v1/images/prepositions/04-behind.png",
+      "bytes": 31128,
+      "sha256": "d55835ed9be1b6ddc2f36d7c307ebbb98a6548757f08ab8efed50579ed96e8f6"
+    },
+    {
+      "path": "v1/images/prepositions/05-between.png",
+      "bytes": 24879,
+      "sha256": "7843c5ac62242b1f81e25b40551e7dc6549c81d9aaed0ea7997a5a99650bad04"
+    },
+    {
+      "path": "v1/images/prepositions/06-next-to.png",
+      "bytes": 29338,
+      "sha256": "32953694a8a006730abd8e0f473071e86f9c8e062414866a1134c10dba121c8a"
+    },
+    {
+      "path": "v1/images/prepositions/07-in-front-of.png",
+      "bytes": 36288,
+      "sha256": "eedba20c6118bbb3a68591f59ebcdadbfecfdfeb99dcd306b8f32a82e40e8cc8"
+    },
+    {
+      "path": "v1/images/prepositions/08-above.png",
+      "bytes": 25309,
+      "sha256": "58e1816fd0e20e87813925d12a94c68320076f9d87abd8f22d44ef79eead1c63"
+    },
+    {
+      "path": "v1/images/prepositions/09-below.png",
+      "bytes": 21692,
+      "sha256": "58f2addd85d12bcadb15b3d40502afc9cd62bd80079be525b60c2b481a0631b8"
+    },
+    {
+      "path": "v1/images/prepositions/10-inside.png",
+      "bytes": 34428,
+      "sha256": "5e757984f999fd6a13f830dca10a0a19b6b59f684c39f21267d7a48e0540ebdd"
+    },
+    {
+      "path": "v1/images/prepositions/11-outside.png",
+      "bytes": 24043,
+      "sha256": "597734d754932e321491d151456f7a320c990dcfe7c4a64c7c337c88fc37247f"
+    },
+    {
+      "path": "v1/images/prepositions/12-beside.png",
+      "bytes": 43551,
+      "sha256": "ca0dd4f762551cc464e242b28e3555a685f063404e9fde0e06561390c5de9f35"
+    },
+    {
+      "path": "v1/images/prepositions/13-across-from.png",
+      "bytes": 29670,
+      "sha256": "02d25dc57e4e2de76dc89001a36a0de48f147d93ddc610d180458cf739fdcc7d"
+    },
+    {
+      "path": "v1/images/prepositions/14-along.png",
+      "bytes": 37176,
+      "sha256": "5629e249dc185d96247ac446be1bb46d295fb2c8a5e0fa3408a530dbfe9887bb"
+    },
+    {
+      "path": "v1/images/prepositions/15-toward.png",
+      "bytes": 25394,
+      "sha256": "1694cdf2e3807c83ae080631ac5d0c0c9d2261c9e4b4fcce3167801232e0a41f"
+    },
+    {
+      "path": "v1/images/prepositions/16-away-from.png",
+      "bytes": 20936,
+      "sha256": "d9bcf892f397303354d3ff92e567c338be68ff6aae5ad9b157c181fe9015f744"
+    },
+    {
+      "path": "v1/images/prepositions/17-among.png",
+      "bytes": 36478,
+      "sha256": "8750176be79844495cb25c893e7642e1175636583c280238ebe59f8ab90ae280"
+    },
+    {
+      "path": "v1/images/prepositions/18-over.png",
+      "bytes": 22092,
+      "sha256": "3858668f3ad7fb57aa0642e91eeeae83387a337003fa55ab972f67f22e7e12c0"
+    },
+    {
+      "path": "v1/images/prepositions/19-through.png",
+      "bytes": 33688,
+      "sha256": "f2f193e41868945d6d0cae64b2af1ac3e9cd4d97c10c9c052813114d3bafda57"
+    },
+    {
+      "path": "v1/images/prepositions/20-around.png",
+      "bytes": 27015,
+      "sha256": "076b63a50a425cfdc3e6b4091ec5c7d1385f5318d7ade58892c96687bfca6e76"
     },
     {
       "path": "v1/images/profession/01-teacher.png",
@@ -10461,6 +14211,106 @@
       "sha256": "d88ad082b2af6347ec7f7c60e7c1f5bfcdb74cbe5211b493f7985f1a6d17e578"
     },
     {
+      "path": "v1/images/shapes/01-circle.png",
+      "bytes": 24456,
+      "sha256": "9ca46cbfa14267bb33bbf8e194b02a213f0fa5484c60d054f81edbd3c777da6a"
+    },
+    {
+      "path": "v1/images/shapes/02-square.png",
+      "bytes": 27540,
+      "sha256": "be99ed365d4dadf58fc4d92fa81a3a62d73209e44335e6f274fd070cc5457eae"
+    },
+    {
+      "path": "v1/images/shapes/03-triangle.png",
+      "bytes": 19287,
+      "sha256": "1ccdc327d1b2835a518569e250b82f180af0b3ee89f30aa5909433ac3af3c701"
+    },
+    {
+      "path": "v1/images/shapes/04-star.png",
+      "bytes": 29230,
+      "sha256": "ccb6b3cd471d6e1795a1185c3be849f3cd4018e905afac258d60356224366f15"
+    },
+    {
+      "path": "v1/images/shapes/05-heart.png",
+      "bytes": 25274,
+      "sha256": "6404c481eb4f33cf5c6b9e81c1731ee20ba0721419c46aaf4b6465eb4bf1e12b"
+    },
+    {
+      "path": "v1/images/shapes/06-oval.png",
+      "bytes": 22504,
+      "sha256": "468ca214b9cde3d6c92308ac87218261c766d947aad8f64cbc8811b93cc8f8b2"
+    },
+    {
+      "path": "v1/images/shapes/07-rectangle.png",
+      "bytes": 19195,
+      "sha256": "9cbbba646e296e0bfe2e611e9d1413f9e830b3d413fddfdec9d51d53ed7eaa32"
+    },
+    {
+      "path": "v1/images/shapes/08-diamond.png",
+      "bytes": 21817,
+      "sha256": "dc18957359f3b6e48f644d81e2c61701b7d93d8a119a48908bd12434b00b6403"
+    },
+    {
+      "path": "v1/images/shapes/09-pentagon.png",
+      "bytes": 25957,
+      "sha256": "4ce1381c7f2b0c003931055c8e1b2d811278a31b091b302ff524d46650afe5cc"
+    },
+    {
+      "path": "v1/images/shapes/10-hexagon.png",
+      "bytes": 25768,
+      "sha256": "97428d02e8b09e2bf19b1f32b2eb25a4a66332d017ae3ce0cc0b74bd5721153a"
+    },
+    {
+      "path": "v1/images/shapes/11-octagon.png",
+      "bytes": 26095,
+      "sha256": "f86eb06540f1df2197a6a232b4d3c5b0fb731a636347bf7e0b1a59739631311b"
+    },
+    {
+      "path": "v1/images/shapes/12-crescent.png",
+      "bytes": 20346,
+      "sha256": "c928f2ba134edf4f3d836a12eb7d2c02c7555526fa4b85fe8ecbd382f793402a"
+    },
+    {
+      "path": "v1/images/shapes/13-cross.png",
+      "bytes": 29558,
+      "sha256": "900235ca216b03e535f1697ce106bd5e24625834c8225b4d68458eafd4dfeeb9"
+    },
+    {
+      "path": "v1/images/shapes/14-arrow.png",
+      "bytes": 16585,
+      "sha256": "419a7a26aeae746d0947b3df3ca504ac3dc1c6a375d4c133878c0281454841c0"
+    },
+    {
+      "path": "v1/images/shapes/15-cube.png",
+      "bytes": 32622,
+      "sha256": "cb74cb8a7cce7488d2781ed9235a945c4b8e95ca5164574e4ba4e9287f11fd5e"
+    },
+    {
+      "path": "v1/images/shapes/16-sphere.png",
+      "bytes": 34030,
+      "sha256": "e4729a6563af9c768ff063a3f2697674a45650909a39997d319046722d898eb2"
+    },
+    {
+      "path": "v1/images/shapes/17-cylinder.png",
+      "bytes": 24011,
+      "sha256": "718ca8ee9d41209f36931436f790b3e055e1bd875a2e679ca23f621519aeab84"
+    },
+    {
+      "path": "v1/images/shapes/18-pyramid.png",
+      "bytes": 20907,
+      "sha256": "a477c162f7523b572409b578498581c071a3f9cf6c08b00576ac1fb9025a58bb"
+    },
+    {
+      "path": "v1/images/shapes/19-cone.png",
+      "bytes": 26700,
+      "sha256": "4a9c2f6da7c3cbeb9fe691fc014dc41019553b51e95bdb65f64d5839b2fbd93b"
+    },
+    {
+      "path": "v1/images/shapes/20-spiral.png",
+      "bytes": 24639,
+      "sha256": "37cc082f9ef7d785fc5879e8e20535642c4edd8c5eea20156ddf4d0edb8fb846"
+    },
+    {
       "path": "v1/images/site/01-school.png",
       "bytes": 36515,
       "sha256": "bae05b6e2a8ae27f087cde0d8074107a46b86f7fe7022603a52c7836dd009fdd"
@@ -10559,6 +14409,106 @@
       "path": "v1/images/site/20-gas-station.png",
       "bytes": 37031,
       "sha256": "07e3ee339c6267c4e4c802105066636c36954b88033f838d9351de3a39768068"
+    },
+    {
+      "path": "v1/images/space/01-moon.png",
+      "bytes": 42798,
+      "sha256": "eaea066055c3100c5b3ab869acc6137d44de81dc84f50d0bbb6f4133e76f0fca"
+    },
+    {
+      "path": "v1/images/space/02-star.png",
+      "bytes": 29521,
+      "sha256": "28595fb8b40f7046fc42eaca6045ba1d424dbf2db391f27d9fc5dc5184adb537"
+    },
+    {
+      "path": "v1/images/space/03-planet.png",
+      "bytes": 27600,
+      "sha256": "2cbf97f72ed0bf1fbc90f66aadb2cfd54c196fb5306d0655d205d1b928f7afa6"
+    },
+    {
+      "path": "v1/images/space/04-rocket.png",
+      "bytes": 25418,
+      "sha256": "4d38ea57eb33ffa3a059fe9a243f3386b2ae06627c7144caa6de4f5375423a71"
+    },
+    {
+      "path": "v1/images/space/05-astronaut.png",
+      "bytes": 38933,
+      "sha256": "889ba8ab556073ff4aa127b94ec0c821cffce2568e9e0c6d80cd9805659bcf74"
+    },
+    {
+      "path": "v1/images/space/06-earth.png",
+      "bytes": 50131,
+      "sha256": "344e5b45be23ecc65ce80a4d7daf769384c7e9011bdcd2718b4d510f7e231eab"
+    },
+    {
+      "path": "v1/images/space/07-sun.png",
+      "bytes": 62065,
+      "sha256": "3275d29ef5d8feb85d45906de245549ac6bf3ff4b52ff0f387d575419d28f49d"
+    },
+    {
+      "path": "v1/images/space/08-galaxy.png",
+      "bytes": 47389,
+      "sha256": "ed89c1e0cd1150ee5f5edd53b5604fe87eaf319b6aed6bc5ca6f30c075f8b25b"
+    },
+    {
+      "path": "v1/images/space/09-solar-system.png",
+      "bytes": 27740,
+      "sha256": "411fa268469a9c943cc0a8091ae2717205ae8ca3518179a8a2049662ae84b560"
+    },
+    {
+      "path": "v1/images/space/10-space-station.png",
+      "bytes": 37572,
+      "sha256": "17bdb77f4021e6affb353e81a898657b16614bc69245eddf53baae2deba300c0"
+    },
+    {
+      "path": "v1/images/space/11-satellite.png",
+      "bytes": 33336,
+      "sha256": "4730011a0f992e591130f3c68e6e9f1bc5fe51a205b9ff6e0627010f0eaa3e2e"
+    },
+    {
+      "path": "v1/images/space/12-telescope.png",
+      "bytes": 27384,
+      "sha256": "167b7ba1d23621ebc24ed5ccdee9e19593b025a66d00bcb43e1a00fd87d81f42"
+    },
+    {
+      "path": "v1/images/space/13-comet.png",
+      "bytes": 29681,
+      "sha256": "f880d40541252b993f138fdfc70b49027e83d6b668bb72a8e5fc3130c2c08351"
+    },
+    {
+      "path": "v1/images/space/14-meteor.png",
+      "bytes": 36444,
+      "sha256": "5d0fd2f204d8210db1ae4e618f8103ac538fb304a81cda53f1b0558814c2f962"
+    },
+    {
+      "path": "v1/images/space/15-spaceship.png",
+      "bytes": 21905,
+      "sha256": "246a6166b5f7d5641572fcfb1c98acccb219ef637f2da040cdd3720da8e61c8c"
+    },
+    {
+      "path": "v1/images/space/16-alien.png",
+      "bytes": 26217,
+      "sha256": "6a0a7969d7f4bd8f5ad1e587f7b03c998adef3c5eba34ae338b2b618231ef69e"
+    },
+    {
+      "path": "v1/images/space/17-rover.png",
+      "bytes": 37798,
+      "sha256": "1a4ed21f025a6ffd6931f761dcd6df7e5dfd288ba61f5241c54bef4f74a6d41a"
+    },
+    {
+      "path": "v1/images/space/18-constellation.png",
+      "bytes": 23683,
+      "sha256": "5ebeef79ce5eb95aeaf399ae33997315811c6e42623f9e5b0c0b0f800e85fa29"
+    },
+    {
+      "path": "v1/images/space/19-black-hole.png",
+      "bytes": 45884,
+      "sha256": "fe0eff1c215beb948d9f6eaa282d0b95efa5e01b036020820c33b74d14f8c07d"
+    },
+    {
+      "path": "v1/images/space/20-universe.png",
+      "bytes": 60038,
+      "sha256": "40b34f2dbba7783ed1fc7913d1a3c7461c53b57c5fb264a8ef0213751ed87d2d"
     },
     {
       "path": "v1/images/sports/01-soccer.png",
@@ -10959,6 +14909,106 @@
       "path": "v1/images/time/20-second.png",
       "bytes": 47134,
       "sha256": "98f91c20d294e48ba8d11cfc39c21c1a6a8f4e6236915d94f1d81c6b38288437"
+    },
+    {
+      "path": "v1/images/toys/01-ball.png",
+      "bytes": 32938,
+      "sha256": "c2de7b4c43f5612655454fccde76016065edb326a56e1c3905e47a329a5fc111"
+    },
+    {
+      "path": "v1/images/toys/02-doll.png",
+      "bytes": 49320,
+      "sha256": "e4db9b522c1555c8a87af5f59c092332c8391ba83d24cda5a3eb91fe1cc0fee8"
+    },
+    {
+      "path": "v1/images/toys/03-teddy-bear.png",
+      "bytes": 58702,
+      "sha256": "6f27601872dd24e70ff47931f724dd822ead9a130d9ad41bede9830fc75f1275"
+    },
+    {
+      "path": "v1/images/toys/04-building-blocks.png",
+      "bytes": 18415,
+      "sha256": "dcd5ab05246215b60598595dde6b8a3b5dc4a8c939ea53736f0488728dd12955"
+    },
+    {
+      "path": "v1/images/toys/05-kite.png",
+      "bytes": 20306,
+      "sha256": "86f375a46a365f705ef4e6e78be27895ced7767210570339fe1d97e9ed0401f6"
+    },
+    {
+      "path": "v1/images/toys/06-robot.png",
+      "bytes": 28835,
+      "sha256": "1557d0d6a004c0cdc7d0b593494836879fcd03386eedff6ee16ee35bd8d337dc"
+    },
+    {
+      "path": "v1/images/toys/07-toy-car.png",
+      "bytes": 33378,
+      "sha256": "3b404db1945126785d23498b7604111ac7066215328391279c4c7ea80c3d8947"
+    },
+    {
+      "path": "v1/images/toys/08-toy-train.png",
+      "bytes": 27352,
+      "sha256": "0770c1c6026ec519ef3bca2bb05fd3a76aaeba0b4a9d191d3012e4796c7a65fc"
+    },
+    {
+      "path": "v1/images/toys/09-puzzle.png",
+      "bytes": 34435,
+      "sha256": "c5f19158b0d9507beb2fa1e9ebdd24fd1f39145bea2d315acde002b440ab881a"
+    },
+    {
+      "path": "v1/images/toys/10-yo-yo.png",
+      "bytes": 31879,
+      "sha256": "99a2513cce7469fa3171d27286cf525825321e66a113ae53b0cb647db8cf5c4a"
+    },
+    {
+      "path": "v1/images/toys/11-spinning-top.png",
+      "bytes": 21245,
+      "sha256": "cea12c806095e5fdd2d4b9869551d1e9193b026b1b9c9232203c81ba8e69ba89"
+    },
+    {
+      "path": "v1/images/toys/12-rocking-horse.png",
+      "bytes": 39692,
+      "sha256": "a04e2f53ea4920abe458beb9ee1bbe69cd9cae5fc8291850373bfac93926abe0"
+    },
+    {
+      "path": "v1/images/toys/13-bubbles.png",
+      "bytes": 33814,
+      "sha256": "358888cbaf714c44ff1b3d7b1ddc7471db0bd45dc80e5797c7c66721a2ea30eb"
+    },
+    {
+      "path": "v1/images/toys/14-action-figure.png",
+      "bytes": 34320,
+      "sha256": "66a916d5f7f3ba603a42f28cccaf60a6c944b2748da15345735e902ac96f7c39"
+    },
+    {
+      "path": "v1/images/toys/15-board-game.png",
+      "bytes": 27439,
+      "sha256": "84d6830eb5f50d053a27cc90dcd9a7154bff4957bf72cc62dd70e42820d9dfba"
+    },
+    {
+      "path": "v1/images/toys/16-plush-toy.png",
+      "bytes": 59554,
+      "sha256": "5b238e552a1201dcaea235380f6889a8894d23cf0fc84f0abfa63ea6b6b09f6f"
+    },
+    {
+      "path": "v1/images/toys/17-toy-dinosaur.png",
+      "bytes": 35606,
+      "sha256": "1c97f34ff92d758eaf26caef1b13df9dccb098ff49eb15d3275e745fb2595c69"
+    },
+    {
+      "path": "v1/images/toys/18-toy-kitchen.png",
+      "bytes": 41117,
+      "sha256": "78bb17f12c83b945a4eece017be2bbad384407d6f5fb2257f65b6f9d348c0a99"
+    },
+    {
+      "path": "v1/images/toys/19-toy-phone.png",
+      "bytes": 25868,
+      "sha256": "0e89c7673ec16e472e53b0d8a81dbef78018501da1674a34269a0195775ba149"
+    },
+    {
+      "path": "v1/images/toys/20-jump-rope.png",
+      "bytes": 28570,
+      "sha256": "a3fcb12dfbe4fad79637786a9e89ec35ddb83974b9f349a4495ce53e82ee3f23"
     },
     {
       "path": "v1/images/transport/01-car.png",
