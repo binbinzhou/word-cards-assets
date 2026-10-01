@@ -1,9 +1,9 @@
 {
-  "version": "v1.9.0",
-  "generatedAt": "2026-09-30T13:20:17.108Z",
+  "version": "v1.10.0",
+  "generatedAt": "2026-10-01T03:54:57.083Z",
   "basePath": "v1",
-  "fileCount": 3199,
-  "totalBytes": 41940977,
+  "fileCount": 3294,
+  "totalBytes": 43629663,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -5046,6 +5046,186 @@
       "sha256": "8c600920d09f815f59399abe70b460bb553f41fa171fd147cac13449d359ddec"
     },
     {
+      "path": "v1/audio/months/months_april_en.mp3",
+      "bytes": 10944,
+      "sha256": "16a0d6628d905ddd3b44a2cb867cbee370ca8431ef1d38b18d909c8432fdbecf"
+    },
+    {
+      "path": "v1/audio/months/months_april_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "9db47b9d45d021e01dc4d80c2d32dd8abcdbccdaa4bc2344af61023af1a1e176"
+    },
+    {
+      "path": "v1/audio/months/months_april_zh.mp3",
+      "bytes": 8064,
+      "sha256": "c0809a3162003f3d07a615f2be6bc7b05bd0e704552b489213f35464304876d7"
+    },
+    {
+      "path": "v1/audio/months/months_august_en.mp3",
+      "bytes": 11808,
+      "sha256": "ac673f1ee2cd76dc30c467279e155bd5aa060f69784622b70002f74ae0b1e525"
+    },
+    {
+      "path": "v1/audio/months/months_august_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "9d1e8c6646c766df23714e57b0e8afcc56d971f339e34dac557abe0e02555182"
+    },
+    {
+      "path": "v1/audio/months/months_august_zh.mp3",
+      "bytes": 8064,
+      "sha256": "e24c4a37b02ba7da9e03a7d001c668798418546877555d3b6990304f413bab4c"
+    },
+    {
+      "path": "v1/audio/months/months_december_en.mp3",
+      "bytes": 11664,
+      "sha256": "6cad3e6a9b44fbb8f42a6faa4987f6fe908613aeb19a90905cbd1bc8ec7ff6b1"
+    },
+    {
+      "path": "v1/audio/months/months_december_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "6a8abdde091432f926d09ac63839b77212ce42496ce552bae2a4cc7b9ea12af4"
+    },
+    {
+      "path": "v1/audio/months/months_december_zh.mp3",
+      "bytes": 9072,
+      "sha256": "1c0d1ff28fc4d3d91efce613268d61cd4c642f079683cef1157d7bebaefa2afd"
+    },
+    {
+      "path": "v1/audio/months/months_february_en.mp3",
+      "bytes": 12528,
+      "sha256": "d1672e78c39cf25322aa3f76bbf092e2561986edc417c97eb376249af3c9b1ba"
+    },
+    {
+      "path": "v1/audio/months/months_february_en_female.mp3",
+      "bytes": 11232,
+      "sha256": "a884bbd33e750190cc888baca60329ec8a6db7797264d1dc5b6a1d0aa5126641"
+    },
+    {
+      "path": "v1/audio/months/months_february_zh.mp3",
+      "bytes": 7920,
+      "sha256": "e846a4d32f9de8f6ddd3a30c8e490c8dbee832daa9951372e4d5efd567692955"
+    },
+    {
+      "path": "v1/audio/months/months_january_en.mp3",
+      "bytes": 12672,
+      "sha256": "7d3e743c5f1312ea3ab0d387d7aa97f8d13d14b4fce81c48c6a1e8f4eb19cdef"
+    },
+    {
+      "path": "v1/audio/months/months_january_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "037216a40ff6c2e1c22c72f0707a61925a43a5764cfdc5e78dc6f91408da7d86"
+    },
+    {
+      "path": "v1/audio/months/months_january_zh.mp3",
+      "bytes": 7920,
+      "sha256": "fffa68495ef9baf22c59d0975d8cbdd295873a5622d27b7505c423fa7be11135"
+    },
+    {
+      "path": "v1/audio/months/months_july_en.mp3",
+      "bytes": 10944,
+      "sha256": "629da66fbad71fa06f79a4a6a115157390bd1c4c0ffba7d2d6666f52ac3635c7"
+    },
+    {
+      "path": "v1/audio/months/months_july_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "ee4b9d84b023712509992c6fa6c73fdab1c98ed0c5264daa868dad322429f6a8"
+    },
+    {
+      "path": "v1/audio/months/months_july_zh.mp3",
+      "bytes": 7920,
+      "sha256": "537efade7520b96b1633a8cf89f2b91ffb04dd5b444ac87f48d7ab91037db766"
+    },
+    {
+      "path": "v1/audio/months/months_june_en.mp3",
+      "bytes": 10368,
+      "sha256": "9a44a519809ac1f6de62b179adec8ec6b286994ad91ca1e13e41171e201fb137"
+    },
+    {
+      "path": "v1/audio/months/months_june_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "1fd6ff5afd1fa4da41ef4dca8ae095e42108ca4ee27efe8416f026cc11e64c2e"
+    },
+    {
+      "path": "v1/audio/months/months_june_zh.mp3",
+      "bytes": 7920,
+      "sha256": "559c3470c894ffcc659e4860e214a8458a67c0fca31f5358a4c5d3f146a27ee2"
+    },
+    {
+      "path": "v1/audio/months/months_march_en.mp3",
+      "bytes": 11088,
+      "sha256": "0abc7cd8428f6debab9ee86026359ff2839013a18668f9d93a99c1391f6eabc3"
+    },
+    {
+      "path": "v1/audio/months/months_march_en_female.mp3",
+      "bytes": 9648,
+      "sha256": "3ba33d0f612cde7696c9a42be01e2e5059214fdc31c35fd8386d6c6ea82005e7"
+    },
+    {
+      "path": "v1/audio/months/months_march_zh.mp3",
+      "bytes": 8208,
+      "sha256": "18701b453eba68cc4e7669d6080d6cbe627feaaf599a9ae7c4c0f870a15c3c23"
+    },
+    {
+      "path": "v1/audio/months/months_may_en.mp3",
+      "bytes": 9792,
+      "sha256": "b47eed2073befe34d1d5b3a03911cbe0330280d8a9987f5b20354df1ec51fb07"
+    },
+    {
+      "path": "v1/audio/months/months_may_en_female.mp3",
+      "bytes": 8784,
+      "sha256": "294ff044b23203fb6e0254acfa2b7b341090709693c2516b76b2490f4a5f984e"
+    },
+    {
+      "path": "v1/audio/months/months_may_zh.mp3",
+      "bytes": 7776,
+      "sha256": "b30290883ef676ea672dd3b1f3b7d202bee360fd961a35aaed4e89d60f8cf5c9"
+    },
+    {
+      "path": "v1/audio/months/months_november_en.mp3",
+      "bytes": 12096,
+      "sha256": "55ccc147f2209b73a83f0cc5e9bc8bdc32398b8dddc946a7c1137d4f211524ab"
+    },
+    {
+      "path": "v1/audio/months/months_november_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "22a0fdf4aa2c2d9fe87e10364960adf57f04ca8fd68975ae629fc69a1f031a48"
+    },
+    {
+      "path": "v1/audio/months/months_november_zh.mp3",
+      "bytes": 9072,
+      "sha256": "fe9df1cbe66b5ac424815fa32ec535a1bce52a35b81e4ee6e68c4769d78c799d"
+    },
+    {
+      "path": "v1/audio/months/months_october_en.mp3",
+      "bytes": 11952,
+      "sha256": "0f3f2c26e07450783bd01c8cc0511c3edde6c89a554247dc57affdd6d6d292fd"
+    },
+    {
+      "path": "v1/audio/months/months_october_en_female.mp3",
+      "bytes": 10512,
+      "sha256": "dfad0c40fe1a02dd34e825a60cb605ce8e0e3b9124615a032f975eff21b3dc5e"
+    },
+    {
+      "path": "v1/audio/months/months_october_zh.mp3",
+      "bytes": 8352,
+      "sha256": "0e47bc268de053a002c265815c41cc3c0ff2ba57d605eb980a3f85780cde2620"
+    },
+    {
+      "path": "v1/audio/months/months_september_en.mp3",
+      "bytes": 12672,
+      "sha256": "70b483a66d8cb1d0e83416d3c086cbd63d436cf7d4437d42695dc401d72619d4"
+    },
+    {
+      "path": "v1/audio/months/months_september_en_female.mp3",
+      "bytes": 11088,
+      "sha256": "b224296f79301c5cd425f5ab1e88327d41a3409f3ab61b223eb7f19d58cd85db"
+    },
+    {
+      "path": "v1/audio/months/months_september_zh.mp3",
+      "bytes": 8064,
+      "sha256": "8177b47b49146bb225f510036b29cd19f3636cdfae2efd11ecbd944a7f5786d3"
+    },
+    {
       "path": "v1/audio/movement/movement_balance_en.mp3",
       "bytes": 11952,
       "sha256": "aad767ed68176e2b0cba015bbae1b693e5a865a3c9d92d8aea1f8259375ec215"
@@ -7609,6 +7789,66 @@
       "path": "v1/audio/sea_animals/sea_animals_whale_zh.mp3",
       "bytes": 7920,
       "sha256": "024350461f1f2933a5968753729ab29ec127c136c7f19ec59cfb6258267c7b33"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_autumn_en.mp3",
+      "bytes": 10512,
+      "sha256": "7f2b2b40bf533c968b0e7eeaca4d3247a5602df628f42005fb6f5589c7906379"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_autumn_en_female.mp3",
+      "bytes": 9072,
+      "sha256": "e98e49e13c3fcb4f18087ee39e965dd5a10f1444ab7a8cfc88cd46e250eed08b"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_autumn_zh.mp3",
+      "bytes": 8208,
+      "sha256": "49ede1a620d85a42ff4ac0d084094e4512c8675a560be744ad5a94bcfaad6d10"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_spring_en.mp3",
+      "bytes": 11088,
+      "sha256": "3b158964d2013159bf33355a5edf85b37409e2365575ac6f1a6c412fb2574096"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_spring_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "b18d85607595d1a23d0f2ec2ad53bd7cc096adcdbfb2535caecc9906004bc667"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_spring_zh.mp3",
+      "bytes": 8208,
+      "sha256": "674f3c6ebfe2d59e69979c2d825215452e0e41666dec6baa6cdfb5384ec99026"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_summer_en.mp3",
+      "bytes": 10944,
+      "sha256": "d6f32758e277fc9d198e65380ac6787a4dc1aa66916f9ebb9c5a22fe740c6541"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_summer_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "23773cd411002512d0060ea1712b4f2187c57d885994ac572e2fa1f1217b6c8d"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_summer_zh.mp3",
+      "bytes": 8496,
+      "sha256": "3186acc556e705ae9d0c33fd918038341bab0ddebcedb1b2ce2ec7de76cec212"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_winter_en.mp3",
+      "bytes": 11376,
+      "sha256": "5200d895fe7b29f06888b7f323dce663b89bbb744e703f39b7e13ca9ca0cc663"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_winter_en_female.mp3",
+      "bytes": 9792,
+      "sha256": "d6d10b0157046c8c88fcd5456040de5a5857dad29311a99e83f70f570a6680a5"
+    },
+    {
+      "path": "v1/audio/seasons/seasons_winter_zh.mp3",
+      "bytes": 8064,
+      "sha256": "7543684d7adbb8c17b03ede0c61ebc086606b8860d872c999cac40958eedc057"
     },
     {
       "path": "v1/audio/shapes/shapes_arrow_en.mp3",
@@ -11556,6 +11796,111 @@
       "sha256": "f46efb704b5ec41a36bc767e5ddbdd8b4b421f0e48d79df6f919e6a69be0d2f9"
     },
     {
+      "path": "v1/audio/weekdays/weekdays_friday_en.mp3",
+      "bytes": 11088,
+      "sha256": "6597f38030928bb78d93a1bba89b9b36ba62ee5c4f270d299026a42210ec8f94"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_friday_en_female.mp3",
+      "bytes": 10080,
+      "sha256": "0fea6b26376ed3b0fffaf7add7df22fda51cc46fdbeaf5e9cb6fd08c46a9d80e"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_friday_zh.mp3",
+      "bytes": 9216,
+      "sha256": "e89c0bcb422af75f85f5393686047e875b300a77ec9c8898ec520bc803b61f82"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_monday_en.mp3",
+      "bytes": 10944,
+      "sha256": "905786db2dc73d6dc232aa32b47ec1909c07f52a8b34141764f73fa57a14d3d6"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_monday_en_female.mp3",
+      "bytes": 9936,
+      "sha256": "f3af679564f77ca7aaa85445bc5627ce3896f822f361b2673f0aecb7f74db53e"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_monday_zh.mp3",
+      "bytes": 9072,
+      "sha256": "20c4f5771f049033abc1c16ccb230fc00fa1df143a50f16459609c01af3c1bf9"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_saturday_en.mp3",
+      "bytes": 11808,
+      "sha256": "7d8c8da96d08d79dbeccd1f1ed956abaa76aeb3da5b7550281d8983e9f9aab58"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_saturday_en_female.mp3",
+      "bytes": 10944,
+      "sha256": "b99396efeec37b2e7d2a81bceb9af98b3a77e2b234f3d0ec8e989f68c25508d6"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_saturday_zh.mp3",
+      "bytes": 9072,
+      "sha256": "f4a72f46019e5d12dade8ba8717d51ed5713bcd86153a531f1ff95aa3dc41e1e"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_sunday_en.mp3",
+      "bytes": 11376,
+      "sha256": "2013e8f8995865796bdcf5db033f7e9e67b08236f5b47ff9252637deae6e85cd"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_sunday_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "238f736281e73cf37167b7f25a1f2852000138ca5b47a11872eda637c16cee3b"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_sunday_zh.mp3",
+      "bytes": 9216,
+      "sha256": "91d141f6d0bd3944dede86d3ca10bc9bdcc114840029888e0d41b68cef34b959"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_thursday_en.mp3",
+      "bytes": 11520,
+      "sha256": "ccf0c0a0915c397e072241bfce65c1dde66a187709a5249f8cb27529310e2880"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_thursday_en_female.mp3",
+      "bytes": 10368,
+      "sha256": "74ca185a313f38027b255e733311e2809bacd003c8179033a63cdfed610c2d17"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_thursday_zh.mp3",
+      "bytes": 9360,
+      "sha256": "7e4e0e3216a890559af89786778848bfed24af645f80280a9d03cb061779f222"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_tuesday_en.mp3",
+      "bytes": 11376,
+      "sha256": "b22409b68743899a3337832959e2160556bd279b51a347d9ce779c60fe707154"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_tuesday_en_female.mp3",
+      "bytes": 10224,
+      "sha256": "70c77389e0bf794d9557fdd620d4b16cb3ae50ee64ca0f17f828329d3bfc4a55"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_tuesday_zh.mp3",
+      "bytes": 8928,
+      "sha256": "d4732e3ea0a954a4375bb1aa5889c0c756fb4f8c3119c1cec3faa7427996c537"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_wednesday_en.mp3",
+      "bytes": 11664,
+      "sha256": "e4fabdc0d0dab3953a407b8bc350a2019b0f8ee3840b6a377247ddcceb1dad7d"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_wednesday_en_female.mp3",
+      "bytes": 10656,
+      "sha256": "fd62574cc2d962bae4087865c258bc30ff741b7358c523c180a6518cb4bb1783"
+    },
+    {
+      "path": "v1/audio/weekdays/weekdays_wednesday_zh.mp3",
+      "bytes": 9216,
+      "sha256": "771b34eabfe8718ffa4c96ba08801f5f01e7458bb1f1eb286929b5b933433196"
+    },
+    {
       "path": "v1/audio/wild_animals/wild_animals_bear_en.mp3",
       "bytes": 10224,
       "sha256": "5fe725f3c15f695309747b9bd39b370f4e001b196bc893ade4cef692e3ec0cd9"
@@ -12271,6 +12616,11 @@
       "sha256": "09888670688e31ab5ad35bac0b9ddcc29ff065aa63b86ed9bc480444fbae4a2f"
     },
     {
+      "path": "v1/images/categories/months.jpg",
+      "bytes": 115787,
+      "sha256": "f09d3ae033c37c36efc6970e102373a7995b4324f8cf96c413d460c6be84b351"
+    },
+    {
       "path": "v1/images/categories/movement.jpg",
       "bytes": 40569,
       "sha256": "935005a487ff201ba74a56f7fcf63faede0def906d0704525b52656e30b484fe"
@@ -12314,6 +12664,11 @@
       "path": "v1/images/categories/sea_animals.jpg",
       "bytes": 40750,
       "sha256": "d35e6948c3f0580a953d869a23b4297c3665382629d50437d84bf5fbb09ec4c7"
+    },
+    {
+      "path": "v1/images/categories/seasons.jpg",
+      "bytes": 127204,
+      "sha256": "3660b6e05898980e48c0473f0882a93f5132dae52134a447a0a8e214fa2dec3d"
     },
     {
       "path": "v1/images/categories/shapes.jpg",
@@ -12374,6 +12729,11 @@
       "path": "v1/images/categories/weather.jpg",
       "bytes": 28441,
       "sha256": "72177f9bc427f025f983d3d020c90972baf9573149a25a07a88c80516789dd8a"
+    },
+    {
+      "path": "v1/images/categories/weekdays.jpg",
+      "bytes": 109665,
+      "sha256": "d5afed3985b874425ec6815243a1c759c4820aee5a190b5c59a71a9cfb99c9c8"
     },
     {
       "path": "v1/images/categories/wild_animals.jpg",
@@ -13731,6 +14091,66 @@
       "sha256": "873d9feceea76942a75f10319fa1ed05b7fd10a206a5b43f7487179e6a95c3e7"
     },
     {
+      "path": "v1/images/months/01-january.webp",
+      "bytes": 20628,
+      "sha256": "26617d75272e679a7d564671ae17b41653609e6f3b1413d72271a0bfdd61e3a2"
+    },
+    {
+      "path": "v1/images/months/02-february.webp",
+      "bytes": 18248,
+      "sha256": "0fd419c081f503ce57744ee538e3364e978efae5b0abb0e5be7645a201b5891b"
+    },
+    {
+      "path": "v1/images/months/03-march.webp",
+      "bytes": 31094,
+      "sha256": "ac6d2345278aea054a0d01f969339c25ba6b10fd189aef38b9bbb61d015bbd4a"
+    },
+    {
+      "path": "v1/images/months/04-april.webp",
+      "bytes": 21164,
+      "sha256": "e6e013fdf546e899bbf5a71cb3bf25e469e798c606489e2d64a05b505dd6b317"
+    },
+    {
+      "path": "v1/images/months/05-may.webp",
+      "bytes": 27076,
+      "sha256": "69a60152d5103f69b1d5aa919b813f956bbbd60f631eae45b8571957dc8b1083"
+    },
+    {
+      "path": "v1/images/months/06-june.webp",
+      "bytes": 18516,
+      "sha256": "1bf13bf330293e503544c1f42fb07f76ffc2239dd623180c661f152ef242d9c4"
+    },
+    {
+      "path": "v1/images/months/07-july.webp",
+      "bytes": 22792,
+      "sha256": "71369d65a1d1300695df2a9a406fdc8745160889cdb3ed1c647f2552656fec8c"
+    },
+    {
+      "path": "v1/images/months/08-august.webp",
+      "bytes": 22806,
+      "sha256": "528b5a0925f9cfa0949e9c27baf0406e09cc25426fa8fee9eb2b9feb34854442"
+    },
+    {
+      "path": "v1/images/months/09-september.webp",
+      "bytes": 20162,
+      "sha256": "0a64d5ce20854e5247a812548c6a5701a355fd28af185a512506b89d072455eb"
+    },
+    {
+      "path": "v1/images/months/10-october.webp",
+      "bytes": 20012,
+      "sha256": "01b110ddcd7c92857b15d58211ffeb8385d38ef6e42859ae33ace895d9d9f29a"
+    },
+    {
+      "path": "v1/images/months/11-november.webp",
+      "bytes": 22458,
+      "sha256": "d91fc3cc0de089db4c6e52479535e00f3c0c5e9e2eae62b716165893110d7be0"
+    },
+    {
+      "path": "v1/images/months/12-december.webp",
+      "bytes": 22514,
+      "sha256": "794dc0bba3f48aa12caf58d450ed38ae9b1103d0ac64b9c5bbf0b3a7d5c3b901"
+    },
+    {
       "path": "v1/images/movement/01-run.webp",
       "bytes": 18590,
       "sha256": "e2bdcb373dc2281ea750f90e84bec19cc20866215505bcf84d11c6b693cd41ee"
@@ -14584,6 +15004,26 @@
       "path": "v1/images/sea_animals/20-wave.webp",
       "bytes": 27950,
       "sha256": "2f02323b95c7459fc448264065c6cd832528d13d79a2b50448420025fd0e638a"
+    },
+    {
+      "path": "v1/images/seasons/01-spring.webp",
+      "bytes": 35678,
+      "sha256": "2ad472beaff31da74a8cfe309638eeaf84fd58d6a6cd46c17a63fa963a529326"
+    },
+    {
+      "path": "v1/images/seasons/02-summer.webp",
+      "bytes": 33586,
+      "sha256": "fd61a1abbb2138e9cfdb2b87d7c31d156caaa85ebbced597b7022f7d4710448d"
+    },
+    {
+      "path": "v1/images/seasons/03-autumn.webp",
+      "bytes": 35554,
+      "sha256": "5bda4609d0c6763ae71415d2a78fc9ab40f4abd89d612140c112f58fc29bb419"
+    },
+    {
+      "path": "v1/images/seasons/04-winter.webp",
+      "bytes": 21666,
+      "sha256": "70e27ca48bbedcc2856a7963456fe581b719211fa0369841c0696ebc873281d9"
     },
     {
       "path": "v1/images/shapes/01-circle.webp",
@@ -15899,6 +16339,41 @@
       "path": "v1/images/weather/20-sunrise.webp",
       "bytes": 21162,
       "sha256": "537e56bdb13abd41d0d992de2601a3205f9eb1edb8139cb135b8c544f1520d88"
+    },
+    {
+      "path": "v1/images/weekdays/01-monday.webp",
+      "bytes": 36706,
+      "sha256": "b1d163b76d4735d3dadea1dfc954f1435eb9ebf351eb4b6322f1c27f7052b975"
+    },
+    {
+      "path": "v1/images/weekdays/02-tuesday.webp",
+      "bytes": 37240,
+      "sha256": "f068ae55724681edf6e217157382bc9d5bf13ac65e6e437677c9b2218a65a11a"
+    },
+    {
+      "path": "v1/images/weekdays/03-wednesday.webp",
+      "bytes": 36546,
+      "sha256": "097a45d3354ecf701e8d8a59bbb77795beeb7f179087d23b51eb0e936ff375a1"
+    },
+    {
+      "path": "v1/images/weekdays/04-thursday.webp",
+      "bytes": 37288,
+      "sha256": "e3eace2ae771aa67b52a56b0d0afd10e49a8f175538da49b2d6ecbed4301cf7a"
+    },
+    {
+      "path": "v1/images/weekdays/05-friday.webp",
+      "bytes": 39086,
+      "sha256": "d5aa3d52fb03992b935676ba0a4b375c6cc4e3d0221bd5836dc48f08a5638243"
+    },
+    {
+      "path": "v1/images/weekdays/06-saturday.webp",
+      "bytes": 37192,
+      "sha256": "dfe418094e569d81707cfadbd11f3ebf645e92f285dd5493a43a31d94e61217b"
+    },
+    {
+      "path": "v1/images/weekdays/07-sunday.webp",
+      "bytes": 27394,
+      "sha256": "b8c233c25a650c033537c189a0b0828e3c9f9abd36b3f7ea7a9abdb20ed8bd99"
     },
     {
       "path": "v1/images/wild_animals/01-lion.webp",
