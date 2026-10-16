@@ -1,9 +1,9 @@
 {
-  "version": "v1.10.0",
-  "generatedAt": "2026-10-01T03:54:57.083Z",
+  "version": "v1.11.0",
+  "generatedAt": "2026-10-16T06:27:21.048Z",
   "basePath": "v1",
-  "fileCount": 3294,
-  "totalBytes": 43629663,
+  "fileCount": 3429,
+  "totalBytes": 44032575,
   "files": [
     {
       "path": "v1/audio/abc/abc_a-apple_en.mp3",
@@ -9649,6 +9649,681 @@
       "path": "v1/audio/tableware/tableware_tray_zh.mp3",
       "bytes": 7920,
       "sha256": "ce1519198e0a053a9a2284e39b01185777ad9afe3123753358515210beae0639"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_01_npc.mp3",
+      "bytes": 4824,
+      "sha256": "7477a9bde375167fdb7dfdf0301d786d99b0dfecfce11a15df3639b92ef3f242"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_01_npc_zh.mp3",
+      "bytes": 3240,
+      "sha256": "b27f4f408db52e36dfea74147855e632156274ec53a09ad12d6562bc5f46d3ab"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_02_learner.mp3",
+      "bytes": 1152,
+      "sha256": "4df38f1882450545d8124f364c7cc3450c80ba8559647fcabfcf43f4f71ed15b"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_02_learner_zh.mp3",
+      "bytes": 1512,
+      "sha256": "a6540764685823d6592d7a7efd3652fe12f10489212907f5b1345044006bfb91"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_03_npc.mp3",
+      "bytes": 2304,
+      "sha256": "89ce008da9880e799fd6ce11d0b96f8abf40beeaeb6eec78caf09aa856a6eb9e"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_03_npc_zh.mp3",
+      "bytes": 1584,
+      "sha256": "c2295c531577aeb016d8913fdb13affb46eee4b6eefe1a3e126e16e10bc5678f"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_04_learner.mp3",
+      "bytes": 2808,
+      "sha256": "86247d11d16715c25c64fc2a006572cdb9c914509dcfbce2c35422d7785f9023"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/age/turn_04_learner_zh.mp3",
+      "bytes": 1800,
+      "sha256": "ee0b116d862baade47c218f6832a0cff9673a57242df3f194a264d179f6d44f1"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_01_npc.mp3",
+      "bytes": 6840,
+      "sha256": "e82342140b51c240e1bf704b5cdb76727ec9a20751b6247394e94a194c9b171a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_01_npc_zh.mp3",
+      "bytes": 6552,
+      "sha256": "33f2568695ccbe45520cf5e106521e24cbcdee516e41f71f6940478ddebfdcf6"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_02_learner.mp3",
+      "bytes": 7992,
+      "sha256": "d7d8d6388c7938207881d413e125a828092653d0f5915c1eb0f2c9fbf7faaebc"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_02_learner_zh.mp3",
+      "bytes": 4896,
+      "sha256": "20274c10c4f4416a66017cab0a5b8e3a74f11e3a3ddff269b621d1d7db7973ab"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_03_npc.mp3",
+      "bytes": 1440,
+      "sha256": "29edf2c1009c6dfa427424d04396a2c8ba9232bab27c9676fc1dc1397dbf2c5d"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_03_npc_zh.mp3",
+      "bytes": 1224,
+      "sha256": "de6dda2c5b9fbec04be0c0c16c987adf565769ce9db64c7137d63d1c89f5f0d2"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_04_learner.mp3",
+      "bytes": 2664,
+      "sha256": "61e81c47bf0583c6b9c4c2f4ef3e29e92774c4a91464f78d49641f679fd68f85"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/family/turn_04_learner_zh.mp3",
+      "bytes": 2448,
+      "sha256": "efb5b3e1d0398c8e275474a29ddc495fec5b981455bc6c90907df4e11502915a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_01_npc.mp3",
+      "bytes": 7416,
+      "sha256": "ac003db17081590df552f1cb67f887c7ec2c01d73e956e0c09351776de1b08de"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_01_npc_zh.mp3",
+      "bytes": 6768,
+      "sha256": "5089a9dff2d997273c988e43a71bd80060f7fe33da999ddc44dc8920978e5e07"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_02_learner.mp3",
+      "bytes": 2664,
+      "sha256": "8a112c2a5b2159bea2fa83a3a08bda67b7d184ba15ff4323771efaed1f6205ac"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_02_learner_zh.mp3",
+      "bytes": 1872,
+      "sha256": "9a5c18a32b7db8a766ae847863380d451c18748af9082b07e854f577c76bd650"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_03_npc.mp3",
+      "bytes": 2016,
+      "sha256": "b91abe02150604a74c846935193f99f7abbec4db5c3992eaa6787a295d7a7c85"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_03_npc_zh.mp3",
+      "bytes": 2232,
+      "sha256": "919e2ce4758d03d249f42881ce05da5afe7ba0059e85c4f225bfe98782748f2b"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_04_learner.mp3",
+      "bytes": 3744,
+      "sha256": "7c78feacd72e7f8f6d278187c6d01b27c6261c2dc86ac0b968c9436551f20fea"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/greeting_name/turn_04_learner_zh.mp3",
+      "bytes": 3024,
+      "sha256": "67d11d03de056db6f160103af8fb7547344f302b9b46305401db14c48916105a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_01_npc.mp3",
+      "bytes": 5904,
+      "sha256": "0c28d1971af509575093ecf1e67925a647bdfcbe53b43af5110e5f58756ba912"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_01_npc_zh.mp3",
+      "bytes": 6408,
+      "sha256": "ef5834c30525d023138bbdf1757791bed990952a5aa9b749a4220f1e50330f48"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_02_learner.mp3",
+      "bytes": 3312,
+      "sha256": "945d96351bc37e136d6550daf71fddbfdf8aa375e3c6ccb75660d82a214a1361"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_02_learner_zh.mp3",
+      "bytes": 3456,
+      "sha256": "c9a81abdcc5b93eef86c6fd6e1a93fdc7e922987fbd71dca034198fd65f28e5a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_03_npc.mp3",
+      "bytes": 5688,
+      "sha256": "0532025fd782636562ba39fc97b56339d0cec6b0f57338cd0503770c0fe72c6a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_03_npc_zh.mp3",
+      "bytes": 5184,
+      "sha256": "54e7321bbf8f115d0667b134d66a1e9c8f7922acb040fc9b3a8c3d5743585163"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_04_learner.mp3",
+      "bytes": 6552,
+      "sha256": "c8ada20d0452914e713a337c8fd4851f69f78d8e36100ec239cab7745cff8b5d"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/help/turn_04_learner_zh.mp3",
+      "bytes": 3600,
+      "sha256": "23e117185a23446810a7f9ca785dc79b96be828c2b2073e7703dbc1b8069d1a6"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_01_npc.mp3",
+      "bytes": 4824,
+      "sha256": "751e58647b819b9e14e294f365c52972c47ffc98888e4fccb883e2d6e4a510d3"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_01_npc_zh.mp3",
+      "bytes": 4104,
+      "sha256": "adcb632c795eab05974db983d3021046307fea57dc878dece81687f2e2433021"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_02_learner.mp3",
+      "bytes": 7056,
+      "sha256": "d9663c9e569d7922a742f748c42935e76f9089ad4458d55c95102b4d5711528e"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_02_learner_zh.mp3",
+      "bytes": 3672,
+      "sha256": "9217454126e32f004a61c1096f8b1ae715d1eb4e05546d8663f46b2206381096"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_03_npc.mp3",
+      "bytes": 3096,
+      "sha256": "df44eb021741a7b2a40c135a989010bc609d4bd14370b8bfd44552ca419c2e79"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_03_npc_zh.mp3",
+      "bytes": 2232,
+      "sha256": "039d80e5a9ab4a4cedab1d3d9ef6a0b127f2be2b4b37c910f00f8852c4a2d982"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_04_learner.mp3",
+      "bytes": 7272,
+      "sha256": "1894dc347c7385a31dacf90c35905e14d06566194db39135a3de3d64d1b8cca2"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/likes/turn_04_learner_zh.mp3",
+      "bytes": 3168,
+      "sha256": "bb36aff7ac06d18fac104fa49dad0e3eaec1ea44e0753635d86b977e0530f6ce"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_01_npc.mp3",
+      "bytes": 4968,
+      "sha256": "a3d851cc9b4f5778f665226d2fdd05489ed265eacafd38041dcafc94f0733724"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_01_npc_zh.mp3",
+      "bytes": 3888,
+      "sha256": "5635bcf9b0fc053a87210dad33404d71ccdaf01b8e8d577a9aa69c978b12b7b9"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_02_learner.mp3",
+      "bytes": 1008,
+      "sha256": "f66af9689e760b45744d3a35432b11f5b5ab252b32323eae675179ee2fac7d2c"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_02_learner_zh.mp3",
+      "bytes": 1512,
+      "sha256": "da5939bf5d293e406a534a7a6e7e416b4d66fb18d1149cc01d4e73aa216ead41"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_03_npc.mp3",
+      "bytes": 1656,
+      "sha256": "a1066ce237c02942bd21ae937fbc7dd133813229ecca8d3363146cc3a40b5992"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_03_npc_zh.mp3",
+      "bytes": 1872,
+      "sha256": "582ac6f7140bc20d07f8d5bc1aca1ff6dfec07985ac2ef3c1c6ec4e293b2bb53"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_04_learner.mp3",
+      "bytes": 1584,
+      "sha256": "f5d0c10c74fd66f685e5851f0a3b5132edaa1533421f74dbf4d1dc1fce079a9d"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/play_together/turn_04_learner_zh.mp3",
+      "bytes": 1584,
+      "sha256": "9ce6ffa87f24bd05b1c01d8334e665e88f61b66c3a4929a796e0ef0dd7d9b9a5"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_01_npc.mp3",
+      "bytes": 4536,
+      "sha256": "4d5993b476198fda7e4a74a6f2d9c597d3617ac1261117798dcc38790c7925d7"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_01_npc_zh.mp3",
+      "bytes": 4608,
+      "sha256": "41db2243381e581124b3f91d07d51221375be4c6f3f97dcb7484a74d82bff70b"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_02_learner.mp3",
+      "bytes": 4320,
+      "sha256": "48030ab377898789b20acc3c10fddd7f729c09548f37715fb4902a7235995aa2"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_02_learner_zh.mp3",
+      "bytes": 3960,
+      "sha256": "652e318cb5f54603daf7ce4a52fc4cac587f814cbce9a798f91eac5e0131cb44"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_03_npc.mp3",
+      "bytes": 5112,
+      "sha256": "ae491daec9e44599df136a0b920fd8223ab4fbc154c14584643bc5e4b493d43f"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_03_npc_zh.mp3",
+      "bytes": 4248,
+      "sha256": "47d4be7f0c8c39f4e0652940cd982eb78dfc35be8e4f0510b2eace02aeed3a15"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_04_learner.mp3",
+      "bytes": 2808,
+      "sha256": "0ca3e53add159b5ca065dab61bbbd1d9bfba7a21256e8c02200b13e88c955b06"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/restaurant/turn_04_learner_zh.mp3",
+      "bytes": 2880,
+      "sha256": "fc4451c29bd5e5756c8df98c8762f1b38dc566e5d4f9701f3e415669c00d7901"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_01_npc.mp3",
+      "bytes": 1584,
+      "sha256": "5015ce9cbf022946cbdabad095ecb6c0540999610fb81594b8b81cbf3b65f5e3"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_01_npc_zh.mp3",
+      "bytes": 1800,
+      "sha256": "1a72a7870dc252c771f418b09da03715d8add662a7c8bcca5f5605ad63ac3b70"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_02_learner.mp3",
+      "bytes": 4176,
+      "sha256": "cf7ce2c53b450f82d1b6cd1442bdb14608e618a94b979dceb04503bd9bab55da"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_02_learner_zh.mp3",
+      "bytes": 3888,
+      "sha256": "e23bcdb77dc748f2f3ae8a51fe4b510740c41f283e63348227686530fa5d75bc"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_03_npc.mp3",
+      "bytes": 1584,
+      "sha256": "03ab3e39813b421a569e132d1a25ec38bcf46fca0179dec2bacb05166c6235c6"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_03_npc_zh.mp3",
+      "bytes": 864,
+      "sha256": "9cdcf065ad4dad80bd1247b053f42cca62da463fd2b5d788ab459946e0c4905a"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_04_learner.mp3",
+      "bytes": 1440,
+      "sha256": "c5ff2c47f7e956d6e69068ddc409d576800e8c0b9b48654b989e482facc516cf"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/shopping/turn_04_learner_zh.mp3",
+      "bytes": 1080,
+      "sha256": "1c54c210636da72f76d88a56a63baf19b52c197420b5fb27829f25284ecd2414"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_01_npc.mp3",
+      "bytes": 7704,
+      "sha256": "b79dabfa9458c9bec549b1d627c4504a11bc55b5fac42a366f25867d75a17a9b"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_01_npc_zh.mp3",
+      "bytes": 6336,
+      "sha256": "ddf43a32f0ed0dbc3ea75afd3ee9979296c6c84d13d0568ff12d7f21dde3087c"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_02_learner.mp3",
+      "bytes": 2520,
+      "sha256": "7089745690259df6c6c6310148ec82201b9738196cfda38b56bc14b1d4370f43"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_02_learner_zh.mp3",
+      "bytes": 2304,
+      "sha256": "09cc6bef79abaefa79142000c44a9affa3bd31f3f0530d369d8b813fcdf0e367"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_03_npc.mp3",
+      "bytes": 2016,
+      "sha256": "2700370fdb6cf0e2b9c2bc8fdd221564cfcf98ab7d440bb219e993f53597248f"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_03_npc_zh.mp3",
+      "bytes": 2232,
+      "sha256": "6f02595e110fa58120d6a433738095b9e0d66d6b0774698c06cdfed6ac41b22c"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_04_learner.mp3",
+      "bytes": 3744,
+      "sha256": "d5c93aed530179d6128d63a2451b5c7a454de3e9a0f354bf2bfd4b5fcc1cd51f"
+    },
+    {
+      "path": "v1/audio/talk/dialogues/where_from/turn_04_learner_zh.mp3",
+      "bytes": 3096,
+      "sha256": "e44b459459523f5c65879749e95946e53df1f2fde1e9d618e36fbc1b83960b16"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_apple_en.mp3",
+      "bytes": 4464,
+      "sha256": "870677bcfa598b20f7665bc971dd795fa3fd67e93e2592ae46a4aadb1e7ec29a"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_apple_en_female.mp3",
+      "bytes": 3240,
+      "sha256": "24047ae5776db59fbe410307adf9828e2004ffbd6e5815993b483040435b038f"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_apple_zh.mp3",
+      "bytes": 3888,
+      "sha256": "f10026151c52fac94cb17a0367786490a8e1e1435893482e3a968247a4c61099"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_pencil_en.mp3",
+      "bytes": 4464,
+      "sha256": "5af34cccce2262c0c726cbf8e57c3e9eaa03a8a4dae590057f39c1c7958d3d13"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_pencil_en_female.mp3",
+      "bytes": 3312,
+      "sha256": "4cd9ff7e6758c1aa84321cc5031756c32b186f80c641ee6e9c9dc2cd1527824d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_pencil_zh.mp3",
+      "bytes": 3816,
+      "sha256": "2baf1c9f218699c92e03e27a0b7eedd4346114057286514da82a86b87f177c11"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_water_en.mp3",
+      "bytes": 4680,
+      "sha256": "5543f6910a45933996004c41cf8e5e269bf6a0f6a98b5f3e6988dc370d762957"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_water_en_female.mp3",
+      "bytes": 3240,
+      "sha256": "76dcb919bf51d6aeeb3d487214abbc988a2864a26a32a3dbd02ca3e64b3089d5"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_can_i_have/example_have_water_zh.mp3",
+      "bytes": 3528,
+      "sha256": "313c5c2b246e56ae627ef0b0ed6eb46f85fbb3accec87b81dbc25b5f4a5e61a6"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_apples_en.mp3",
+      "bytes": 2664,
+      "sha256": "de0658f1d66377178f1577ecbc611ddb25093135ceeb737dbf0effe75d122fb4"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_apples_en_female.mp3",
+      "bytes": 2160,
+      "sha256": "7065e4b51aecb7c9d51b67fa67179e37c7fc6b271d896eee06ea1a3655e0e006"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_apples_zh.mp3",
+      "bytes": 2520,
+      "sha256": "d7bb0d17610f2354900efda1085fa9cca6df86cb572058154cfadd7e46483c6d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_cats_en.mp3",
+      "bytes": 2592,
+      "sha256": "83c8c5e28441c788da2681ffe5dac8d8fc46349a462ba2d741337b7a5f091d9c"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_cats_en_female.mp3",
+      "bytes": 2160,
+      "sha256": "0b8b2ba4ca77acb2d3f1eaa9f9ebf11f35626d3fa87a5c578db37365df96fa5d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_cats_zh.mp3",
+      "bytes": 2088,
+      "sha256": "031aa1f7a622147ff1aa7a667f130b0430afc51bbe17abebf1da34a6740db91b"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_drawing_en.mp3",
+      "bytes": 2520,
+      "sha256": "89ecb61a14a8d7996f05bd14e430c41bcd5424fbcb451353fc0f5d855fca9b7a"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_drawing_en_female.mp3",
+      "bytes": 1944,
+      "sha256": "5f7d94f937048ff72c4603be312c12af2787227793ba8c756094fcec59ca9841"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_do_you_like/example_do_like_drawing_zh.mp3",
+      "bytes": 2520,
+      "sha256": "8abde6097ef09aeeb29ff6fa0526c02da8aa4909c7eba8eaab691ee0e2cb67d6"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_apples_en.mp3",
+      "bytes": 2592,
+      "sha256": "b01bce674056b6d9b465f752a4a6b97448e9c120591c73637a6cb95167ffb162"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_apples_en_female.mp3",
+      "bytes": 2016,
+      "sha256": "40500fd7e353b16f454914ad11c4af618dd64c9fc6f25176e845e7ecf5d62960"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_apples_zh.mp3",
+      "bytes": 2304,
+      "sha256": "be24be4af4a239751c257379ded660c6d472a3db33b46256b3962a3943c760b2"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_cats_en.mp3",
+      "bytes": 2592,
+      "sha256": "b09cdbdb5be557082f6c6745ff8e1abc718265402ddebfa4fc55538c502ce7a3"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_cats_en_female.mp3",
+      "bytes": 2016,
+      "sha256": "29149232e0afb2df6cc5e218e91aaecea2066ae13bfcc1e0d7f7b59b5052e7f5"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_cats_zh.mp3",
+      "bytes": 1728,
+      "sha256": "e3dbf5972cb52edd0da8ceb7f61b21cb93640c4f1caf081f25bad1f6194789c3"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_drawing_en.mp3",
+      "bytes": 2520,
+      "sha256": "2d134a42b3b86a401b0cd25205129248db8a2b21fd6be47de04e153fbbdd3cf7"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_drawing_en_female.mp3",
+      "bytes": 1944,
+      "sha256": "a580867291bf57f2c5d43e0037a98b1fa5591b0335b608eab9cae011edb9b8b9"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_i_like/example_i_like_drawing_zh.mp3",
+      "bytes": 2232,
+      "sha256": "ea21eedaabd7a50fbca565807da26750ebd9bf9af7d3730d8cd69e346f1ea281"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_eight_en.mp3",
+      "bytes": 1152,
+      "sha256": "6edae9f0cc1f62a53c1462dc5d591d173e658d20f663b8f2d97f16b1711f00ff"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_eight_en_female.mp3",
+      "bytes": 1224,
+      "sha256": "5870ac2cba112ce06eda50defda5f5fb65de106e86b8ef12d16842587ecdcc3d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_eight_zh.mp3",
+      "bytes": 1512,
+      "sha256": "dd12c718cce24beb20fc91b58ae460f7ed33b21e1427ed24ef12f67c274e17d8"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_seven_en.mp3",
+      "bytes": 1944,
+      "sha256": "3a29c649ef6886ca124d1146763c9c41d8671e60947518ef2fb1095cd874bdf1"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_seven_en_female.mp3",
+      "bytes": 1584,
+      "sha256": "9bff5334f2744a48d48970ceb3f1cb33e91ab6a4c8963c92ba4a5163c25a1537"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_seven_zh.mp3",
+      "bytes": 1584,
+      "sha256": "ca9bbe3de87b569fee4847b5a06481578168c42c5017e8e03de5eef51832838d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_six_en.mp3",
+      "bytes": 2088,
+      "sha256": "1b7f4b076979a1b54b32a8e0273099727cab2b41306b8834f86f4e7eb6c73d80"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_six_en_female.mp3",
+      "bytes": 1584,
+      "sha256": "e91bfd52a35a80e7272d7a7931144281541155f28d1a02165ca3f98d9b5f0815"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_age/example_age_six_zh.mp3",
+      "bytes": 1512,
+      "sha256": "3f814e505e928f1b191f988e63e01c9a9448c0748636ffec779462ed33544047"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_australia_en.mp3",
+      "bytes": 3096,
+      "sha256": "60fe1e2cddc131b3851ea6b1cacecc04b47975da73dbe1ae5b5c63e97788c7a2"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_australia_en_female.mp3",
+      "bytes": 2160,
+      "sha256": "e8a8ba8d7fd60361dbe145d0b2523e112d38e7c17984aa7963fb30e2e4e22a7f"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_australia_zh.mp3",
+      "bytes": 2880,
+      "sha256": "88fc93815d612b3236e1022325fc6d6fa8fbb8a6dcd446cd5b82f3fc22af243d"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_canada_en.mp3",
+      "bytes": 2736,
+      "sha256": "3752705dd329e2b578d0e5276efb330f046d745c5a75962c8eb2a5e1d5a0f258"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_canada_en_female.mp3",
+      "bytes": 2016,
+      "sha256": "45fd9dab7436e3eddfeef5501e64f40c80478d402426d0de01c560d67a13667b"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_canada_zh.mp3",
+      "bytes": 2448,
+      "sha256": "08a9ba5427a2ef88255fb45594988a37db079eebb68bd437076c48675ecc90d5"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_china_en.mp3",
+      "bytes": 2520,
+      "sha256": "4c53a0f5d5152f3ae92085e993aed7b05f04e7f9ef95c87c789853e652140f80"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_china_en_female.mp3",
+      "bytes": 1800,
+      "sha256": "66769a52fa1a9ecb3226583307ececa4add7c1ae1e1e60b2548131fcd1f14c5e"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_im_from/example_from_china_zh.mp3",
+      "bytes": 2232,
+      "sha256": "63f7327830bb5a8927fa868a76d70a9c48cff080dd6ba44f212dbadcdffe65b0"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_draw_en.mp3",
+      "bytes": 1872,
+      "sha256": "2f3c25aa382d8fc6c0a51fa53510d1d061f0061f80b0f1bdcce91da31f533002"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_draw_en_female.mp3",
+      "bytes": 1584,
+      "sha256": "f6c7756de6e88cbdd32e2b7dfe493cc529cfef100ec292bb0b4c2911a95894fb"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_draw_zh.mp3",
+      "bytes": 2664,
+      "sha256": "7c5f1d4178b56a23c9c96bb287cf06d9ae096a4888ef27cfc2d66c76779f2919"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_go_en.mp3",
+      "bytes": 1584,
+      "sha256": "f050371e9bbf568c42fb089b8473c11495e03eb9b46a84a58e89ba2301072864"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_go_en_female.mp3",
+      "bytes": 1512,
+      "sha256": "9914f69980e22dd87a0d6ff32fb78f46670a686f1e62cd40972d419b67d4ce30"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_go_zh.mp3",
+      "bytes": 1656,
+      "sha256": "e6b8cc8c7392ba8edd3907fac8537d2cfbd94740567e7e0f906e9cb6d04aba3b"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_play_en.mp3",
+      "bytes": 1728,
+      "sha256": "ae5fe91a054863f4a67b816c60c612de315680dc6b4b5ca987b0d07b49c58ed3"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_play_en_female.mp3",
+      "bytes": 1656,
+      "sha256": "2ffacf3de8ade879f6ecdaf3b66795d136076953542060d329e1c23eca6ce469"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_lets/example_lets_play_zh.mp3",
+      "bytes": 2232,
+      "sha256": "7eb135f632a1246221975da9846c8a77808ea6bbd5f607cf9c5d8b29d5db411c"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_ben_en.mp3",
+      "bytes": 2448,
+      "sha256": "316c08d37e4133f6b15eb3c7fd3d30f0eb10f99ed686ea87287c48c42a5d29f3"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_ben_en_female.mp3",
+      "bytes": 2088,
+      "sha256": "a3fde822684bc58eec005e6e07e872eb621bd85176e9bf926b41cdd50dc4e0e2"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_ben_zh.mp3",
+      "bytes": 1584,
+      "sha256": "3ea1d6db5689bf5680104b7da85a1657ed5e378dcf3bacc2fa47c511eeeb36bb"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_mia_en.mp3",
+      "bytes": 2592,
+      "sha256": "0344d8950042d5a9c93cb8bf85dd340720f5834640a5212ce05dd58068468a05"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_mia_en_female.mp3",
+      "bytes": 2016,
+      "sha256": "17157c1a27b3a4212b3a6ae011cac6c5323bf4ff5798efd1a3a0eb35f29e64c6"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_mia_zh.mp3",
+      "bytes": 1728,
+      "sha256": "85edb663e3fed32afce110ca94c452c0530b0cd9def3856575de9b534e351986"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_tom_en.mp3",
+      "bytes": 2664,
+      "sha256": "2c012167444f16bef6ab7841342178981e33763305ea7ebd233cd13e8b542ec7"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_tom_en_female.mp3",
+      "bytes": 2160,
+      "sha256": "d617096881f86ac89e020553a33afdc44b7c468b3a50ff2239c50dc978dc43c4"
+    },
+    {
+      "path": "v1/audio/talk/patterns/pattern_my_name_is/example_my_name_tom_zh.mp3",
+      "bytes": 1872,
+      "sha256": "3ee346f4a3bc9d637e0807851c2be38d854f75d6d2480bb1c5877f9deb8fb63e"
     },
     {
       "path": "v1/audio/talk/phrase_classroom/listen_en.mp3",
